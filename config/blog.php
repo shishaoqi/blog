@@ -24,8 +24,8 @@ return [
 
     // Meta
     'meta' => [
-        'keywords' => 'PJ Blog,blog,pigjian,laravel,vuejs',
-        'description' => 'Nothing is impossible in PJ Blog'
+        'keywords' => 'shishao Blog,blog,php,laravel,C,go,redis',
+        'description' => 'Programming just for fun'
     ],
 
     // Social Share
@@ -44,8 +44,8 @@ return [
 
     // Article Page
     'article' => [
-        'title'       => 'Nothing is impossible.',
-        'description' => 'https://pigjian.com',
+        'title'       => 'Programming just for fun.',
+        'description' => 'http://shishao.320.io:8090',
         'number'      => 15,
         'sort'        => 'desc',
         'sortColumn'  => 'published_at',
@@ -62,11 +62,11 @@ return [
     'footer' => [
         'github' => [
             'open' => true,
-            'url'  => 'https://github.com/jcc',
+            'url'  => 'https://github.com/shishaoqi',
         ],
         'twitter' => [
             'open' => true,
-            'url'  => 'https://twitter.com/pigjian'
+            'url'  => 'https://twitter.com/shishaoqi0928'
         ],
         'meta' => '© PJ Blog 2016. Powered By Jiajian Chan',
     ],

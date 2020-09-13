@@ -63,5 +63,9 @@
 @section('scripts')
     <script>
         hljs.initHighlightingOnLoad();
+
+        $('.article img').wrap(function(){return "<a href='"+$(this).attr("src")+"' data-lightbox='example-set'></a>"});
+        $(".code_img_closed").unwrap();
+        $(".code_img_opened").unwrap();
     </script>
 @endsection

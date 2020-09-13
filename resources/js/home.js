@@ -15,6 +15,7 @@ require('vendor/select2.min.js');
 window.marked = require('marked');
 window.hljs = require('vendor/highlight.min.js');
 window.toastr = require('toastr/build/toastr.min.js');
+window.lightbox2 = require('lightbox2');
 
 Vue.use(VueI18n);
 Vue.use(httpPlugin);

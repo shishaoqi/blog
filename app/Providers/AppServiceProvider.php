@@ -28,6 +28,16 @@ class AppServiceProvider extends ServiceProvider
         ]);
 
         Schema::defaultStringLength(191);
+
+        view()->composer('widgets.rightMenu', function ($view) {
+            $hotArticles = Article::checkAuth()
+                ->orderBy('view_count', 'desc')->limit(8)->get();
+            $view->with('hotArticles', $hotArticles);
+
+            $lastArticles = Article::checkAuth()
+                ->orderBy('published_at', 'desc')->limit(10)->get();
+            $view->with('lastArticles', $lastArticles);
+        });
     }
 
     /**

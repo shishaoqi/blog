@@ -22,17 +22,17 @@
 
     <div class="article container">
         <div class="row text-center">
-            <div class="col-md-8 offset-md-2">
-            <img alt="{{ $article->slug }}" src="{{ $article->page_image }}"  style="borde-radius:50px;max-width:730px;">
+            <div class="col-md-12">
+                <img alt="{{ $article->slug }}" src="{{ $article->page_image }}"  style="borde-radius:50px;max-width:100%;">
             </div>
         </div>
         <br>
         <div class="row">
-            <div class="col-md-8 offset-md-2">
+            <div class="col-md-8" style="background-color:#ffffff;">
 
-            <parse content="{{ $article->content['raw'] }}"></parse>
+                <parse content="{{ $article->content['raw'] }}"></parse>
 
-            @if($article->is_original)
+                @if($article->is_original)
                 @endif
                 @if(config('blog.social_share.article_share'))
                 <div class="footing">
@@ -45,6 +45,8 @@
                 </div>
                 @endif
             </div>
+
+            @include('widgets.rightMenu')
         </div>
     </div>
 

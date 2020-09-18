@@ -3,7 +3,9 @@
 namespace App\Providers;
 
 use App\Article;
+use App\Category;
 use App\Discussion;
+use App\Tag;
 use App\Tools\FileManager\BaseManager;
 use App\Tools\FileManager\UpyunManager;
 use Illuminate\Database\Eloquent\Relations\Relation;
@@ -37,6 +39,12 @@ class AppServiceProvider extends ServiceProvider
             $lastArticles = Article::checkAuth()
                 ->orderBy('published_at', 'desc')->limit(10)->get();
             $view->with('lastArticles', $lastArticles);
+
+            $categories = Category::all();
+            $view->with('categories', $categories);
+
+            $tags = Tag::all();
+            $view->with('tags', $tags);
         });
     }
 

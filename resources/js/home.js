@@ -16,6 +16,7 @@ window.marked = require('marked');
 window.hljs = require('vendor/highlight.min.js');
 window.toastr = require('toastr/build/toastr.min.js');
 window.lightbox2 = require('lightbox2');
+window.jqcloud2 = require('jqcloud2');
 
 Vue.use(VueI18n);
 Vue.use(httpPlugin);

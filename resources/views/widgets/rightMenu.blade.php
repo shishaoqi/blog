@@ -2,7 +2,7 @@
     <div class="col-md-12">
         <!-- Blog Search Well -->
         <div class="well" style="background-color:#ffffff;">
-            <h4>博文搜索</h4>
+            <h5 style="color: #34495e;">博文搜索</h5>
             <form action="{{ url('search') }}" method="get">
                 <div class="input-group">
                     <input type="text" name="q" class="form-control" placeholder="{{ lang('Search') }}" required>
@@ -16,7 +16,7 @@
         </div>
 
         <div class="well" style="background-color:#ffffff;">
-            <h4>热门浏览</h4>
+            <h5 style="color: #34495e;">热门浏览</h5>
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="list-group list-group-flush">
@@ -32,7 +32,7 @@
         </div>
 
         <div class="well" style="background-color:#ffffff;">
-            <h4>最新文章</h4>
+            <h5 style="color: #34495e;">最新文章</h5>
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="list-group list-group-flush">
@@ -49,42 +49,45 @@
 
         <!-- Blog Categories Well -->
         <div class="well" style="background-color:#ffffff;">
-            <h4>类别</h4>
+            <h5 style="color: #34495e;">分类目录</h5>
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="list-unstyled">
-
+                        @if($categories)
+                            @foreach($categories as $k => $category)
+                                <li class="list-group-item"><a href="{{ url($category->path) }}">{{$category['name']}}</a></li>
+                            @endforeach
+                        @endif
                     </ul>
                 </div>
-                <!-- /.col-lg-12 -->
-                <div class="col-lg-12">
-                    <ul class="list-unstyled">
-
-                    </ul>
-                </div>
-                <!-- /.col-lg-12 -->
             </div>
             <!-- /.row -->
         </div>
 
         <div class="well" style="background-color:#ffffff;">
-            <h4>标签</h4>
+            <h5 style="color: #34495e;">标签</h5>
             <div class="row">
                 <div class="col-lg-12">
-                    <ul class="list-unstyled">
-
-                    </ul>
+                    <div id="demo" style="width: 250px; height: 450px;"></div>
                 </div>
-                <!-- /.col-lg-12 -->
-                <div class="col-lg-12">
-                    <ul class="list-unstyled">
-
-                    </ul>
-                </div>
-                <!-- /.col-lg-12 -->
             </div>
             <!-- /.row -->
         </div>
 
     </div>
 </div>
+@section('scripts')
+<script>
+    $(function(){
+        var words = [
+            @if($tags)
+            @foreach($tags as $k => $tag)
+            {text: "{{$tag->tag}}", weight: Math.ceil(Math.random()*8), link:"{{ url('tag', ['tag' => $tag->tag]) }}"},
+            @endforeach
+            @endif
+        ];
+
+        $('#demo').jQCloud(words);
+    })
+</script>
+@endsection

@@ -31,7 +31,7 @@
             <!-- /.row -->
         </div>
 
-        @if($articles)
+        @if(isset($articles))
             <div class="well" style="background-color:#ffffff;">
                 <h5 style="color: #34495e;">系列文章</h5>
                 <div class="row">

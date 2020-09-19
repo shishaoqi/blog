@@ -9,7 +9,8 @@ class ArticleTransformer extends TransformerAbstract
 {
     protected $availableIncludes  = [
         'tags',
-        'category'
+        'category',
+        'collection'
     ];
 
     public function transform(Article $article)
@@ -55,6 +56,13 @@ class ArticleTransformer extends TransformerAbstract
     {
         if ($tags = $article->tags) {
             return $this->collection($tags, new TagTransformer);
+        }
+    }
+
+    public function includeCollection(Article $article)
+    {
+        if($collection = $article->collection) {
+            return $this->item($collection, new CollectionTransformer);
         }
     }
 }

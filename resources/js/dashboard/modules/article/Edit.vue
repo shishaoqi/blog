@@ -20,7 +20,7 @@ export default {
     }
   },
   created() {
-    this.$http.get('article/' + this.$route.params.id + '/edit?include=category,tags')
+    this.$http.get('article/' + this.$route.params.id + '/edit?include=category,tags,collection')
       .then((response) => {
         this.article = response.data.data
       })

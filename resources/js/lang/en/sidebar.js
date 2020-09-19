@@ -2,6 +2,7 @@ export default {
   dashboard: 'Dashboard',
   user: 'Users',
   article: 'Articles',
+  collection: 'Collection',
   discussion: 'Discussion',
   comment: 'Comments',
   tag: 'Tags',

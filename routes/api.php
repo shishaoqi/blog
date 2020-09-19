@@ -29,6 +29,14 @@ Route::group([
     Route::delete('category/{id}', 'CategoryController@destroy')->middleware(['permission:destroy_category']);
     Route::get('/categories', 'CategoryController@getList')->middleware(['permission:create_article|update_article']);
 
+    // Collection
+    Route::get('collection', 'CollectionController@index')->middleware(['permission:list_category']);
+    Route::post('collection', 'CollectionController@store')->middleware(['permission:create_category']);
+    Route::get('collection/{id}/edit', 'CollectionController@edit')->middleware(['permission:update_category']);
+    Route::patch('collection/{id}', 'CollectionController@update')->middleware(['permission:update_category']);
+    Route::delete('collection/{id}', 'CollectionController@destroy')->middleware(['permission:destroy_category']);
+    Route::get('/collections', 'CollectionController@getList')->middleware(['permission:create_article|update_article']);
+
     // Discussion
     Route::get('discussion', 'DiscussionController@index')->middleware(['permission:list_discussion']);
     Route::post('discussion', 'DiscussionController@store')->middleware(['permission:create_discussion']);

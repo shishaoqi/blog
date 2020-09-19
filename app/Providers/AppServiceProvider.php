@@ -37,7 +37,7 @@ class AppServiceProvider extends ServiceProvider
             $view->with('hotArticles', $hotArticles);
 
             $lastArticles = Article::checkAuth()
-                ->orderBy('published_at', 'desc')->limit(10)->get();
+                ->orderBy('published_at', 'desc')->limit(5)->get();
             $view->with('lastArticles', $lastArticles);
 
             $categories = Category::all();

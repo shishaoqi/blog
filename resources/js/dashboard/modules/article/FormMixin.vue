@@ -4,6 +4,8 @@ export default {
     return {
       selected: null,
       options: [],
+      chooseCollection: null,
+      collections: [],
       tags: null,
       allTag: [],
       startTime: {
@@ -43,6 +45,7 @@ export default {
   },
   created() {
     this.loadCategories()
+    this.loadCollections()
     this.loadTags()
   },
   methods: {
@@ -50,6 +53,12 @@ export default {
       this.$http.get('categories')
         .then((response) => {
           this.options = response.data.data
+        })
+    },
+    loadCollections() {
+      this.$http.get('collections')
+        .then((response) => {
+          this.collections = response.data.data
         })
     },
     loadTags() {

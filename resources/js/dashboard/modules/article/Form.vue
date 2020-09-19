@@ -10,6 +10,13 @@
           </div>
         </div>
         <div class="form-group row">
+          <label class="col-sm-2 col-form-label">{{ $t('form.collection') }}</label>
+          <div class="col-sm-10">
+            <multiselect v-model="chooseCollection" :options="collections" label="name" :placeholder="$t('form.select_collection')"
+                         track-by="name"></multiselect>
+          </div>
+        </div>
+        <div class="form-group row">
           <label for="title" class="col-sm-2 col-form-label">{{ $t('form.title') }}</label>
           <div class="col-sm-10">
             <input type="text" id="title" name="title" v-model="article.title" class="form-control">
@@ -137,6 +144,9 @@
     watch: {
       article () {
         this.selected = this.article.category.data
+        if(this.article.collection){
+          this.chooseCollection = this.article.collection.data
+        }
         this.tags = this.article.tags.data
         this.simplemde.value(this.article.content)
         this.startTime.time = this.article.published_time
@@ -188,6 +198,11 @@
         this.article.published_at = this.startTime.time
         this.article.content = this.simplemde.value()
         this.article.category_id = this.selected.id
+        if(this.chooseCollection){
+          this.article.collection_id = this.chooseCollection.id
+        } else {
+          this.article.collection_id = 0
+        }
         this.article.tags = JSON.stringify(tagIDs)
 
         this.$http[method](url, this.article)

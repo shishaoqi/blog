@@ -30,6 +30,7 @@ class Article extends Model
         'user_id',
         'last_user_id',
         'category_id',
+        'collection_id',
         'title',
         'subtitle',
         'slug',
@@ -63,6 +64,11 @@ class Article extends Model
     public function category()
     {
         return $this->belongsTo(Category::class);
+    }
+
+    public function collection()
+    {
+        return $this->belongsTo(Collection::class);
     }
 
     /**

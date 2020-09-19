@@ -1,4 +1,5 @@
 import { routes as article } from './modules/article/index'
+import { routes as collection } from './modules/collection/index'
 import { routes as category } from './modules/category/index'
 import { routes as comment } from './modules/comment/index'
 import { routes as discussion } from './modules/discussion/index'
@@ -19,6 +20,7 @@ export default [{
     ...home,
     ...user,
     ...article,
+    ...collection,
     ...discussion,
     ...category,
     ...comment,

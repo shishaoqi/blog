@@ -8,6 +8,7 @@ export default {
   files: 'Files',
   tags: 'Tags',
   categories: 'Categories',
+  collections: 'Collections',
   links: 'Links',
   systems: 'Systems',
   user_num: 'Users',

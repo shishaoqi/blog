@@ -28,7 +28,6 @@
                     </ul>
                 </div>
             </div>
-            <!-- /.row -->
         </div>
 
         @if(isset($articles))
@@ -37,7 +36,11 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <ul class="list-group list-group-flush">
-
+                            @if($collections)
+                                @foreach($collections as $k => $collection)
+                                    <li class="list-group-item"><a href="{{ url('collection', $collection->id) }}">{{$collection['name']}}</a></li>
+                                @endforeach
+                            @endif
                         </ul>
                     </div>
                 </div>

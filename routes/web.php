@@ -14,6 +14,8 @@ Route::group(['prefix' => 'auth/github'], function () {
 
 // Search
 Route::get('search', 'HomeController@search');
+// Collection
+Route::get('collection/{id}', 'HomeController@collection');
 
 // Discussion
 Route::resource('discussion', 'DiscussionController', ['except' => 'destroy']);

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Article;
+use App\Collection;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -34,5 +35,24 @@ class HomeController extends Controller
             ->get();
 
         return view('search', compact('articles'));
+    }
+
+    /**
+     * @param Request $request
+     * @param $collection
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function collection(Request $request, $collectionId)
+    {
+        $collection = Collection::find($collectionId);
+        if (!$collection) {
+            abort(404);
+        }
+
+        $articles = Article::query()->where('collection_id', $collectionId)
+            ->orderBy('published_at', 'desc')
+            ->get();
+
+        return view('collection.index', compact('collection', 'articles'));
     }
 }

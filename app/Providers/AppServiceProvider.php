@@ -4,6 +4,7 @@ namespace App\Providers;
 
 use App\Article;
 use App\Category;
+use App\Collection;
 use App\Discussion;
 use App\Tag;
 use App\Tools\FileManager\BaseManager;
@@ -45,6 +46,9 @@ class AppServiceProvider extends ServiceProvider
 
             $tags = Tag::all();
             $view->with('tags', $tags);
+
+            $collections = Collection::all();
+            $view->with('collections', $collections);
         });
     }
 

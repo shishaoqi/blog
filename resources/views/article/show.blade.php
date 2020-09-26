@@ -21,11 +21,13 @@
     @endcomponent
 
     <div class="article container">
+        @if(isset($article->page_image))
         <div class="row text-center">
             <div class="col-md-12">
                 <img alt="{{ $article->slug }}" src="{{ $article->page_image }}"  style="borde-radius:50px;max-width:100%;">
             </div>
         </div>
+        @endif
         <br>
         <div class="row">
             <div class="col-md-8" style="background-color:#ffffff;">

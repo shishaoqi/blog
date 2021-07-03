@@ -44,8 +44,8 @@ return [
 
     // Article Page
     'article' => [
-        'title'       => 'Programming just for fun.',
-        'description' => 'http://shishao.320.io:8090',
+        'title'       => 'Programming just for fun',
+        'description' => 'http://shishao.320.io',
         'number'      => 15,
         'sort'        => 'desc',
         'sortColumn'  => 'published_at',

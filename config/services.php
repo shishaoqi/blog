@@ -32,7 +32,7 @@ return [
 
     'github' => [
         'client_id' => env('GITHUB_CLIENT_ID'),
-        'client_secrets' => env('GITHUB_CLIENT_SECRET'),
+        'client_secret' => env('GITHUB_CLIENT_SECRET'),
         'redirect' => env('GITHUB_REDIRECT'),
     ],
 

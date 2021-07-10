@@ -24,7 +24,7 @@ return [
 
     // Meta
     'meta' => [
-        'keywords' => 'shishao Blog,blog,php,laravel,C,go,redis',
+        'keywords' => 'redis,redis源码,拆解redis源码,可运行的redis源码,石少讲解redis源码,shishao讲解可运行redis源码,shishao blog,php,laravel,C,go',
         'description' => 'Programming just for fun'
     ],
 
@@ -45,7 +45,7 @@ return [
     // Article Page
     'article' => [
         'title'       => 'Programming just for fun',
-        'description' => 'http://shishao.320.io',
+        'description' => 'http://www.shishao.site',
         'number'      => 15,
         'sort'        => 'desc',
         'sortColumn'  => 'published_at',

@@ -58,6 +58,15 @@ export default {
     loadCollections() {
       this.$http.get('collections')
         .then((response) => {
+          var emptyObj = {
+            "id": 0,
+            "name": "未选择",
+            "path": "",
+            "description": "",
+            "status": null,
+            "created_at": null
+          };
+          response.data.data.unshift(emptyObj)
           this.collections = response.data.data
         })
     },

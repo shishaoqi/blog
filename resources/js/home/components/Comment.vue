@@ -1,14 +1,15 @@
 <template>
-  <div class="container">
+  <div class="">
     <div class="row comment">
-      <div class="col-md-8 offset-md-2">
+      <div class="col-md-12">
         <h5>{{ title }}</h5>
         <div :class="nullClass" v-if="comments.length == this.commentsCount" class="heading">
           <a href="javascript:;" @click="commentLoad()">
             <i   class="fas fa-plus">&nbsp;&nbsp;&nbsp;&nbsp; load more comments</i>
           </a>
-        </div>        
+        </div>
       </div>
+
       <div :class="contentWrapperClass">
         <div :class="nullClass" v-if="comments.length == 0">{{ nullText }}</div>
         <div class="media" v-for="(comment, index) in comments" v-else  >
@@ -32,6 +33,7 @@
             <div class="comment-body markdown" :class="comment.is_down_voted ? 'downvoted' : ''" v-html="comment.content_html"></div>
           </div>
         </div>
+
         <form class="form mt-4" style="margin-top: 30px;" @submit.prevent="comment" v-if="canComment">
           <div class="form-group row">
             <label class="col-sm-2 col-form-label own-avatar">
@@ -49,6 +51,14 @@
             </div>
           </div>
         </form>
+        <div class="col-md-12" style="margin-top: 20px;" v-if="!canComment">
+          <div class="form-group row">
+            <div class="col-sm-12">
+              <a class="btn btn-success float-right" href="login">添加评论</a>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
@@ -70,7 +80,7 @@ export default {
     contentWrapperClass: {
       type: String,
       default () {
-        return 'col-md-8 offset-md-2'
+        return 'col-md-12'
       }
     },
     title: {
@@ -125,7 +135,7 @@ export default {
   data() {
     return {
       comments: [],
-      commentsCount:1,
+      commentsCount:10,
       content: '',
       isSubmiting: false,
       strategies: [{
@@ -218,7 +228,7 @@ export default {
         })
         this.comments = response.data.data
         this.commentsCount +=1
-        
+
       }).then((response)=>{
         console.log(this.commentsCount)
       })

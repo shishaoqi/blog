@@ -3,22 +3,22 @@
 @section('title', $article->title)
 
 @section('content')
-    @component('particals.jumbotron')
-        <h4>{{ $article->title }}</h4>
+{{--    @component('particals.jumbotron')--}}
+{{--        <h4>{{ $article->title }}</h4>--}}
 
-        <h6>{{ $article->subtitle }}</h6>
+{{--        <h6>{{ $article->subtitle }}</h6>--}}
 
-        <div class="header">
-            <i class="fas fa-user"></i>{{ $article->user->name ?? 'null' }}，
-            @if(count($article->tags))
-            <i class="fas fa-tags"></i>
-                @foreach($article->tags as $tag)
-                    <a href="{{ url('tag', ['tag' => $tag->tag]) }}">{{ $tag->tag }}</a>，
-                @endforeach
-            @endif
-            <i class="fas fa-clock"></i>{{ $article->published_at->diffForHumans() }}
-        </div>
-    @endcomponent
+{{--        <div class="header">--}}
+{{--            <i class="fas fa-user"></i>{{ $article->user->name ?? 'null' }}，--}}
+{{--            @if(count($article->tags))--}}
+{{--            <i class="fas fa-tags"></i>--}}
+{{--                @foreach($article->tags as $tag)--}}
+{{--                    <a href="{{ url('tag', ['tag' => $tag->tag]) }}">{{ $tag->tag }}</a>，--}}
+{{--                @endforeach--}}
+{{--            @endif--}}
+{{--            <i class="fas fa-clock"></i>{{ $article->published_at->diffForHumans() }}--}}
+{{--        </div>--}}
+{{--    @endcomponent--}}
 
     <div class="article container">
         @if(isset($article->page_image))
@@ -28,10 +28,23 @@
             </div>
         </div>
         @endif
-        <br>
         <div class="row">
             <div class="col-md-8" style="background-color:#ffffff;">
+                <p>
+                <h2>{{ $article->title }}</h2>
 
+                <div class="header">
+                    <i class="fas fa-user"></i>{{ $article->user->name ?? 'null' }}，
+                    @if(count($article->tags))
+                        <i class="fas fa-tags"></i>
+                        @foreach($article->tags as $tag)
+                            <a href="{{ url('tag', ['tag' => $tag->tag]) }}" style="color:#000;">{{ $tag->tag }}</a>，
+                        @endforeach
+                    @endif
+                    <i class="fas fa-clock"></i>{{ $article->published_at->diffForHumans() }}
+                </div>
+                </p>
+                <hr>
                 <parse content="{{ $article->content['raw'] }}"></parse>
 
                 @if($article->is_original)
@@ -46,21 +59,21 @@
                         initialized></div>
                 </div>
                 @endif
+
+                <comment title="Comments"
+                         commentable-type="articles"
+                         commentable-id="{{ $article->id }}"
+                         @can('comment',$article)
+                         username="{{ Auth::user()->name }}"
+                         user-avatar="{{ Auth::user()->avatar }}"
+                         can-comment
+                        @endcan
+                ></comment>
             </div>
 
             @include('widgets.rightMenu')
         </div>
     </div>
-
-	<comment title="Comments"
-	commentable-type="articles"
-	commentable-id="{{ $article->id }}"
-	@can('comment',$article)
-	username="{{ Auth::user()->name }}"
-	user-avatar="{{ Auth::user()->avatar }}"
-	can-comment
-	@endcan
-	></comment>
 
 @endsection
 

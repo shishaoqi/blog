@@ -1,4 +1,4 @@
-<div class="col-md-4">
+<div class="col-md-4" style="padding: 0;">
     <div class="col-md-12">
         <!-- Blog Search Well -->
         <div class="well" style="background-color:#ffffff;">

@@ -54,4 +54,15 @@ class LoginController extends Controller
 
         return redirect('/login');
     }
+
+    /**
+     * Show the application's login form.
+     *
+     * @return \Illuminate\View\View
+     */
+    public function showLoginForm()
+    {
+        session(['url.intended'=>url()->previous()]);
+        return view('auth.login');
+    }
 }

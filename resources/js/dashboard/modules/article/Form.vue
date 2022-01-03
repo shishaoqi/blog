@@ -162,7 +162,7 @@
         autoDownloadFontAwesome: true,
         forceSync: true,
         previewRender (plainText, preview) {
-          preview.className += ' markdown'
+          preview.className += ' markdown-body'
 
           return self.parse(plainText)
         },

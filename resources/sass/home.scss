@@ -9,7 +9,7 @@
 @import url("vendor/select2.min.css");
 
 // Markdown
-@import "markdown";
+//@import "markdown";
 @import url("vendor/highlight.min.css");
 
 @import "form";
@@ -21,3 +21,4 @@
 @import "styles";
 @import "lightbox";
 @import "jqcloud";
+@import "vendor/github-markdown.css";

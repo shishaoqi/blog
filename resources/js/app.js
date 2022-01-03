@@ -21,7 +21,7 @@ import App from './App.vue'
 require('dashboard/runtime/mixins/index')
 
 window.marked = require('marked')
-window.hljs = require('vendor/highlight.min.js')
+window.hljs = require('highlight.js')
 window.toastr = require('toastr/build/toastr.min.js')
 window.innerHeight = 800
 

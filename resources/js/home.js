@@ -13,7 +13,7 @@ try {
 require('social-share.js/dist/js/social-share.min.js');
 require('vendor/select2.min.js');
 window.marked = require('marked');
-window.hljs = require('vendor/highlight.min.js');
+window.hljs = require('highlight.js');
 window.toastr = require('toastr/build/toastr.min.js');
 window.lightbox2 = require('lightbox2');
 window.jqcloud2 = require('jqcloud2');

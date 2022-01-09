@@ -1,4 +1,6 @@
 /node_modules
+/storage/app/framework
+/storage/app/logs
 /public/storage
 /vendor
 /.idea

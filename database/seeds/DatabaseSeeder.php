@@ -32,25 +32,26 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-         $this->call(UsersTableSeeder::class);
-         $this->call(CategoriesTableSeeder::class);
-         $this->call(ArticlesTableSeeder::class);
-         $this->call(DiscussionsTableSeeder::class);
-         $this->call(CommentsTableSeeder::class);
-         $this->call(TagsTableSeeder::class);
-         $this->call(LinksTableSeeder::class);
-         $this->call(VisitorsTableSeeder::class);
-         $this->call(PermissionsTableSeeder::class);
+        $this->call(UsersTableSeeder::class);
+        $this->call(CategoriesTableSeeder::class);
+        $this->call(ArticlesTableSeeder::class);
+        $this->call(DiscussionsTableSeeder::class);
+        $this->call(CommentsTableSeeder::class);
+        $this->call(TagsTableSeeder::class);
+        $this->call(LinksTableSeeder::class);
+        $this->call(VisitorsTableSeeder::class);
+        $this->call(PermissionsTableSeeder::class);
 
-         $this->call(CollectionsTableSeeder::class);
-         $this->call(FailedJobsTableSeeder::class);
-         $this->call(FollowersTableSeeder::class);
-         $this->call(ModelHasPermissionsTableSeeder::class);
-         $this->call(ModelHasRolesTableSeeder::class);
-         $this->call(NotificationsTableSeeder::class);
-         $this->call(PasswordResetsTableSeeder::class);
-         $this->call(RoleHasPermissionsTableSeeder::class);
-         $this->call(RolesTableSeeder::class);
-         $this->call(VotesTableSeeder::class);
+        $this->call(CollectionsTableSeeder::class);
+        $this->call(FailedJobsTableSeeder::class);
+        $this->call(FollowersTableSeeder::class);
+        $this->call(NotificationsTableSeeder::class);
+        $this->call(PasswordResetsTableSeeder::class);
+        $this->call(VotesTableSeeder::class);
+
+        $this->call(RolesTableSeeder::class);
+        $this->call(ModelHasPermissionsTableSeeder::class);
+        $this->call(ModelHasRolesTableSeeder::class);
+        $this->call(RoleHasPermissionsTableSeeder::class);
     }
 }

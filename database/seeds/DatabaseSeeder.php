@@ -7,6 +7,7 @@ use Database\Seeders\ArticlesTableSeeder;
 use Database\Seeders\DiscussionsTableSeeder;
 use Database\Seeders\CommentsTableSeeder;
 use Database\Seeders\TagsTableSeeder;
+use Database\Seeders\TaggablesTableSeeder;
 use Database\Seeders\LinksTableSeeder;
 use Database\Seeders\VisitorsTableSeeder;
 use Database\Seeders\PermissionsTableSeeder;
@@ -38,9 +39,9 @@ class DatabaseSeeder extends Seeder
         $this->call(DiscussionsTableSeeder::class);
         $this->call(CommentsTableSeeder::class);
         $this->call(TagsTableSeeder::class);
+        $this->call(TaggablesTableSeeder::class);
         $this->call(LinksTableSeeder::class);
         $this->call(VisitorsTableSeeder::class);
-        $this->call(PermissionsTableSeeder::class);
 
         $this->call(CollectionsTableSeeder::class);
         $this->call(FailedJobsTableSeeder::class);
@@ -49,6 +50,7 @@ class DatabaseSeeder extends Seeder
         $this->call(PasswordResetsTableSeeder::class);
         $this->call(VotesTableSeeder::class);
 
+        $this->call(PermissionsTableSeeder::class);
         $this->call(RolesTableSeeder::class);
         $this->call(ModelHasPermissionsTableSeeder::class);
         $this->call(ModelHasRolesTableSeeder::class);

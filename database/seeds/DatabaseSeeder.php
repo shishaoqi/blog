@@ -1,6 +1,15 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use Database\Seeders\UsersTableSeeder;
+use Database\Seeders\CategoriesTableSeeder;
+use Database\Seeders\ArticlesTableSeeder;
+use Database\Seeders\DiscussionsTableSeeder;
+use Database\Seeders\CommentsTableSeeder;
+use Database\Seeders\TagsTableSeeder;
+use Database\Seeders\LinksTableSeeder;
+use Database\Seeders\VisitorsTableSeeder;
+use Database\Seeders\PermissionsTableSeeder;
 
 class DatabaseSeeder extends Seeder
 {
@@ -19,6 +28,6 @@ class DatabaseSeeder extends Seeder
          $this->call(TagsTableSeeder::class);
          $this->call(LinksTableSeeder::class);
          $this->call(VisitorsTableSeeder::class);
-         $this->call(PermissionTableSeeder::class);
+         $this->call(PermissionsTableSeeder::class);
     }
 }

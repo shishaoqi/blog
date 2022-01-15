@@ -2,7 +2,7 @@
   <div class="row">
     <vue-table :title="$t('page.articles')" :fields="fields" api-url="article" :item-actions="itemActions" @table-action="tableActions" show-paginate>
       <template slot="buttons">
-        <router-link :to="{ name: 'dashboard.article.create' }" class="btn btn-sm btn-success" v-if="checkPermission('CREATE_ARTICLE')">{{ $t('page.create') }}</router-link>
+        <router-link :to="{ name: 'dashboard.article.create' }" class="btn btn-sm btn-success" v-if="checkPermission('CREATE_ARTICLE')"><!--{{ $t('page.create') }}-->+</router-link>
       </template>
     </vue-table>
   </div>

@@ -10,11 +10,11 @@
                             </a>
                         @endif
                         <div class="media-body">
-                            <h6 class="media-heading">
+                            <h4>
                                 <a href="{{ url($article->slug) }}">
                                     {{ $article->title }}
                                 </a>
-                            </h6>
+                            </h4>
                             <div class="meta">
                                 {{--<span class="cinema">{{ $article->subtitle }}</span>--}}
                             </div>

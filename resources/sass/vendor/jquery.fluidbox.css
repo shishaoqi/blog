@@ -21,7 +21,7 @@
     margin: 0 auto;
     position: relative;
     transition: all .25s ease-in-out;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 .fluidbox-ghost {

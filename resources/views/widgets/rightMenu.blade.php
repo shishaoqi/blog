@@ -91,7 +91,7 @@
 
     </div>
 </div>
-@section('scripts')
+@section('right_menu_scripts')
 <script>
     $(function(){
         var words = [

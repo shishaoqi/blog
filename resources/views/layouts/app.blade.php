@@ -43,6 +43,7 @@
     <!-- Scripts -->
     <script src="{{ mix('js/home.js') }}"></script>
 
+    @yield('right_menu_scripts')
     @yield('scripts')
 
     <script>

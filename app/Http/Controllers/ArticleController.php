@@ -25,8 +25,6 @@ class ArticleController extends Controller
     /**
      * Display the article resource by article slug.
      *
-     * @author Huiwang <905130909@qq.com>
-     *
      * @param Request $request
      * @param $slug
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View

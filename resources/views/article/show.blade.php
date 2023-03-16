@@ -38,7 +38,7 @@
                     @if(count($article->tags))
                         <i class="fas fa-tags"></i>
                         @foreach($article->tags as $tag)
-                            <a href="{{ url('tag', ['tag' => $tag->tag]) }}" style="color:#000;">{{ $tag->tag }}</a>，
+                            <a href="{{ url('tag', ['tag' => $tag->tag]) }}" style="color:#95a5a6;">{{ $tag->tag }}</a>，
                         @endforeach
                     @endif
                     <i class="fas fa-clock"></i>{{ $article->published_at->diffForHumans() }}

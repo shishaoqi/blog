@@ -271,6 +271,228 @@ class TaggablesTableSeeder extends Seeder
                 'taggable_id' => 32,
                 'taggable_type' => 'articles',
             ),
+            42 => 
+            array (
+                'tag_id' => 13,
+                'taggable_id' => 34,
+                'taggable_type' => 'articles',
+            ),
+            43 => 
+            array (
+                'tag_id' => 13,
+                'taggable_id' => 35,
+                'taggable_type' => 'articles',
+            ),
+            44 => 
+            array (
+                'tag_id' => 2,
+                'taggable_id' => 36,
+                'taggable_type' => 'articles',
+            ),
+            45 => 
+            array (
+                'tag_id' => 16,
+                'taggable_id' => 37,
+                'taggable_type' => 'articles',
+            ),
+            46 => 
+            array (
+                'tag_id' => 13,
+                'taggable_id' => 38,
+                'taggable_type' => 'articles',
+            ),
+            47 => 
+            array (
+                'tag_id' => 13,
+                'taggable_id' => 39,
+                'taggable_type' => 'articles',
+            ),
+            48 => 
+            array (
+                'tag_id' => 1,
+                'taggable_id' => 40,
+                'taggable_type' => 'articles',
+            ),
+            49 => 
+            array (
+                'tag_id' => 13,
+                'taggable_id' => 41,
+                'taggable_type' => 'articles',
+            ),
+            50 => 
+            array (
+                'tag_id' => 7,
+                'taggable_id' => 42,
+                'taggable_type' => 'articles',
+            ),
+            51 => 
+            array (
+                'tag_id' => 4,
+                'taggable_id' => 43,
+                'taggable_type' => 'articles',
+            ),
+            52 => 
+            array (
+                'tag_id' => 2,
+                'taggable_id' => 44,
+                'taggable_type' => 'articles',
+            ),
+            53 => 
+            array (
+                'tag_id' => 1,
+                'taggable_id' => 45,
+                'taggable_type' => 'articles',
+            ),
+            54 => 
+            array (
+                'tag_id' => 1,
+                'taggable_id' => 46,
+                'taggable_type' => 'articles',
+            ),
+            55 => 
+            array (
+                'tag_id' => 1,
+                'taggable_id' => 47,
+                'taggable_type' => 'articles',
+            ),
+            56 => 
+            array (
+                'tag_id' => 2,
+                'taggable_id' => 48,
+                'taggable_type' => 'articles',
+            ),
+            57 => 
+            array (
+                'tag_id' => 3,
+                'taggable_id' => 49,
+                'taggable_type' => 'articles',
+            ),
+            58 => 
+            array (
+                'tag_id' => 11,
+                'taggable_id' => 50,
+                'taggable_type' => 'articles',
+            ),
+            59 => 
+            array (
+                'tag_id' => 3,
+                'taggable_id' => 51,
+                'taggable_type' => 'articles',
+            ),
+            60 => 
+            array (
+                'tag_id' => 11,
+                'taggable_id' => 52,
+                'taggable_type' => 'articles',
+            ),
+            61 => 
+            array (
+                'tag_id' => 3,
+                'taggable_id' => 53,
+                'taggable_type' => 'articles',
+            ),
+            62 => 
+            array (
+                'tag_id' => 2,
+                'taggable_id' => 54,
+                'taggable_type' => 'articles',
+            ),
+            63 => 
+            array (
+                'tag_id' => 12,
+                'taggable_id' => 55,
+                'taggable_type' => 'articles',
+            ),
+            64 => 
+            array (
+                'tag_id' => 15,
+                'taggable_id' => 56,
+                'taggable_type' => 'articles',
+            ),
+            65 => 
+            array (
+                'tag_id' => 8,
+                'taggable_id' => 56,
+                'taggable_type' => 'articles',
+            ),
+            66 => 
+            array (
+                'tag_id' => 6,
+                'taggable_id' => 56,
+                'taggable_type' => 'articles',
+            ),
+            67 => 
+            array (
+                'tag_id' => 2,
+                'taggable_id' => 56,
+                'taggable_type' => 'articles',
+            ),
+            68 => 
+            array (
+                'tag_id' => 6,
+                'taggable_id' => 2,
+                'taggable_type' => 'articles',
+            ),
+            69 => 
+            array (
+                'tag_id' => 15,
+                'taggable_id' => 2,
+                'taggable_type' => 'articles',
+            ),
+            70 => 
+            array (
+                'tag_id' => 7,
+                'taggable_id' => 57,
+                'taggable_type' => 'articles',
+            ),
+            71 => 
+            array (
+                'tag_id' => 6,
+                'taggable_id' => 58,
+                'taggable_type' => 'articles',
+            ),
+            72 => 
+            array (
+                'tag_id' => 15,
+                'taggable_id' => 58,
+                'taggable_type' => 'articles',
+            ),
+            73 => 
+            array (
+                'tag_id' => 1,
+                'taggable_id' => 59,
+                'taggable_type' => 'articles',
+            ),
+            74 => 
+            array (
+                'tag_id' => 7,
+                'taggable_id' => 60,
+                'taggable_type' => 'articles',
+            ),
+            75 => 
+            array (
+                'tag_id' => 7,
+                'taggable_id' => 61,
+                'taggable_type' => 'articles',
+            ),
+            76 => 
+            array (
+                'tag_id' => 13,
+                'taggable_id' => 62,
+                'taggable_type' => 'articles',
+            ),
+            77 => 
+            array (
+                'tag_id' => 6,
+                'taggable_id' => 63,
+                'taggable_type' => 'articles',
+            ),
+            78 => 
+            array (
+                'tag_id' => 7,
+                'taggable_id' => 63,
+                'taggable_type' => 'articles',
+            ),
         ));
         
         

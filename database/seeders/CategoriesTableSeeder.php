@@ -250,6 +250,17 @@ class CategoriesTableSeeder extends Seeder
                 'path' => 'http://www.shishao.site/学习',
                 'updated_at' => '2023-02-09 14:43:22',
             ),
+            21 => 
+            array (
+                'created_at' => '2023-02-20 17:09:17',
+                'description' => '所有 goland 相关',
+                'id' => 22,
+                'image_url' => NULL,
+                'name' => 'golang',
+                'parent_id' => 0,
+                'path' => 'http://www.shishao.site/golang',
+                'updated_at' => '2023-02-20 17:09:17',
+            ),
         ));
         
         

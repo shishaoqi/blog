@@ -802,12 +802,12 @@ class VisitorsTableSeeder extends Seeder
             78 => 
             array (
                 'article_id' => 17,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2021-01-17 18:59:36',
                 'id' => 79,
                 'ip' => '42.236.10.125',
-                'updated_at' => '2021-01-17 18:59:36',
+                'updated_at' => '2023-02-19 19:46:15',
             ),
             79 => 
             array (
@@ -5954,12 +5954,12 @@ class VisitorsTableSeeder extends Seeder
             93 => 
             array (
                 'article_id' => 20,
-                'clicks' => 13,
+                'clicks' => 14,
                 'country' => NULL,
                 'created_at' => '2021-09-04 19:42:40',
                 'id' => 594,
                 'ip' => '66.249.79.92',
-                'updated_at' => '2023-02-07 17:53:37',
+                'updated_at' => '2023-02-28 07:27:54',
             ),
             94 => 
             array (
@@ -6024,12 +6024,12 @@ class VisitorsTableSeeder extends Seeder
             100 => 
             array (
                 'article_id' => 5,
-                'clicks' => 11,
+                'clicks' => 12,
                 'country' => NULL,
                 'created_at' => '2021-09-05 13:45:55',
                 'id' => 601,
                 'ip' => '66.249.79.90',
-                'updated_at' => '2022-11-27 23:46:06',
+                'updated_at' => '2023-02-26 06:12:21',
             ),
             101 => 
             array (
@@ -7084,12 +7084,12 @@ class VisitorsTableSeeder extends Seeder
             206 => 
             array (
                 'article_id' => 17,
-                'clicks' => 18,
+                'clicks' => 19,
                 'country' => NULL,
                 'created_at' => '2021-09-15 01:38:13',
                 'id' => 707,
                 'ip' => '66.249.79.92',
-                'updated_at' => '2023-01-09 16:32:04',
+                'updated_at' => '2023-02-25 11:01:33',
             ),
             207 => 
             array (
@@ -7144,12 +7144,12 @@ class VisitorsTableSeeder extends Seeder
             212 => 
             array (
                 'article_id' => 22,
-                'clicks' => 14,
+                'clicks' => 16,
                 'country' => NULL,
                 'created_at' => '2021-09-15 11:44:53',
                 'id' => 713,
                 'ip' => '66.249.79.90',
-                'updated_at' => '2022-10-18 02:58:24',
+                'updated_at' => '2023-03-10 03:41:34',
             ),
             213 => 
             array (
@@ -7384,12 +7384,12 @@ class VisitorsTableSeeder extends Seeder
             236 => 
             array (
                 'article_id' => 2,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2021-09-19 20:07:56',
                 'id' => 737,
                 'ip' => '51.222.253.7',
-                'updated_at' => '2023-02-07 06:16:11',
+                'updated_at' => '2023-03-17 04:58:02',
             ),
             237 => 
             array (
@@ -7604,12 +7604,12 @@ class VisitorsTableSeeder extends Seeder
             258 => 
             array (
                 'article_id' => 15,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2021-09-21 06:00:45',
                 'id' => 759,
                 'ip' => '51.222.253.10',
-                'updated_at' => '2021-10-14 16:08:08',
+                'updated_at' => '2023-03-13 11:40:20',
             ),
             259 => 
             array (
@@ -7734,12 +7734,12 @@ class VisitorsTableSeeder extends Seeder
             271 => 
             array (
                 'article_id' => 10,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2021-09-21 07:52:15',
                 'id' => 772,
                 'ip' => '51.222.253.9',
-                'updated_at' => '2022-11-10 08:34:48',
+                'updated_at' => '2023-03-12 21:10:02',
             ),
             272 => 
             array (
@@ -7764,12 +7764,12 @@ class VisitorsTableSeeder extends Seeder
             274 => 
             array (
                 'article_id' => 26,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2021-09-21 09:04:37',
                 'id' => 775,
                 'ip' => '51.222.253.18',
-                'updated_at' => '2021-09-21 09:04:37',
+                'updated_at' => '2023-03-08 06:38:46',
             ),
             275 => 
             array (
@@ -11456,12 +11456,12 @@ class VisitorsTableSeeder extends Seeder
             143 => 
             array (
                 'article_id' => 22,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2021-10-14 15:09:16',
                 'id' => 1144,
                 'ip' => '51.222.253.12',
-                'updated_at' => '2023-01-28 06:25:08',
+                'updated_at' => '2023-02-21 02:16:24',
             ),
             144 => 
             array (
@@ -11526,22 +11526,22 @@ class VisitorsTableSeeder extends Seeder
             150 => 
             array (
                 'article_id' => 19,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2021-10-14 16:21:16',
                 'id' => 1151,
                 'ip' => '51.222.253.20',
-                'updated_at' => '2022-01-14 03:20:19',
+                'updated_at' => '2023-03-03 09:59:20',
             ),
             151 => 
             array (
                 'article_id' => 13,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2021-10-14 16:48:59',
                 'id' => 1152,
                 'ip' => '51.222.253.6',
-                'updated_at' => '2021-10-14 16:48:59',
+                'updated_at' => '2023-03-06 07:26:18',
             ),
             152 => 
             array (
@@ -11566,12 +11566,12 @@ class VisitorsTableSeeder extends Seeder
             154 => 
             array (
                 'article_id' => 12,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2021-10-14 18:16:36',
                 'id' => 1155,
                 'ip' => '51.222.253.13',
-                'updated_at' => '2023-02-12 23:57:15',
+                'updated_at' => '2023-03-05 16:50:11',
             ),
             155 => 
             array (
@@ -12686,12 +12686,12 @@ class VisitorsTableSeeder extends Seeder
             266 => 
             array (
                 'article_id' => 23,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2021-10-29 04:11:28',
                 'id' => 1267,
                 'ip' => '51.222.253.12',
-                'updated_at' => '2022-07-22 09:02:24',
+                'updated_at' => '2023-02-28 17:38:12',
             ),
             267 => 
             array (
@@ -12716,12 +12716,12 @@ class VisitorsTableSeeder extends Seeder
             269 => 
             array (
                 'article_id' => 5,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2021-10-29 09:16:54',
                 'id' => 1270,
                 'ip' => '51.222.253.18',
-                'updated_at' => '2023-02-03 13:25:59',
+                'updated_at' => '2023-03-08 08:27:27',
             ),
             270 => 
             array (
@@ -12796,12 +12796,12 @@ class VisitorsTableSeeder extends Seeder
             277 => 
             array (
                 'article_id' => 20,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2021-10-29 19:46:37',
                 'id' => 1278,
                 'ip' => '51.222.253.14',
-                'updated_at' => '2022-06-27 03:57:29',
+                'updated_at' => '2023-03-02 10:39:28',
             ),
             278 => 
             array (
@@ -12886,12 +12886,12 @@ class VisitorsTableSeeder extends Seeder
             286 => 
             array (
                 'article_id' => 21,
-                'clicks' => 10,
+                'clicks' => 11,
                 'country' => NULL,
                 'created_at' => '2021-10-30 11:19:37',
                 'id' => 1287,
                 'ip' => '51.222.253.14',
-                'updated_at' => '2022-07-05 20:14:22',
+                'updated_at' => '2023-03-09 01:27:17',
             ),
             287 => 
             array (
@@ -14896,12 +14896,12 @@ class VisitorsTableSeeder extends Seeder
             487 => 
             array (
                 'article_id' => 13,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2021-11-19 06:39:52',
                 'id' => 1488,
                 'ip' => '114.119.157.132',
-                'updated_at' => '2021-12-28 07:09:22',
+                'updated_at' => '2023-03-01 13:45:36',
             ),
             488 => 
             array (
@@ -16888,12 +16888,12 @@ class VisitorsTableSeeder extends Seeder
             186 => 
             array (
                 'article_id' => 10,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2021-12-03 09:00:46',
                 'id' => 1687,
                 'ip' => '51.222.253.18',
-                'updated_at' => '2022-07-30 05:55:33',
+                'updated_at' => '2023-02-17 12:50:06',
             ),
             187 => 
             array (
@@ -17338,22 +17338,22 @@ class VisitorsTableSeeder extends Seeder
             231 => 
             array (
                 'article_id' => 15,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2021-12-06 14:43:35',
                 'id' => 1732,
                 'ip' => '51.222.253.6',
-                'updated_at' => '2022-07-14 04:03:35',
+                'updated_at' => '2023-02-17 11:37:40',
             ),
             232 => 
             array (
                 'article_id' => 29,
-                'clicks' => 5,
+                'clicks' => 6,
                 'country' => NULL,
                 'created_at' => '2021-12-06 16:44:06',
                 'id' => 1733,
                 'ip' => '51.222.253.11',
-                'updated_at' => '2022-12-21 15:36:29',
+                'updated_at' => '2023-03-04 21:59:06',
             ),
             233 => 
             array (
@@ -20430,12 +20430,12 @@ class VisitorsTableSeeder extends Seeder
             40 => 
             array (
                 'article_id' => 25,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2021-12-25 21:42:16',
                 'id' => 2041,
                 'ip' => '51.222.253.9',
-                'updated_at' => '2021-12-25 21:42:16',
+                'updated_at' => '2023-02-22 15:00:19',
             ),
             41 => 
             array (
@@ -22000,12 +22000,12 @@ class VisitorsTableSeeder extends Seeder
             197 => 
             array (
                 'article_id' => 18,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-01-03 09:19:18',
                 'id' => 2198,
                 'ip' => '51.222.253.13',
-                'updated_at' => '2023-02-12 04:20:04',
+                'updated_at' => '2023-03-04 01:06:01',
             ),
             198 => 
             array (
@@ -25152,12 +25152,12 @@ class VisitorsTableSeeder extends Seeder
             12 => 
             array (
                 'article_id' => 20,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-01-21 16:18:37',
                 'id' => 2513,
                 'ip' => '51.222.253.18',
-                'updated_at' => '2022-04-13 23:51:21',
+                'updated_at' => '2023-02-22 08:25:15',
             ),
             13 => 
             array (
@@ -25552,12 +25552,12 @@ class VisitorsTableSeeder extends Seeder
             52 => 
             array (
                 'article_id' => 16,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-01-22 11:35:45',
                 'id' => 2553,
                 'ip' => '51.222.253.4',
-                'updated_at' => '2022-01-22 11:35:45',
+                'updated_at' => '2023-03-04 20:51:25',
             ),
             53 => 
             array (
@@ -25862,12 +25862,12 @@ class VisitorsTableSeeder extends Seeder
             83 => 
             array (
                 'article_id' => 28,
-                'clicks' => 34,
+                'clicks' => 35,
                 'country' => NULL,
                 'created_at' => '2022-01-23 23:01:25',
                 'id' => 2584,
                 'ip' => '66.249.79.90',
-                'updated_at' => '2023-02-05 20:36:55',
+                'updated_at' => '2023-03-10 03:39:09',
             ),
             84 => 
             array (
@@ -26042,12 +26042,12 @@ class VisitorsTableSeeder extends Seeder
             101 => 
             array (
                 'article_id' => 28,
-                'clicks' => 27,
+                'clicks' => 28,
                 'country' => NULL,
                 'created_at' => '2022-01-24 04:38:24',
                 'id' => 2602,
                 'ip' => '66.249.79.88',
-                'updated_at' => '2022-11-26 20:45:49',
+                'updated_at' => '2023-03-10 02:54:09',
             ),
             102 => 
             array (
@@ -26062,12 +26062,12 @@ class VisitorsTableSeeder extends Seeder
             103 => 
             array (
                 'article_id' => 20,
-                'clicks' => 15,
+                'clicks' => 16,
                 'country' => NULL,
                 'created_at' => '2022-01-24 13:08:26',
                 'id' => 2604,
                 'ip' => '66.249.79.88',
-                'updated_at' => '2022-05-26 18:57:23',
+                'updated_at' => '2023-02-28 08:12:54',
             ),
             104 => 
             array (
@@ -26122,12 +26122,12 @@ class VisitorsTableSeeder extends Seeder
             109 => 
             array (
                 'article_id' => 29,
-                'clicks' => 11,
+                'clicks' => 13,
                 'country' => NULL,
                 'created_at' => '2022-01-25 03:40:29',
                 'id' => 2610,
                 'ip' => '66.249.79.88',
-                'updated_at' => '2022-11-08 04:17:17',
+                'updated_at' => '2023-02-26 09:12:21',
             ),
             110 => 
             array (
@@ -26382,12 +26382,12 @@ class VisitorsTableSeeder extends Seeder
             135 => 
             array (
                 'article_id' => 17,
-                'clicks' => 10,
+                'clicks' => 12,
                 'country' => NULL,
                 'created_at' => '2022-01-27 05:13:08',
                 'id' => 2636,
                 'ip' => '66.249.79.88',
-                'updated_at' => '2023-01-09 15:47:04',
+                'updated_at' => '2023-02-25 10:39:03',
             ),
             136 => 
             array (
@@ -26402,12 +26402,12 @@ class VisitorsTableSeeder extends Seeder
             137 => 
             array (
                 'article_id' => 12,
-                'clicks' => 40,
+                'clicks' => 42,
                 'country' => NULL,
                 'created_at' => '2022-01-27 10:23:10',
                 'id' => 2638,
                 'ip' => '66.249.79.88',
-                'updated_at' => '2023-01-07 20:52:42',
+                'updated_at' => '2023-02-27 14:31:32',
             ),
             138 => 
             array (
@@ -26492,12 +26492,12 @@ class VisitorsTableSeeder extends Seeder
             146 => 
             array (
                 'article_id' => 5,
-                'clicks' => 10,
+                'clicks' => 11,
                 'country' => NULL,
                 'created_at' => '2022-01-28 01:06:12',
                 'id' => 2647,
                 'ip' => '66.249.79.88',
-                'updated_at' => '2022-11-28 08:34:09',
+                'updated_at' => '2023-02-26 06:57:21',
             ),
             147 => 
             array (
@@ -26632,12 +26632,12 @@ class VisitorsTableSeeder extends Seeder
             160 => 
             array (
                 'article_id' => 27,
-                'clicks' => 12,
+                'clicks' => 13,
                 'country' => NULL,
                 'created_at' => '2022-01-28 05:02:11',
                 'id' => 2661,
                 'ip' => '66.249.79.90',
-                'updated_at' => '2022-11-13 07:42:48',
+                'updated_at' => '2023-03-10 07:15:47',
             ),
             161 => 
             array (
@@ -27642,12 +27642,12 @@ class VisitorsTableSeeder extends Seeder
             261 => 
             array (
                 'article_id' => 32,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-02-02 22:45:38',
                 'id' => 2762,
                 'ip' => '51.222.253.12',
-                'updated_at' => '2022-02-02 22:45:38',
+                'updated_at' => '2023-02-22 04:05:40',
             ),
             262 => 
             array (
@@ -27992,12 +27992,12 @@ class VisitorsTableSeeder extends Seeder
             296 => 
             array (
                 'article_id' => 8,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-02-03 16:20:09',
                 'id' => 2797,
                 'ip' => '51.222.253.8',
-                'updated_at' => '2022-02-03 16:20:09',
+                'updated_at' => '2023-02-25 02:04:59',
             ),
             297 => 
             array (
@@ -28222,12 +28222,12 @@ class VisitorsTableSeeder extends Seeder
             319 => 
             array (
                 'article_id' => 15,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-02-04 06:35:13',
                 'id' => 2820,
                 'ip' => '51.222.253.1',
-                'updated_at' => '2022-11-01 15:02:53',
+                'updated_at' => '2023-02-25 01:16:05',
             ),
             320 => 
             array (
@@ -28322,12 +28322,12 @@ class VisitorsTableSeeder extends Seeder
             329 => 
             array (
                 'article_id' => 23,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-02-05 01:33:28',
                 'id' => 2830,
                 'ip' => '51.222.253.8',
-                'updated_at' => '2022-04-02 15:26:45',
+                'updated_at' => '2023-02-20 18:50:00',
             ),
             330 => 
             array (
@@ -28382,22 +28382,22 @@ class VisitorsTableSeeder extends Seeder
             335 => 
             array (
                 'article_id' => 36,
-                'clicks' => 8,
+                'clicks' => 9,
                 'country' => NULL,
                 'created_at' => '2022-02-05 11:40:20',
                 'id' => 2836,
                 'ip' => '66.249.79.90',
-                'updated_at' => '2022-11-08 08:00:49',
+                'updated_at' => '2023-03-09 22:56:13',
             ),
             336 => 
             array (
                 'article_id' => 36,
-                'clicks' => 12,
+                'clicks' => 14,
                 'country' => NULL,
                 'created_at' => '2022-02-05 11:53:52',
                 'id' => 2837,
                 'ip' => '66.249.79.88',
-                'updated_at' => '2022-09-21 05:58:32',
+                'updated_at' => '2023-02-26 21:48:01',
             ),
             337 => 
             array (
@@ -28622,12 +28622,12 @@ class VisitorsTableSeeder extends Seeder
             359 => 
             array (
                 'article_id' => 5,
-                'clicks' => 8,
+                'clicks' => 9,
                 'country' => NULL,
                 'created_at' => '2022-02-06 12:09:24',
                 'id' => 2860,
                 'ip' => '66.249.79.92',
-                'updated_at' => '2022-05-28 00:21:11',
+                'updated_at' => '2023-03-11 20:34:06',
             ),
             360 => 
             array (
@@ -28642,12 +28642,12 @@ class VisitorsTableSeeder extends Seeder
             361 => 
             array (
                 'article_id' => 14,
-                'clicks' => 13,
+                'clicks' => 14,
                 'country' => NULL,
                 'created_at' => '2022-02-06 20:30:22',
                 'id' => 2862,
                 'ip' => '66.249.79.92',
-                'updated_at' => '2022-12-01 23:12:04',
+                'updated_at' => '2023-03-10 01:49:09',
             ),
             362 => 
             array (
@@ -29262,12 +29262,12 @@ class VisitorsTableSeeder extends Seeder
             423 => 
             array (
                 'article_id' => 36,
-                'clicks' => 11,
+                'clicks' => 12,
                 'country' => NULL,
                 'created_at' => '2022-02-09 15:10:22',
                 'id' => 2924,
                 'ip' => '66.249.79.92',
-                'updated_at' => '2022-10-12 19:58:16',
+                'updated_at' => '2023-02-26 20:40:30',
             ),
             424 => 
             array (
@@ -29492,12 +29492,12 @@ class VisitorsTableSeeder extends Seeder
             446 => 
             array (
                 'article_id' => 7,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-02-10 16:12:09',
                 'id' => 2947,
                 'ip' => '66.249.79.92',
-                'updated_at' => '2022-09-20 03:50:13',
+                'updated_at' => '2023-03-10 02:54:10',
             ),
             447 => 
             array (
@@ -31954,12 +31954,12 @@ class VisitorsTableSeeder extends Seeder
             192 => 
             array (
                 'article_id' => 27,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-02-19 17:43:10',
                 'id' => 3193,
                 'ip' => '51.222.253.14',
-                'updated_at' => '2023-02-09 01:25:20',
+                'updated_at' => '2023-03-03 14:02:19',
             ),
             193 => 
             array (
@@ -32544,12 +32544,12 @@ class VisitorsTableSeeder extends Seeder
             251 => 
             array (
                 'article_id' => 41,
-                'clicks' => 17,
+                'clicks' => 19,
                 'country' => NULL,
                 'created_at' => '2022-02-21 14:19:12',
                 'id' => 3252,
                 'ip' => '66.249.79.88',
-                'updated_at' => '2023-01-09 00:06:44',
+                'updated_at' => '2023-02-27 17:23:36',
             ),
             252 => 
             array (
@@ -32624,12 +32624,12 @@ class VisitorsTableSeeder extends Seeder
             259 => 
             array (
                 'article_id' => 41,
-                'clicks' => 19,
+                'clicks' => 22,
                 'country' => NULL,
                 'created_at' => '2022-02-22 01:08:35',
                 'id' => 3260,
                 'ip' => '66.249.79.90',
-                'updated_at' => '2023-01-06 01:39:12',
+                'updated_at' => '2023-02-28 19:57:32',
             ),
             260 => 
             array (
@@ -32964,12 +32964,12 @@ class VisitorsTableSeeder extends Seeder
             293 => 
             array (
                 'article_id' => 29,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-02-23 18:18:16',
                 'id' => 3294,
                 'ip' => '51.222.253.13',
-                'updated_at' => '2022-06-06 12:23:30',
+                'updated_at' => '2023-02-25 06:19:50',
             ),
             294 => 
             array (
@@ -33194,12 +33194,12 @@ class VisitorsTableSeeder extends Seeder
             316 => 
             array (
                 'article_id' => 22,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-02-24 09:48:30',
                 'id' => 3317,
                 'ip' => '51.222.253.1',
-                'updated_at' => '2022-12-08 15:12:34',
+                'updated_at' => '2023-03-01 00:11:06',
             ),
             317 => 
             array (
@@ -34584,12 +34584,12 @@ class VisitorsTableSeeder extends Seeder
             455 => 
             array (
                 'article_id' => 41,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-03-02 20:38:09',
                 'id' => 3456,
                 'ip' => '51.222.253.3',
-                'updated_at' => '2022-11-10 08:54:23',
+                'updated_at' => '2023-03-17 00:22:14',
             ),
             456 => 
             array (
@@ -34744,12 +34744,12 @@ class VisitorsTableSeeder extends Seeder
             471 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-03 04:44:40',
                 'id' => 3472,
                 'ip' => '51.222.253.8',
-                'updated_at' => '2022-03-03 04:44:40',
+                'updated_at' => '2023-02-23 11:32:20',
             ),
             472 => 
             array (
@@ -35376,12 +35376,12 @@ class VisitorsTableSeeder extends Seeder
             34 => 
             array (
                 'article_id' => 17,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-06 16:25:17',
                 'id' => 3535,
                 'ip' => '51.222.253.3',
-                'updated_at' => '2022-03-06 16:25:17',
+                'updated_at' => '2023-02-26 04:38:12',
             ),
             35 => 
             array (
@@ -36016,12 +36016,12 @@ class VisitorsTableSeeder extends Seeder
             98 => 
             array (
                 'article_id' => 10,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-09 05:55:16',
                 'id' => 3599,
                 'ip' => '51.222.253.2',
-                'updated_at' => '2022-03-09 05:55:16',
+                'updated_at' => '2023-03-04 23:32:20',
             ),
             99 => 
             array (
@@ -36036,12 +36036,12 @@ class VisitorsTableSeeder extends Seeder
             100 => 
             array (
                 'article_id' => 34,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-03-09 08:12:32',
                 'id' => 3601,
                 'ip' => '51.222.253.5',
-                'updated_at' => '2023-01-05 13:17:47',
+                'updated_at' => '2023-03-01 03:19:40',
             ),
             101 => 
             array (
@@ -36276,12 +36276,12 @@ class VisitorsTableSeeder extends Seeder
             124 => 
             array (
                 'article_id' => 41,
-                'clicks' => 5,
+                'clicks' => 6,
                 'country' => NULL,
                 'created_at' => '2022-03-11 02:20:52',
                 'id' => 3625,
                 'ip' => '51.222.253.12',
-                'updated_at' => '2022-07-29 00:29:42',
+                'updated_at' => '2023-03-01 04:33:21',
             ),
             125 => 
             array (
@@ -36666,12 +36666,12 @@ class VisitorsTableSeeder extends Seeder
             163 => 
             array (
                 'article_id' => 28,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-03-12 13:21:54',
                 'id' => 3664,
                 'ip' => '51.222.253.19',
-                'updated_at' => '2022-06-01 19:08:35',
+                'updated_at' => '2023-03-01 01:05:40',
             ),
             164 => 
             array (
@@ -37366,12 +37366,12 @@ class VisitorsTableSeeder extends Seeder
             233 => 
             array (
                 'article_id' => 44,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-03-14 19:40:28',
                 'id' => 3734,
                 'ip' => '51.222.253.7',
-                'updated_at' => '2022-08-27 20:47:48',
+                'updated_at' => '2023-02-23 15:51:54',
             ),
             234 => 
             array (
@@ -38106,12 +38106,12 @@ class VisitorsTableSeeder extends Seeder
             307 => 
             array (
                 'article_id' => 26,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-18 09:13:13',
                 'id' => 3808,
                 'ip' => '66.249.70.4',
-                'updated_at' => '2022-03-18 09:13:13',
+                'updated_at' => '2023-02-18 11:30:23',
             ),
             308 => 
             array (
@@ -38156,12 +38156,12 @@ class VisitorsTableSeeder extends Seeder
             312 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-18 13:43:13',
                 'id' => 3813,
                 'ip' => '66.249.70.2',
-                'updated_at' => '2022-03-18 13:43:13',
+                'updated_at' => '2023-02-18 10:00:22',
             ),
             313 => 
             array (
@@ -38296,12 +38296,12 @@ class VisitorsTableSeeder extends Seeder
             326 => 
             array (
                 'article_id' => 26,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-03-19 01:35:16',
                 'id' => 3827,
                 'ip' => '66.249.79.152',
-                'updated_at' => '2022-03-29 11:52:10',
+                'updated_at' => '2023-03-04 06:51:50',
             ),
             327 => 
             array (
@@ -38806,12 +38806,12 @@ class VisitorsTableSeeder extends Seeder
             377 => 
             array (
                 'article_id' => 28,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-03-20 12:13:18',
                 'id' => 3878,
                 'ip' => '51.222.253.15',
-                'updated_at' => '2022-07-21 22:43:19',
+                'updated_at' => '2023-03-17 10:35:05',
             ),
             378 => 
             array (
@@ -39536,12 +39536,12 @@ class VisitorsTableSeeder extends Seeder
             450 => 
             array (
                 'article_id' => 7,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-22 21:42:19',
                 'id' => 3951,
                 'ip' => '185.191.171.38',
-                'updated_at' => '2022-03-22 21:42:19',
+                'updated_at' => '2023-03-10 16:40:52',
             ),
             451 => 
             array (
@@ -39686,12 +39686,12 @@ class VisitorsTableSeeder extends Seeder
             465 => 
             array (
                 'article_id' => 5,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-03-23 14:42:54',
                 'id' => 3966,
                 'ip' => '51.222.253.3',
-                'updated_at' => '2022-05-09 04:40:09',
+                'updated_at' => '2023-02-20 19:33:52',
             ),
             466 => 
             array (
@@ -39776,12 +39776,12 @@ class VisitorsTableSeeder extends Seeder
             474 => 
             array (
                 'article_id' => 26,
-                'clicks' => 1,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-03-23 19:38:24',
                 'id' => 3975,
                 'ip' => '185.191.171.44',
-                'updated_at' => '2022-03-23 19:38:24',
+                'updated_at' => '2023-03-10 03:22:43',
             ),
             475 => 
             array (
@@ -40098,12 +40098,12 @@ class VisitorsTableSeeder extends Seeder
             6 => 
             array (
                 'article_id' => 4,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-25 14:01:27',
                 'id' => 4007,
                 'ip' => '51.222.253.19',
-                'updated_at' => '2022-03-25 14:01:27',
+                'updated_at' => '2023-02-27 00:59:18',
             ),
             7 => 
             array (
@@ -41308,12 +41308,12 @@ class VisitorsTableSeeder extends Seeder
             127 => 
             array (
                 'article_id' => 44,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-03-30 05:09:08',
                 'id' => 4128,
                 'ip' => '51.222.253.12',
-                'updated_at' => '2023-02-08 20:11:10',
+                'updated_at' => '2023-03-10 23:30:44',
             ),
             128 => 
             array (
@@ -41328,12 +41328,12 @@ class VisitorsTableSeeder extends Seeder
             129 => 
             array (
                 'article_id' => 32,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-03-30 09:43:39',
                 'id' => 4130,
                 'ip' => '51.222.253.18',
-                'updated_at' => '2022-07-05 17:57:06',
+                'updated_at' => '2023-03-02 05:34:37',
             ),
             130 => 
             array (
@@ -41378,22 +41378,22 @@ class VisitorsTableSeeder extends Seeder
             134 => 
             array (
                 'article_id' => 18,
-                'clicks' => 2,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-03-30 17:11:11',
                 'id' => 4135,
                 'ip' => '66.249.64.38',
-                'updated_at' => '2022-06-11 03:56:23',
+                'updated_at' => '2023-03-14 14:11:09',
             ),
             135 => 
             array (
                 'article_id' => 41,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-03-30 17:43:23',
                 'id' => 4136,
                 'ip' => '66.249.64.36',
-                'updated_at' => '2022-08-01 04:27:39',
+                'updated_at' => '2023-03-13 23:00:27',
             ),
             136 => 
             array (
@@ -41518,12 +41518,12 @@ class VisitorsTableSeeder extends Seeder
             148 => 
             array (
                 'article_id' => 23,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-30 22:49:51',
                 'id' => 4149,
                 'ip' => '66.249.79.154',
-                'updated_at' => '2022-03-30 22:49:51',
+                'updated_at' => '2023-03-05 16:34:02',
             ),
             149 => 
             array (
@@ -41678,12 +41678,12 @@ class VisitorsTableSeeder extends Seeder
             164 => 
             array (
                 'article_id' => 5,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-03-31 07:56:21',
                 'id' => 4165,
                 'ip' => '51.222.253.19',
-                'updated_at' => '2022-03-31 07:56:21',
+                'updated_at' => '2023-02-28 13:57:59',
             ),
             165 => 
             array (
@@ -41698,12 +41698,12 @@ class VisitorsTableSeeder extends Seeder
             166 => 
             array (
                 'article_id' => 8,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-03-31 14:20:31',
                 'id' => 4167,
                 'ip' => '51.222.253.17',
-                'updated_at' => '2023-02-02 12:46:46',
+                'updated_at' => '2023-03-12 13:44:34',
             ),
             167 => 
             array (
@@ -42688,12 +42688,12 @@ class VisitorsTableSeeder extends Seeder
             265 => 
             array (
                 'article_id' => 41,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-04-05 00:11:29',
                 'id' => 4266,
                 'ip' => '185.191.171.26',
-                'updated_at' => '2022-04-05 00:11:29',
+                'updated_at' => '2023-03-08 19:21:35',
             ),
             266 => 
             array (
@@ -43198,12 +43198,12 @@ class VisitorsTableSeeder extends Seeder
             316 => 
             array (
                 'article_id' => 36,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-04-07 18:07:17',
                 'id' => 4317,
                 'ip' => '51.222.253.10',
-                'updated_at' => '2022-06-27 03:05:49',
+                'updated_at' => '2023-03-11 23:56:40',
             ),
             317 => 
             array (
@@ -43738,12 +43738,12 @@ class VisitorsTableSeeder extends Seeder
             370 => 
             array (
                 'article_id' => 23,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-04-10 12:23:06',
                 'id' => 4371,
                 'ip' => '51.222.253.20',
-                'updated_at' => '2022-04-10 12:23:06',
+                'updated_at' => '2023-03-17 06:04:38',
             ),
             371 => 
             array (
@@ -43988,12 +43988,12 @@ class VisitorsTableSeeder extends Seeder
             395 => 
             array (
                 'article_id' => 29,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-04-11 17:55:02',
                 'id' => 4396,
                 'ip' => '51.222.253.19',
-                'updated_at' => '2022-04-11 17:55:02',
+                'updated_at' => '2023-03-12 17:23:06',
             ),
             396 => 
             array (
@@ -44098,12 +44098,12 @@ class VisitorsTableSeeder extends Seeder
             406 => 
             array (
                 'article_id' => 17,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-04-12 06:38:26',
                 'id' => 4407,
                 'ip' => '100.26.127.17',
-                'updated_at' => '2022-09-27 10:33:32',
+                'updated_at' => '2023-02-17 15:21:59',
             ),
             407 => 
             array (
@@ -44138,12 +44138,12 @@ class VisitorsTableSeeder extends Seeder
             410 => 
             array (
                 'article_id' => 27,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-04-12 09:03:22',
                 'id' => 4411,
                 'ip' => '66.249.64.38',
-                'updated_at' => '2022-05-06 15:49:50',
+                'updated_at' => '2023-03-02 12:56:18',
             ),
             411 => 
             array (
@@ -44268,12 +44268,12 @@ class VisitorsTableSeeder extends Seeder
             423 => 
             array (
                 'article_id' => 9,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-04-12 21:00:11',
                 'id' => 4424,
                 'ip' => '51.222.253.4',
-                'updated_at' => '2022-04-12 21:00:11',
+                'updated_at' => '2023-02-28 13:03:28',
             ),
             424 => 
             array (
@@ -44548,12 +44548,12 @@ class VisitorsTableSeeder extends Seeder
             451 => 
             array (
                 'article_id' => 25,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-04-14 03:34:20',
                 'id' => 4452,
                 'ip' => '51.222.253.3',
-                'updated_at' => '2022-04-14 03:34:20',
+                'updated_at' => '2023-03-10 22:37:04',
             ),
             452 => 
             array (
@@ -45060,12 +45060,12 @@ class VisitorsTableSeeder extends Seeder
             2 => 
             array (
                 'article_id' => 27,
-                'clicks' => 7,
+                'clicks' => 8,
                 'country' => NULL,
                 'created_at' => '2022-04-15 09:28:52',
                 'id' => 4503,
                 'ip' => '51.222.253.18',
-                'updated_at' => '2023-02-16 08:46:06',
+                'updated_at' => '2023-03-12 03:23:31',
             ),
             3 => 
             array (
@@ -45510,12 +45510,12 @@ class VisitorsTableSeeder extends Seeder
             47 => 
             array (
                 'article_id' => 8,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-04-16 02:48:57',
                 'id' => 4548,
                 'ip' => '51.222.253.2',
-                'updated_at' => '2022-04-16 02:48:57',
+                'updated_at' => '2023-03-04 17:34:29',
             ),
             48 => 
             array (
@@ -47180,12 +47180,12 @@ class VisitorsTableSeeder extends Seeder
             214 => 
             array (
                 'article_id' => 28,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-04-22 09:50:24',
                 'id' => 4715,
                 'ip' => '51.222.253.5',
-                'updated_at' => '2022-06-10 00:05:24',
+                'updated_at' => '2023-02-21 05:50:36',
             ),
             215 => 
             array (
@@ -47300,12 +47300,12 @@ class VisitorsTableSeeder extends Seeder
             226 => 
             array (
                 'article_id' => 22,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-04-23 01:04:31',
                 'id' => 4727,
                 'ip' => '51.222.253.2',
-                'updated_at' => '2022-07-29 16:20:40',
+                'updated_at' => '2023-03-08 22:22:03',
             ),
             227 => 
             array (
@@ -48720,12 +48720,12 @@ class VisitorsTableSeeder extends Seeder
             368 => 
             array (
                 'article_id' => 29,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-04-28 11:20:07',
                 'id' => 4869,
                 'ip' => '185.191.171.11',
-                'updated_at' => '2022-04-28 11:20:07',
+                'updated_at' => '2023-03-04 22:09:44',
             ),
             369 => 
             array (
@@ -49540,22 +49540,22 @@ class VisitorsTableSeeder extends Seeder
             450 => 
             array (
                 'article_id' => 40,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-05-01 07:42:32',
                 'id' => 4951,
                 'ip' => '66.249.79.92',
-                'updated_at' => '2022-05-26 10:02:54',
+                'updated_at' => '2023-03-11 22:04:08',
             ),
             451 => 
             array (
                 'article_id' => 12,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-05-01 08:27:32',
                 'id' => 4952,
                 'ip' => '66.249.68.83',
-                'updated_at' => '2022-12-25 23:07:14',
+                'updated_at' => '2023-02-27 03:42:42',
             ),
             452 => 
             array (
@@ -49940,12 +49940,12 @@ class VisitorsTableSeeder extends Seeder
             490 => 
             array (
                 'article_id' => 41,
-                'clicks' => 6,
+                'clicks' => 8,
                 'country' => NULL,
                 'created_at' => '2022-05-03 07:32:25',
                 'id' => 4991,
                 'ip' => '66.249.68.87',
-                'updated_at' => '2022-08-27 05:35:16',
+                'updated_at' => '2023-03-14 10:44:05',
             ),
             491 => 
             array (
@@ -50462,12 +50462,12 @@ class VisitorsTableSeeder extends Seeder
             42 => 
             array (
                 'article_id' => 20,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-05-06 04:01:54',
                 'id' => 5043,
                 'ip' => '66.249.64.33',
-                'updated_at' => '2022-05-18 09:39:23',
+                'updated_at' => '2023-03-15 17:41:35',
             ),
             43 => 
             array (
@@ -50492,12 +50492,12 @@ class VisitorsTableSeeder extends Seeder
             45 => 
             array (
                 'article_id' => 27,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-05-06 06:34:15',
                 'id' => 5046,
                 'ip' => '66.249.64.36',
-                'updated_at' => '2022-05-06 06:34:15',
+                'updated_at' => '2023-03-02 14:26:18',
             ),
             46 => 
             array (
@@ -50742,12 +50742,12 @@ class VisitorsTableSeeder extends Seeder
             70 => 
             array (
                 'article_id' => 10,
-                'clicks' => 5,
+                'clicks' => 6,
                 'country' => NULL,
                 'created_at' => '2022-05-06 12:41:51',
                 'id' => 5071,
                 'ip' => '66.249.64.38',
-                'updated_at' => '2023-01-20 14:43:03',
+                'updated_at' => '2023-03-14 21:59:00',
             ),
             71 => 
             array (
@@ -50772,12 +50772,12 @@ class VisitorsTableSeeder extends Seeder
             73 => 
             array (
                 'article_id' => 22,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-05-06 17:19:50',
                 'id' => 5074,
                 'ip' => '66.249.64.33',
-                'updated_at' => '2022-05-06 17:19:50',
+                'updated_at' => '2023-03-13 23:45:26',
             ),
             74 => 
             array (
@@ -51552,12 +51552,12 @@ class VisitorsTableSeeder extends Seeder
             151 => 
             array (
                 'article_id' => 41,
-                'clicks' => 11,
+                'clicks' => 12,
                 'country' => NULL,
                 'created_at' => '2022-05-09 00:28:18',
                 'id' => 5152,
                 'ip' => '66.249.68.85',
-                'updated_at' => '2022-11-15 13:48:43',
+                'updated_at' => '2023-02-28 15:09:44',
             ),
             152 => 
             array (
@@ -51642,12 +51642,12 @@ class VisitorsTableSeeder extends Seeder
             160 => 
             array (
                 'article_id' => 26,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-05-09 04:09:51',
                 'id' => 5161,
                 'ip' => '51.222.253.13',
-                'updated_at' => '2022-12-15 23:21:47',
+                'updated_at' => '2023-02-20 13:51:37',
             ),
             161 => 
             array (
@@ -51822,12 +51822,12 @@ class VisitorsTableSeeder extends Seeder
             178 => 
             array (
                 'article_id' => 13,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-05-10 09:33:31',
                 'id' => 5179,
                 'ip' => '185.191.171.21',
-                'updated_at' => '2023-01-23 02:11:50',
+                'updated_at' => '2023-03-10 03:38:54',
             ),
             179 => 
             array (
@@ -53552,12 +53552,12 @@ class VisitorsTableSeeder extends Seeder
             351 => 
             array (
                 'article_id' => 8,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-05-18 10:02:38',
                 'id' => 5352,
                 'ip' => '66.249.64.33',
-                'updated_at' => '2023-01-20 13:13:03',
+                'updated_at' => '2023-03-14 23:28:59',
             ),
             352 => 
             array (
@@ -53782,12 +53782,12 @@ class VisitorsTableSeeder extends Seeder
             374 => 
             array (
                 'article_id' => 41,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-05-18 23:28:07',
                 'id' => 5375,
                 'ip' => '51.222.253.13',
-                'updated_at' => '2022-10-04 12:38:28',
+                'updated_at' => '2023-02-21 11:59:49',
             ),
             375 => 
             array (
@@ -53932,12 +53932,12 @@ class VisitorsTableSeeder extends Seeder
             389 => 
             array (
                 'article_id' => 40,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-05-20 01:56:52',
                 'id' => 5390,
                 'ip' => '51.222.253.16',
-                'updated_at' => '2023-02-16 01:36:16',
+                'updated_at' => '2023-03-11 02:40:29',
             ),
             390 => 
             array (
@@ -56664,12 +56664,12 @@ class VisitorsTableSeeder extends Seeder
             162 => 
             array (
                 'article_id' => 27,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-06-01 05:15:21',
                 'id' => 5663,
                 'ip' => '51.222.253.12',
-                'updated_at' => '2022-06-01 05:15:21',
+                'updated_at' => '2023-02-23 23:24:22',
             ),
             163 => 
             array (
@@ -57274,12 +57274,12 @@ class VisitorsTableSeeder extends Seeder
             223 => 
             array (
                 'article_id' => 14,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-06-03 00:10:15',
                 'id' => 5724,
                 'ip' => '185.191.171.45',
-                'updated_at' => '2022-06-03 00:10:15',
+                'updated_at' => '2023-02-18 06:07:07',
             ),
             224 => 
             array (
@@ -57494,12 +57494,12 @@ class VisitorsTableSeeder extends Seeder
             245 => 
             array (
                 'article_id' => 20,
-                'clicks' => 4,
+                'clicks' => 6,
                 'country' => NULL,
                 'created_at' => '2022-06-05 01:01:09',
                 'id' => 5746,
                 'ip' => '54.161.41.102',
-                'updated_at' => '2022-10-28 02:28:13',
+                'updated_at' => '2023-02-25 16:13:06',
             ),
             246 => 
             array (
@@ -58724,12 +58724,12 @@ class VisitorsTableSeeder extends Seeder
             368 => 
             array (
                 'article_id' => 4,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-06-09 16:47:12',
                 'id' => 5869,
                 'ip' => '114.119.135.30',
-                'updated_at' => '2022-07-18 08:12:21',
+                'updated_at' => '2023-03-01 05:05:37',
             ),
             369 => 
             array (
@@ -59154,12 +59154,12 @@ class VisitorsTableSeeder extends Seeder
             411 => 
             array (
                 'article_id' => 25,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-06-11 05:21:57',
                 'id' => 5912,
                 'ip' => '51.222.253.2',
-                'updated_at' => '2022-12-24 02:06:15',
+                'updated_at' => '2023-03-02 16:41:50',
             ),
             412 => 
             array (
@@ -59244,12 +59244,12 @@ class VisitorsTableSeeder extends Seeder
             420 => 
             array (
                 'article_id' => 26,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-06-11 17:08:05',
                 'id' => 5921,
                 'ip' => '51.222.253.2',
-                'updated_at' => '2022-06-11 17:08:05',
+                'updated_at' => '2023-02-28 09:18:09',
             ),
             421 => 
             array (
@@ -59334,12 +59334,12 @@ class VisitorsTableSeeder extends Seeder
             429 => 
             array (
                 'article_id' => 44,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-06-12 16:00:26',
                 'id' => 5930,
                 'ip' => '114.119.135.37',
-                'updated_at' => '2022-08-18 08:03:59',
+                'updated_at' => '2023-02-24 12:45:28',
             ),
             430 => 
             array (
@@ -59734,22 +59734,22 @@ class VisitorsTableSeeder extends Seeder
             469 => 
             array (
                 'article_id' => 29,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-06-14 15:04:31',
                 'id' => 5970,
                 'ip' => '51.222.253.20',
-                'updated_at' => '2022-06-14 15:04:31',
+                'updated_at' => '2023-02-17 16:01:28',
             ),
             470 => 
             array (
                 'article_id' => 10,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-06-14 15:56:00',
                 'id' => 5971,
                 'ip' => '156.59.103.2',
-                'updated_at' => '2022-06-14 15:56:00',
+                'updated_at' => '2023-03-09 14:52:48',
             ),
             471 => 
             array (
@@ -61466,12 +61466,12 @@ class VisitorsTableSeeder extends Seeder
             142 => 
             array (
                 'article_id' => 22,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-06-25 08:19:06',
                 'id' => 6143,
                 'ip' => '185.191.171.33',
-                'updated_at' => '2023-02-07 06:46:51',
+                'updated_at' => '2023-03-10 03:53:02',
             ),
             143 => 
             array (
@@ -61576,12 +61576,12 @@ class VisitorsTableSeeder extends Seeder
             153 => 
             array (
                 'article_id' => 32,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-06-27 03:29:25',
                 'id' => 6154,
                 'ip' => '51.222.253.14',
-                'updated_at' => '2023-01-14 06:56:35',
+                'updated_at' => '2023-03-11 09:05:37',
             ),
             154 => 
             array (
@@ -61596,12 +61596,12 @@ class VisitorsTableSeeder extends Seeder
             155 => 
             array (
                 'article_id' => 8,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-06-27 05:50:41',
                 'id' => 6156,
                 'ip' => '51.222.253.14',
-                'updated_at' => '2022-11-30 13:49:31',
+                'updated_at' => '2023-02-17 11:53:12',
             ),
             156 => 
             array (
@@ -62836,12 +62836,12 @@ class VisitorsTableSeeder extends Seeder
             279 => 
             array (
                 'article_id' => 20,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-07-09 00:29:38',
                 'id' => 6280,
                 'ip' => '66.249.69.184',
-                'updated_at' => '2022-11-24 20:12:23',
+                'updated_at' => '2023-02-21 08:06:03',
             ),
             280 => 
             array (
@@ -62866,12 +62866,12 @@ class VisitorsTableSeeder extends Seeder
             282 => 
             array (
                 'article_id' => 8,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-07-09 01:34:36',
                 'id' => 6283,
                 'ip' => '66.249.69.188',
-                'updated_at' => '2023-01-05 03:58:36',
+                'updated_at' => '2023-02-20 19:11:39',
             ),
             283 => 
             array (
@@ -62916,12 +62916,12 @@ class VisitorsTableSeeder extends Seeder
             287 => 
             array (
                 'article_id' => 14,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-07-09 09:09:16',
                 'id' => 6288,
                 'ip' => '66.249.69.186',
-                'updated_at' => '2022-07-09 09:09:16',
+                'updated_at' => '2023-02-20 00:34:51',
             ),
             288 => 
             array (
@@ -63526,12 +63526,12 @@ class VisitorsTableSeeder extends Seeder
             348 => 
             array (
                 'article_id' => 41,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-07-14 10:19:28',
                 'id' => 6349,
                 'ip' => '185.191.171.38',
-                'updated_at' => '2022-07-14 10:19:28',
+                'updated_at' => '2023-02-21 09:46:25',
             ),
             349 => 
             array (
@@ -63546,12 +63546,12 @@ class VisitorsTableSeeder extends Seeder
             350 => 
             array (
                 'article_id' => 20,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-07-14 17:28:24',
                 'id' => 6351,
                 'ip' => '51.222.253.6',
-                'updated_at' => '2022-11-30 22:12:27',
+                'updated_at' => '2023-03-11 05:05:13',
             ),
             351 => 
             array (
@@ -64366,12 +64366,12 @@ class VisitorsTableSeeder extends Seeder
             432 => 
             array (
                 'article_id' => 17,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-07-19 19:32:27',
                 'id' => 6433,
                 'ip' => '185.191.171.35',
-                'updated_at' => '2022-07-19 19:32:27',
+                'updated_at' => '2023-03-09 23:16:43',
             ),
             433 => 
             array (
@@ -64466,12 +64466,12 @@ class VisitorsTableSeeder extends Seeder
             442 => 
             array (
                 'article_id' => 44,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-07-21 04:21:24',
                 'id' => 6443,
                 'ip' => '51.222.253.14',
-                'updated_at' => '2022-09-11 04:52:21',
+                'updated_at' => '2023-03-03 05:11:58',
             ),
             443 => 
             array (
@@ -64586,12 +64586,12 @@ class VisitorsTableSeeder extends Seeder
             454 => 
             array (
                 'article_id' => 41,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-07-21 20:02:46',
                 'id' => 6455,
                 'ip' => '51.222.253.10',
-                'updated_at' => '2022-08-12 22:54:38',
+                'updated_at' => '2023-03-09 00:34:32',
             ),
             455 => 
             array (
@@ -64726,12 +64726,12 @@ class VisitorsTableSeeder extends Seeder
             468 => 
             array (
                 'article_id' => 10,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-07-23 00:08:02',
                 'id' => 6469,
                 'ip' => '51.222.253.7',
-                'updated_at' => '2022-09-04 10:28:57',
+                'updated_at' => '2023-02-25 05:31:38',
             ),
             469 => 
             array (
@@ -65228,12 +65228,12 @@ class VisitorsTableSeeder extends Seeder
             18 => 
             array (
                 'article_id' => 14,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-07-25 02:11:06',
                 'id' => 6519,
                 'ip' => '66.249.69.188',
-                'updated_at' => '2022-07-25 02:11:06',
+                'updated_at' => '2023-02-20 02:04:51',
             ),
             19 => 
             array (
@@ -66238,12 +66238,12 @@ class VisitorsTableSeeder extends Seeder
             119 => 
             array (
                 'article_id' => 13,
-                'clicks' => 2,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-07-29 07:34:50',
                 'id' => 6620,
                 'ip' => '66.249.79.92',
-                'updated_at' => '2022-11-15 02:58:18',
+                'updated_at' => '2023-03-10 08:23:16',
             ),
             120 => 
             array (
@@ -67578,12 +67578,12 @@ class VisitorsTableSeeder extends Seeder
             253 => 
             array (
                 'article_id' => 9,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-08-08 22:13:27',
                 'id' => 6754,
                 'ip' => '66.249.69.184',
-                'updated_at' => '2022-08-08 22:13:27',
+                'updated_at' => '2023-02-21 10:46:46',
             ),
             254 => 
             array (
@@ -67978,22 +67978,22 @@ class VisitorsTableSeeder extends Seeder
             293 => 
             array (
                 'article_id' => 21,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-08-12 23:18:20',
                 'id' => 6794,
                 'ip' => '51.222.253.12',
-                'updated_at' => '2022-11-10 12:43:59',
+                'updated_at' => '2023-03-01 02:23:33',
             ),
             294 => 
             array (
                 'article_id' => 26,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-08-12 23:24:05',
                 'id' => 6795,
                 'ip' => '51.222.253.14',
-                'updated_at' => '2022-11-10 17:44:53',
+                'updated_at' => '2023-03-16 20:47:37',
             ),
             295 => 
             array (
@@ -68058,12 +68058,12 @@ class VisitorsTableSeeder extends Seeder
             301 => 
             array (
                 'article_id' => 36,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-08-13 01:59:04',
                 'id' => 6802,
                 'ip' => '51.222.253.2',
-                'updated_at' => '2023-01-25 14:36:43',
+                'updated_at' => '2023-03-03 10:56:35',
             ),
             302 => 
             array (
@@ -68568,12 +68568,12 @@ class VisitorsTableSeeder extends Seeder
             352 => 
             array (
                 'article_id' => 10,
-                'clicks' => 3,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-08-17 04:16:48',
                 'id' => 6853,
                 'ip' => '54.161.41.102',
-                'updated_at' => '2023-01-20 17:07:45',
+                'updated_at' => '2023-02-26 15:15:37',
             ),
             353 => 
             array (
@@ -68848,12 +68848,12 @@ class VisitorsTableSeeder extends Seeder
             380 => 
             array (
                 'article_id' => 2,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-08-20 01:43:00',
                 'id' => 6881,
                 'ip' => '185.191.171.42',
-                'updated_at' => '2022-12-19 08:18:39',
+                'updated_at' => '2023-02-21 16:53:08',
             ),
             381 => 
             array (
@@ -69578,12 +69578,12 @@ class VisitorsTableSeeder extends Seeder
             453 => 
             array (
                 'article_id' => 19,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-08-24 07:54:19',
                 'id' => 6954,
                 'ip' => '185.191.171.14',
-                'updated_at' => '2022-08-24 07:54:19',
+                'updated_at' => '2023-03-10 03:57:38',
             ),
             454 => 
             array (
@@ -69948,12 +69948,12 @@ class VisitorsTableSeeder extends Seeder
             490 => 
             array (
                 'article_id' => 36,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-08-27 16:33:14',
                 'id' => 6991,
                 'ip' => '66.249.68.83',
-                'updated_at' => '2023-02-05 15:59:50',
+                'updated_at' => '2023-02-27 04:36:07',
             ),
             491 => 
             array (
@@ -70018,12 +70018,12 @@ class VisitorsTableSeeder extends Seeder
             497 => 
             array (
                 'article_id' => 28,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-08-28 05:11:58',
                 'id' => 6998,
                 'ip' => '51.222.253.13',
-                'updated_at' => '2022-08-28 05:11:58',
+                'updated_at' => '2023-03-08 20:55:25',
             ),
             498 => 
             array (
@@ -70150,12 +70150,12 @@ class VisitorsTableSeeder extends Seeder
             10 => 
             array (
                 'article_id' => 28,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-08-28 11:25:34',
                 'id' => 7011,
                 'ip' => '66.249.68.87',
-                'updated_at' => '2022-11-26 13:01:08',
+                'updated_at' => '2023-02-22 05:22:44',
             ),
             11 => 
             array (
@@ -70450,12 +70450,12 @@ class VisitorsTableSeeder extends Seeder
             40 => 
             array (
                 'article_id' => 36,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-08-29 18:13:32',
                 'id' => 7041,
                 'ip' => '66.249.68.87',
-                'updated_at' => '2022-08-29 18:13:32',
+                'updated_at' => '2023-03-13 00:13:00',
             ),
             41 => 
             array (
@@ -71190,12 +71190,12 @@ class VisitorsTableSeeder extends Seeder
             114 => 
             array (
                 'article_id' => 3,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-09-01 19:24:06',
                 'id' => 7115,
                 'ip' => '51.222.253.17',
-                'updated_at' => '2022-11-03 03:59:02',
+                'updated_at' => '2023-02-26 21:31:13',
             ),
             115 => 
             array (
@@ -71430,12 +71430,12 @@ class VisitorsTableSeeder extends Seeder
             138 => 
             array (
                 'article_id' => 41,
-                'clicks' => 2,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2022-09-02 22:52:24',
                 'id' => 7139,
                 'ip' => '103.172.41.146',
-                'updated_at' => '2022-09-02 22:52:26',
+                'updated_at' => '2023-03-01 02:49:46',
             ),
             139 => 
             array (
@@ -71590,12 +71590,12 @@ class VisitorsTableSeeder extends Seeder
             154 => 
             array (
                 'article_id' => 26,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-09-04 14:26:25',
                 'id' => 7155,
                 'ip' => '66.249.70.2',
-                'updated_at' => '2023-02-04 04:53:27',
+                'updated_at' => '2023-02-17 23:10:19',
             ),
             155 => 
             array (
@@ -72580,12 +72580,12 @@ class VisitorsTableSeeder extends Seeder
             253 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-09-09 06:27:54',
                 'id' => 7254,
                 'ip' => '185.191.171.11',
-                'updated_at' => '2022-09-09 06:27:54',
+                'updated_at' => '2023-03-08 22:12:08',
             ),
             254 => 
             array (
@@ -73010,12 +73010,12 @@ class VisitorsTableSeeder extends Seeder
             296 => 
             array (
                 'article_id' => 15,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-09-11 16:54:12',
                 'id' => 7297,
                 'ip' => '51.222.253.19',
-                'updated_at' => '2022-09-11 16:54:12',
+                'updated_at' => '2023-03-04 17:17:27',
             ),
             297 => 
             array (
@@ -73080,12 +73080,12 @@ class VisitorsTableSeeder extends Seeder
             303 => 
             array (
                 'article_id' => 22,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-09-12 04:48:42',
                 'id' => 7304,
                 'ip' => '51.222.253.10',
-                'updated_at' => '2022-10-04 19:31:19',
+                'updated_at' => '2023-03-17 07:23:07',
             ),
             304 => 
             array (
@@ -73740,12 +73740,12 @@ class VisitorsTableSeeder extends Seeder
             369 => 
             array (
                 'article_id' => 19,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-09-14 17:24:22',
                 'id' => 7370,
                 'ip' => '185.191.171.21',
-                'updated_at' => '2022-09-14 17:24:22',
+                'updated_at' => '2023-02-18 17:16:56',
             ),
             370 => 
             array (
@@ -77102,12 +77102,12 @@ class VisitorsTableSeeder extends Seeder
             205 => 
             array (
                 'article_id' => 8,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-10-04 13:12:32',
                 'id' => 7706,
                 'ip' => '66.249.68.87',
-                'updated_at' => '2022-10-04 13:12:32',
+                'updated_at' => '2023-02-22 11:30:57',
             ),
             206 => 
             array (
@@ -77412,12 +77412,12 @@ class VisitorsTableSeeder extends Seeder
             236 => 
             array (
                 'article_id' => 32,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-10-07 06:41:42',
                 'id' => 7737,
                 'ip' => '185.191.171.41',
-                'updated_at' => '2022-10-07 06:41:42',
+                'updated_at' => '2023-02-21 08:28:54',
             ),
             237 => 
             array (
@@ -78592,12 +78592,12 @@ class VisitorsTableSeeder extends Seeder
             354 => 
             array (
                 'article_id' => 41,
-                'clicks' => 1,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-10-16 21:25:44',
                 'id' => 7855,
                 'ip' => '100.26.127.17',
-                'updated_at' => '2022-10-16 21:25:44',
+                'updated_at' => '2023-02-17 15:21:51',
             ),
             355 => 
             array (
@@ -79262,12 +79262,12 @@ class VisitorsTableSeeder extends Seeder
             421 => 
             array (
                 'article_id' => 28,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-10-23 11:05:01',
                 'id' => 7922,
                 'ip' => '185.191.171.22',
-                'updated_at' => '2022-10-23 11:05:01',
+                'updated_at' => '2023-03-10 19:48:22',
             ),
             422 => 
             array (
@@ -79752,32 +79752,32 @@ class VisitorsTableSeeder extends Seeder
             470 => 
             array (
                 'article_id' => 23,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-10-28 02:28:09',
                 'id' => 7971,
                 'ip' => '54.161.41.102',
-                'updated_at' => '2022-10-28 02:28:09',
+                'updated_at' => '2023-02-18 16:01:58',
             ),
             471 => 
             array (
                 'article_id' => 25,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-10-28 02:28:44',
                 'id' => 7972,
                 'ip' => '54.161.41.102',
-                'updated_at' => '2023-01-20 17:22:34',
+                'updated_at' => '2023-02-24 14:53:42',
             ),
             472 => 
             array (
                 'article_id' => 44,
-                'clicks' => 2,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2022-10-28 02:29:06',
                 'id' => 7973,
                 'ip' => '54.161.41.102',
-                'updated_at' => '2023-01-20 17:17:53',
+                'updated_at' => '2023-02-26 15:15:32',
             ),
             473 => 
             array (
@@ -80174,12 +80174,12 @@ class VisitorsTableSeeder extends Seeder
             12 => 
             array (
                 'article_id' => 2,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-11-02 12:27:55',
                 'id' => 8013,
                 'ip' => '185.191.171.19',
-                'updated_at' => '2023-01-14 12:38:52',
+                'updated_at' => '2023-03-09 06:40:45',
             ),
             13 => 
             array (
@@ -80684,12 +80684,12 @@ class VisitorsTableSeeder extends Seeder
             63 => 
             array (
                 'article_id' => 4,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-11-06 02:19:32',
                 'id' => 8064,
                 'ip' => '185.191.171.18',
-                'updated_at' => '2022-11-06 02:19:32',
+                'updated_at' => '2023-02-18 17:46:31',
             ),
             64 => 
             array (
@@ -80714,12 +80714,12 @@ class VisitorsTableSeeder extends Seeder
             66 => 
             array (
                 'article_id' => 25,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-11-06 07:37:26',
                 'id' => 8067,
                 'ip' => '185.191.171.8',
-                'updated_at' => '2022-11-06 07:37:26',
+                'updated_at' => '2023-03-10 11:17:14',
             ),
             67 => 
             array (
@@ -81954,12 +81954,12 @@ class VisitorsTableSeeder extends Seeder
             190 => 
             array (
                 'article_id' => 27,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-11-14 09:32:08',
                 'id' => 8191,
                 'ip' => '185.191.171.38',
-                'updated_at' => '2022-11-14 09:32:08',
+                'updated_at' => '2023-03-06 02:49:58',
             ),
             191 => 
             array (
@@ -82294,12 +82294,12 @@ class VisitorsTableSeeder extends Seeder
             224 => 
             array (
                 'article_id' => 10,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-11-16 14:53:42',
                 'id' => 8225,
                 'ip' => '36.33.40.222',
-                'updated_at' => '2022-11-16 14:53:42',
+                'updated_at' => '2023-03-12 12:57:18',
             ),
             225 => 
             array (
@@ -82334,12 +82334,12 @@ class VisitorsTableSeeder extends Seeder
             228 => 
             array (
                 'article_id' => 10,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-11-17 09:41:38',
                 'id' => 8229,
                 'ip' => '185.191.171.35',
-                'updated_at' => '2022-11-17 09:41:38',
+                'updated_at' => '2023-03-10 01:43:56',
             ),
             229 => 
             array (
@@ -82454,12 +82454,12 @@ class VisitorsTableSeeder extends Seeder
             240 => 
             array (
                 'article_id' => 12,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2022-11-20 08:22:01',
                 'id' => 8241,
                 'ip' => '54.161.41.102',
-                'updated_at' => '2022-11-20 08:24:43',
+                'updated_at' => '2023-02-20 10:58:36',
             ),
             241 => 
             array (
@@ -82484,12 +82484,12 @@ class VisitorsTableSeeder extends Seeder
             243 => 
             array (
                 'article_id' => 14,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-11-20 11:18:12',
                 'id' => 8244,
                 'ip' => '185.191.171.36',
-                'updated_at' => '2022-11-20 11:18:12',
+                'updated_at' => '2023-03-09 16:58:23',
             ),
             244 => 
             array (
@@ -83814,12 +83814,12 @@ class VisitorsTableSeeder extends Seeder
             376 => 
             array (
                 'article_id' => 8,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-11-26 01:26:01',
                 'id' => 8377,
                 'ip' => '185.191.171.24',
-                'updated_at' => '2022-11-26 01:26:01',
+                'updated_at' => '2023-02-26 07:11:58',
             ),
             377 => 
             array (
@@ -84504,12 +84504,12 @@ class VisitorsTableSeeder extends Seeder
             445 => 
             array (
                 'article_id' => 34,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-11-30 14:34:36',
                 'id' => 8446,
                 'ip' => '51.222.253.6',
-                'updated_at' => '2022-11-30 14:34:36',
+                'updated_at' => '2023-03-08 22:37:25',
             ),
             446 => 
             array (
@@ -85406,12 +85406,12 @@ class VisitorsTableSeeder extends Seeder
             35 => 
             array (
                 'article_id' => 17,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-12-07 02:21:23',
                 'id' => 8536,
                 'ip' => '185.191.171.40',
-                'updated_at' => '2022-12-07 02:21:23',
+                'updated_at' => '2023-02-26 06:23:48',
             ),
             36 => 
             array (
@@ -85436,12 +85436,12 @@ class VisitorsTableSeeder extends Seeder
             38 => 
             array (
                 'article_id' => 21,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-12-07 07:28:16',
                 'id' => 8539,
                 'ip' => '217.113.194.179',
-                'updated_at' => '2022-12-07 07:28:16',
+                'updated_at' => '2023-02-28 05:00:35',
             ),
             39 => 
             array (
@@ -85536,12 +85536,12 @@ class VisitorsTableSeeder extends Seeder
             48 => 
             array (
                 'article_id' => 17,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-12-07 07:30:59',
                 'id' => 8549,
                 'ip' => '217.113.194.181',
-                'updated_at' => '2022-12-07 07:30:59',
+                'updated_at' => '2023-02-28 05:05:25',
             ),
             49 => 
             array (
@@ -89096,12 +89096,12 @@ class VisitorsTableSeeder extends Seeder
             404 => 
             array (
                 'article_id' => 3,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2022-12-29 10:27:58',
                 'id' => 8905,
                 'ip' => '114.119.152.71',
-                'updated_at' => '2022-12-29 10:27:58',
+                'updated_at' => '2023-02-19 20:36:05',
             ),
             405 => 
             array (
@@ -91758,12 +91758,12 @@ class VisitorsTableSeeder extends Seeder
             170 => 
             array (
                 'article_id' => 28,
-                'clicks' => 2,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2023-01-11 12:37:51',
                 'id' => 9171,
                 'ip' => '100.26.127.17',
-                'updated_at' => '2023-01-17 20:57:33',
+                'updated_at' => '2023-02-23 21:45:03',
             ),
             171 => 
             array (
@@ -91828,12 +91828,12 @@ class VisitorsTableSeeder extends Seeder
             177 => 
             array (
                 'article_id' => 41,
-                'clicks' => 4,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2023-01-12 02:34:49',
                 'id' => 9178,
                 'ip' => '66.249.69.134',
-                'updated_at' => '2023-02-10 18:44:52',
+                'updated_at' => '2023-03-07 08:47:29',
             ),
             178 => 
             array (
@@ -92178,12 +92178,12 @@ class VisitorsTableSeeder extends Seeder
             212 => 
             array (
                 'article_id' => 32,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-01-14 08:31:42',
                 'id' => 9213,
                 'ip' => '185.191.171.44',
-                'updated_at' => '2023-01-14 08:31:42',
+                'updated_at' => '2023-03-08 19:42:17',
             ),
             213 => 
             array (
@@ -92228,12 +92228,12 @@ class VisitorsTableSeeder extends Seeder
             217 => 
             array (
                 'article_id' => 44,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-01-14 12:17:52',
                 'id' => 9218,
                 'ip' => '185.191.171.42',
-                'updated_at' => '2023-01-14 12:17:52',
+                'updated_at' => '2023-02-21 14:35:29',
             ),
             218 => 
             array (
@@ -92858,12 +92858,12 @@ class VisitorsTableSeeder extends Seeder
             280 => 
             array (
                 'article_id' => 36,
-                'clicks' => 3,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2023-01-18 18:10:32',
                 'id' => 9281,
                 'ip' => '54.161.41.102',
-                'updated_at' => '2023-01-20 17:42:40',
+                'updated_at' => '2023-02-27 14:22:16',
             ),
             281 => 
             array (
@@ -93718,12 +93718,12 @@ class VisitorsTableSeeder extends Seeder
             366 => 
             array (
                 'article_id' => 32,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-01-22 05:00:23',
                 'id' => 9367,
                 'ip' => '66.249.69.134',
-                'updated_at' => '2023-01-22 05:00:23',
+                'updated_at' => '2023-03-09 08:48:18',
             ),
             367 => 
             array (
@@ -94228,12 +94228,12 @@ class VisitorsTableSeeder extends Seeder
             417 => 
             array (
                 'article_id' => 41,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-01-24 05:59:19',
                 'id' => 9418,
                 'ip' => '66.249.69.129',
-                'updated_at' => '2023-01-24 05:59:19',
+                'updated_at' => '2023-02-23 21:42:47',
             ),
             418 => 
             array (
@@ -94478,12 +94478,12 @@ class VisitorsTableSeeder extends Seeder
             442 => 
             array (
                 'article_id' => 8,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-01-25 16:24:47',
                 'id' => 9443,
                 'ip' => '66.249.69.134',
-                'updated_at' => '2023-01-25 16:24:47',
+                'updated_at' => '2023-02-20 20:41:39',
             ),
             443 => 
             array (
@@ -94898,12 +94898,12 @@ class VisitorsTableSeeder extends Seeder
             484 => 
             array (
                 'article_id' => 28,
-                'clicks' => 1,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2023-01-28 05:46:23',
                 'id' => 9485,
                 'ip' => '66.249.69.129',
-                'updated_at' => '2023-01-28 05:46:23',
+                'updated_at' => '2023-03-09 00:57:25',
             ),
             485 => 
             array (
@@ -95310,12 +95310,12 @@ class VisitorsTableSeeder extends Seeder
             25 => 
             array (
                 'article_id' => 5,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-01-30 09:21:52',
                 'id' => 9526,
                 'ip' => '185.191.171.5',
-                'updated_at' => '2023-01-30 09:21:52',
+                'updated_at' => '2023-03-09 06:03:56',
             ),
             26 => 
             array (
@@ -95410,12 +95410,12 @@ class VisitorsTableSeeder extends Seeder
             35 => 
             array (
                 'article_id' => 10,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-01-30 19:03:55',
                 'id' => 9536,
                 'ip' => '66.249.73.120',
-                'updated_at' => '2023-01-30 19:03:55',
+                'updated_at' => '2023-02-19 06:25:44',
             ),
             36 => 
             array (
@@ -95430,12 +95430,12 @@ class VisitorsTableSeeder extends Seeder
             37 => 
             array (
                 'article_id' => 10,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-01-30 20:55:09',
                 'id' => 9538,
                 'ip' => '66.249.73.116',
-                'updated_at' => '2023-01-30 20:55:09',
+                'updated_at' => '2023-02-19 07:55:44',
             ),
             38 => 
             array (
@@ -95820,12 +95820,12 @@ class VisitorsTableSeeder extends Seeder
             76 => 
             array (
                 'article_id' => 16,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-02 12:38:47',
                 'id' => 9577,
                 'ip' => '185.191.171.16',
-                'updated_at' => '2023-02-02 12:38:47',
+                'updated_at' => '2023-03-08 18:36:22',
             ),
             77 => 
             array (
@@ -96070,12 +96070,12 @@ class VisitorsTableSeeder extends Seeder
             101 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-03 04:23:14',
                 'id' => 9602,
                 'ip' => '66.249.70.6',
-                'updated_at' => '2023-02-03 04:23:14',
+                'updated_at' => '2023-02-18 13:00:22',
             ),
             102 => 
             array (
@@ -96420,12 +96420,12 @@ class VisitorsTableSeeder extends Seeder
             136 => 
             array (
                 'article_id' => 41,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-04 00:17:25',
                 'id' => 9637,
                 'ip' => '66.249.70.2',
-                'updated_at' => '2023-02-04 00:17:25',
+                'updated_at' => '2023-02-18 01:48:39',
             ),
             137 => 
             array (
@@ -96470,32 +96470,32 @@ class VisitorsTableSeeder extends Seeder
             141 => 
             array (
                 'article_id' => 41,
-                'clicks' => 1,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2023-02-04 05:24:08',
                 'id' => 9642,
                 'ip' => '47.92.30.214',
-                'updated_at' => '2023-02-04 05:24:08',
+                'updated_at' => '2023-03-08 22:40:04',
             ),
             142 => 
             array (
                 'article_id' => 44,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-04 05:24:08',
                 'id' => 9643,
                 'ip' => '47.92.33.185',
-                'updated_at' => '2023-02-04 05:24:08',
+                'updated_at' => '2023-03-03 15:25:33',
             ),
             143 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2023-02-04 05:24:08',
                 'id' => 9644,
                 'ip' => '47.92.30.214',
-                'updated_at' => '2023-02-04 05:24:08',
+                'updated_at' => '2023-03-08 22:40:05',
             ),
             144 => 
             array (
@@ -96580,12 +96580,12 @@ class VisitorsTableSeeder extends Seeder
             152 => 
             array (
                 'article_id' => 17,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-04 16:40:12',
                 'id' => 9653,
                 'ip' => '103.176.152.23',
-                'updated_at' => '2023-02-04 16:40:12',
+                'updated_at' => '2023-02-18 11:00:14',
             ),
             153 => 
             array (
@@ -96930,12 +96930,12 @@ class VisitorsTableSeeder extends Seeder
             187 => 
             array (
                 'article_id' => 2,
-                'clicks' => 1,
+                'clicks' => 5,
                 'country' => NULL,
                 'created_at' => '2023-02-05 17:20:31',
                 'id' => 9688,
                 'ip' => '103.176.152.25',
-                'updated_at' => '2023-02-05 17:20:31',
+                'updated_at' => '2023-02-19 23:39:38',
             ),
             188 => 
             array (
@@ -97480,12 +97480,12 @@ class VisitorsTableSeeder extends Seeder
             242 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-08 21:32:56',
                 'id' => 9743,
                 'ip' => '66.249.69.134',
-                'updated_at' => '2023-02-08 21:32:56',
+                'updated_at' => '2023-02-23 02:52:17',
             ),
             243 => 
             array (
@@ -97560,22 +97560,22 @@ class VisitorsTableSeeder extends Seeder
             250 => 
             array (
                 'article_id' => 41,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-09 09:29:15',
                 'id' => 9751,
                 'ip' => '47.92.73.218',
-                'updated_at' => '2023-02-09 09:29:15',
+                'updated_at' => '2023-03-11 22:29:19',
             ),
             251 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-09 09:29:16',
                 'id' => 9752,
                 'ip' => '47.92.73.218',
-                'updated_at' => '2023-02-09 09:29:16',
+                'updated_at' => '2023-03-11 22:29:20',
             ),
             252 => 
             array (
@@ -97590,12 +97590,12 @@ class VisitorsTableSeeder extends Seeder
             253 => 
             array (
                 'article_id' => 36,
-                'clicks' => 1,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2023-02-09 09:29:17',
                 'id' => 9754,
                 'ip' => '47.92.72.15',
-                'updated_at' => '2023-02-09 09:29:17',
+                'updated_at' => '2023-03-11 23:39:15',
             ),
             254 => 
             array (
@@ -97650,12 +97650,12 @@ class VisitorsTableSeeder extends Seeder
             259 => 
             array (
                 'article_id' => 27,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2023-02-09 13:38:24',
                 'id' => 9760,
                 'ip' => '103.176.152.13',
-                'updated_at' => '2023-02-15 00:09:05',
+                'updated_at' => '2023-03-04 23:23:47',
             ),
             260 => 
             array (
@@ -97730,12 +97730,12 @@ class VisitorsTableSeeder extends Seeder
             267 => 
             array (
                 'article_id' => 10,
-                'clicks' => 3,
+                'clicks' => 4,
                 'country' => NULL,
                 'created_at' => '2023-02-10 00:33:14',
                 'id' => 9768,
                 'ip' => '66.249.69.134',
-                'updated_at' => '2023-02-14 03:57:33',
+                'updated_at' => '2023-02-24 11:47:53',
             ),
             268 => 
             array (
@@ -97880,12 +97880,12 @@ class VisitorsTableSeeder extends Seeder
             282 => 
             array (
                 'article_id' => 5,
-                'clicks' => 2,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2023-02-10 17:00:47',
                 'id' => 9783,
                 'ip' => '66.249.69.132',
-                'updated_at' => '2023-02-13 09:29:27',
+                'updated_at' => '2023-03-11 20:11:36',
             ),
             283 => 
             array (
@@ -97950,32 +97950,32 @@ class VisitorsTableSeeder extends Seeder
             289 => 
             array (
                 'article_id' => 41,
-                'clicks' => 1,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2023-02-11 04:23:49',
                 'id' => 9790,
                 'ip' => '47.92.67.105',
-                'updated_at' => '2023-02-11 04:23:49',
+                'updated_at' => '2023-03-09 22:26:10',
             ),
             290 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2023-02-11 04:23:50',
                 'id' => 9791,
                 'ip' => '47.92.67.105',
-                'updated_at' => '2023-02-11 04:23:50',
+                'updated_at' => '2023-03-09 22:26:11',
             ),
             291 => 
             array (
                 'article_id' => 36,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-11 04:23:50',
                 'id' => 9792,
                 'ip' => '47.92.78.126',
-                'updated_at' => '2023-02-11 04:23:50',
+                'updated_at' => '2023-03-08 22:40:05',
             ),
             292 => 
             array (
@@ -98220,12 +98220,12 @@ class VisitorsTableSeeder extends Seeder
             316 => 
             array (
                 'article_id' => 27,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-13 07:59:27',
                 'id' => 9817,
                 'ip' => '66.249.69.134',
-                'updated_at' => '2023-02-13 07:59:27',
+                'updated_at' => '2023-02-24 17:21:56',
             ),
             317 => 
             array (
@@ -98570,22 +98570,22 @@ class VisitorsTableSeeder extends Seeder
             351 => 
             array (
                 'article_id' => 40,
-                'clicks' => 1,
+                'clicks' => 3,
                 'country' => NULL,
                 'created_at' => '2023-02-14 03:44:14',
                 'id' => 9852,
                 'ip' => '8.142.104.65',
-                'updated_at' => '2023-02-14 03:44:14',
+                'updated_at' => '2023-03-15 04:15:47',
             ),
             352 => 
             array (
                 'article_id' => 36,
-                'clicks' => 1,
+                'clicks' => 2,
                 'country' => NULL,
                 'created_at' => '2023-02-14 03:44:14',
                 'id' => 9853,
                 'ip' => '47.92.29.136',
-                'updated_at' => '2023-02-14 03:44:14',
+                'updated_at' => '2023-03-10 22:33:37',
             ),
             353 => 
             array (
@@ -99096,6 +99096,5918 @@ class VisitorsTableSeeder extends Seeder
                 'id' => 9904,
                 'ip' => '114.119.152.204',
                 'updated_at' => '2023-02-16 09:29:10',
+            ),
+            404 => 
+            array (
+                'article_id' => 27,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:07:40',
+                'id' => 9905,
+                'ip' => '103.176.152.33',
+                'updated_at' => '2023-02-16 17:07:40',
+            ),
+            405 => 
+            array (
+                'article_id' => 52,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:07:45',
+                'id' => 9906,
+                'ip' => '103.176.152.33',
+                'updated_at' => '2023-02-16 17:07:54',
+            ),
+            406 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:39:22',
+                'id' => 9907,
+                'ip' => '217.113.194.183',
+                'updated_at' => '2023-02-16 17:39:22',
+            ),
+            407 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:39:39',
+                'id' => 9908,
+                'ip' => '217.113.194.164',
+                'updated_at' => '2023-02-16 17:39:39',
+            ),
+            408 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:39:55',
+                'id' => 9909,
+                'ip' => '217.113.194.138',
+                'updated_at' => '2023-02-16 17:39:55',
+            ),
+            409 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:40:11',
+                'id' => 9910,
+                'ip' => '217.113.194.189',
+                'updated_at' => '2023-02-16 17:40:11',
+            ),
+            410 => 
+            array (
+                'article_id' => 17,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:40:28',
+                'id' => 9911,
+                'ip' => '217.113.194.164',
+                'updated_at' => '2023-02-16 17:40:28',
+            ),
+            411 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:40:44',
+                'id' => 9912,
+                'ip' => '217.113.194.165',
+                'updated_at' => '2023-02-16 17:40:44',
+            ),
+            412 => 
+            array (
+                'article_id' => 11,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:41:00',
+                'id' => 9913,
+                'ip' => '217.113.194.166',
+                'updated_at' => '2023-02-16 17:41:00',
+            ),
+            413 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:41:16',
+                'id' => 9914,
+                'ip' => '217.113.194.181',
+                'updated_at' => '2023-02-16 17:41:16',
+            ),
+            414 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:41:33',
+                'id' => 9915,
+                'ip' => '217.113.194.131',
+                'updated_at' => '2023-02-16 17:41:33',
+            ),
+            415 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 17:41:49',
+                'id' => 9916,
+                'ip' => '217.113.194.153',
+                'updated_at' => '2023-02-16 17:41:49',
+            ),
+            416 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 18:04:46',
+                'id' => 9917,
+                'ip' => '103.7.29.31',
+                'updated_at' => '2023-02-16 18:04:46',
+            ),
+            417 => 
+            array (
+                'article_id' => 11,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 18:12:16',
+                'id' => 9918,
+                'ip' => '114.119.149.71',
+                'updated_at' => '2023-02-16 18:12:16',
+            ),
+            418 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 5,
+                'country' => NULL,
+                'created_at' => '2023-02-16 18:17:25',
+                'id' => 9919,
+                'ip' => '183.251.119.41',
+                'updated_at' => '2023-02-16 21:03:58',
+            ),
+            419 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 18:33:16',
+                'id' => 9920,
+                'ip' => '114.119.140.74',
+                'updated_at' => '2023-02-16 18:33:16',
+            ),
+            420 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 18:35:20',
+                'id' => 9921,
+                'ip' => '114.119.153.208',
+                'updated_at' => '2023-02-16 18:35:20',
+            ),
+            421 => 
+            array (
+                'article_id' => 3,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 18:57:37',
+                'id' => 9922,
+                'ip' => '114.119.146.114',
+                'updated_at' => '2023-02-16 18:57:37',
+            ),
+            422 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 19:09:20',
+                'id' => 9923,
+                'ip' => '114.119.130.99',
+                'updated_at' => '2023-02-16 19:09:20',
+            ),
+            423 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 21:04:37',
+                'id' => 9924,
+                'ip' => '66.249.66.11',
+                'updated_at' => '2023-02-16 21:04:37',
+            ),
+            424 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-02-16 21:49:38',
+                'id' => 9925,
+                'ip' => '103.176.152.33',
+                'updated_at' => '2023-02-16 22:12:35',
+            ),
+            425 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-16 23:19:09',
+                'id' => 9926,
+                'ip' => '66.249.66.42',
+                'updated_at' => '2023-02-16 23:19:09',
+            ),
+            426 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 00:04:08',
+                'id' => 9927,
+                'ip' => '66.249.66.40',
+                'updated_at' => '2023-02-17 00:04:08',
+            ),
+            427 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 01:28:51',
+                'id' => 9928,
+                'ip' => '114.119.134.18',
+                'updated_at' => '2023-02-17 01:28:51',
+            ),
+            428 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 10:07:44',
+                'id' => 9929,
+                'ip' => '103.90.138.34',
+                'updated_at' => '2023-02-17 10:07:44',
+            ),
+            429 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 11:41:12',
+                'id' => 9930,
+                'ip' => '42.236.10.106',
+                'updated_at' => '2023-02-17 11:41:12',
+            ),
+            430 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 11:41:12',
+                'id' => 9931,
+                'ip' => '42.236.10.114',
+                'updated_at' => '2023-02-17 11:41:12',
+            ),
+            431 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 12:19:16',
+                'id' => 9932,
+                'ip' => '185.191.171.20',
+                'updated_at' => '2023-02-17 12:19:16',
+            ),
+            432 => 
+            array (
+                'article_id' => 9,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 13:46:01',
+                'id' => 9933,
+                'ip' => '114.119.166.88',
+                'updated_at' => '2023-02-17 13:46:01',
+            ),
+            433 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 15:22:04',
+                'id' => 9934,
+                'ip' => '100.26.127.17',
+                'updated_at' => '2023-02-17 15:22:04',
+            ),
+            434 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 17:35:37',
+                'id' => 9935,
+                'ip' => '47.74.22.166',
+                'updated_at' => '2023-02-17 17:35:37',
+            ),
+            435 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 18:18:20',
+                'id' => 9936,
+                'ip' => '185.191.171.42',
+                'updated_at' => '2023-02-17 18:18:20',
+            ),
+            436 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 18:18:39',
+                'id' => 9937,
+                'ip' => '66.249.66.42',
+                'updated_at' => '2023-02-17 18:18:39',
+            ),
+            437 => 
+            array (
+                'article_id' => 52,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 20:13:30',
+                'id' => 9938,
+                'ip' => '103.176.152.8',
+                'updated_at' => '2023-02-17 20:13:30',
+            ),
+            438 => 
+            array (
+                'article_id' => 33,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-17 20:14:58',
+                'id' => 9939,
+                'ip' => '183.251.119.54',
+                'updated_at' => '2023-02-18 15:25:53',
+            ),
+            439 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 23:11:55',
+                'id' => 9940,
+                'ip' => '114.119.146.36',
+                'updated_at' => '2023-02-17 23:11:55',
+            ),
+            440 => 
+            array (
+                'article_id' => 6,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 23:23:55',
+                'id' => 9941,
+                'ip' => '114.119.136.32',
+                'updated_at' => '2023-02-17 23:23:55',
+            ),
+            441 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-17 23:27:40',
+                'id' => 9942,
+                'ip' => '114.119.149.228',
+                'updated_at' => '2023-02-17 23:27:40',
+            ),
+            442 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 00:37:25',
+                'id' => 9943,
+                'ip' => '114.119.152.195',
+                'updated_at' => '2023-02-18 00:37:25',
+            ),
+            443 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 01:07:12',
+                'id' => 9944,
+                'ip' => '66.249.71.149',
+                'updated_at' => '2023-02-18 01:07:12',
+            ),
+            444 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 02:07:50',
+                'id' => 9945,
+                'ip' => '114.119.136.113',
+                'updated_at' => '2023-02-18 02:07:50',
+            ),
+            445 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 02:14:52',
+                'id' => 9946,
+                'ip' => '114.119.159.161',
+                'updated_at' => '2023-02-18 02:14:52',
+            ),
+            446 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 04:06:10',
+                'id' => 9947,
+                'ip' => '185.191.171.25',
+                'updated_at' => '2023-02-18 04:06:10',
+            ),
+            447 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 04:40:02',
+                'id' => 9948,
+                'ip' => '185.191.171.25',
+                'updated_at' => '2023-02-18 04:40:02',
+            ),
+            448 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-02-18 05:36:09',
+                'id' => 9949,
+                'ip' => '47.92.79.156',
+                'updated_at' => '2023-03-03 15:25:33',
+            ),
+            449 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 05:36:10',
+                'id' => 9950,
+                'ip' => '47.92.79.156',
+                'updated_at' => '2023-02-18 05:36:10',
+            ),
+            450 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 07:00:26',
+                'id' => 9951,
+                'ip' => '66.249.71.97',
+                'updated_at' => '2023-02-18 07:00:26',
+            ),
+            451 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 08:14:43',
+                'id' => 9952,
+                'ip' => '103.175.27.41',
+                'updated_at' => '2023-02-18 08:14:43',
+            ),
+            452 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 08:15:19',
+                'id' => 9953,
+                'ip' => '114.119.156.250',
+                'updated_at' => '2023-02-18 08:15:19',
+            ),
+            453 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 08:30:22',
+                'id' => 9954,
+                'ip' => '66.249.71.98',
+                'updated_at' => '2023-02-18 08:30:22',
+            ),
+            454 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 10:49:16',
+                'id' => 9955,
+                'ip' => '66.249.71.149',
+                'updated_at' => '2023-02-18 10:49:16',
+            ),
+            455 => 
+            array (
+                'article_id' => 52,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 15:25:12',
+                'id' => 9956,
+                'ip' => '103.176.152.23',
+                'updated_at' => '2023-02-18 15:25:12',
+            ),
+            456 => 
+            array (
+                'article_id' => 56,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-18 15:26:35',
+                'id' => 9957,
+                'ip' => '183.251.119.54',
+                'updated_at' => '2023-02-22 23:20:16',
+            ),
+            457 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 16:19:58',
+                'id' => 9958,
+                'ip' => '114.119.136.176',
+                'updated_at' => '2023-02-18 16:19:58',
+            ),
+            458 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-18 17:21:41',
+                'id' => 9959,
+                'ip' => '220.246.252.67',
+                'updated_at' => '2023-02-18 17:27:45',
+            ),
+            459 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 21:27:44',
+                'id' => 9960,
+                'ip' => '66.249.73.116',
+                'updated_at' => '2023-02-18 21:27:44',
+            ),
+            460 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 21:29:17',
+                'id' => 9961,
+                'ip' => '66.249.71.183',
+                'updated_at' => '2023-02-18 21:29:17',
+            ),
+            461 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-18 22:57:42',
+                'id' => 9962,
+                'ip' => '66.249.73.120',
+                'updated_at' => '2023-02-18 22:57:42',
+            ),
+            462 => 
+            array (
+                'article_id' => 54,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 00:29:42',
+                'id' => 9963,
+                'ip' => '103.176.152.8',
+                'updated_at' => '2023-02-19 00:29:42',
+            ),
+            463 => 
+            array (
+                'article_id' => 56,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 00:30:10',
+                'id' => 9964,
+                'ip' => '103.176.152.8',
+                'updated_at' => '2023-02-19 00:30:10',
+            ),
+            464 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 00:55:32',
+                'id' => 9965,
+                'ip' => '114.119.146.4',
+                'updated_at' => '2023-02-19 00:55:32',
+            ),
+            465 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 01:49:16',
+                'id' => 9966,
+                'ip' => '114.119.136.148',
+                'updated_at' => '2023-02-19 01:49:16',
+            ),
+            466 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-19 04:35:43',
+                'id' => 9967,
+                'ip' => '66.249.73.118',
+                'updated_at' => '2023-02-19 06:50:44',
+            ),
+            467 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 04:55:44',
+                'id' => 9968,
+                'ip' => '66.249.73.120',
+                'updated_at' => '2023-02-19 04:55:44',
+            ),
+            468 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 06:08:59',
+                'id' => 9969,
+                'ip' => '114.119.140.29',
+                'updated_at' => '2023-02-19 06:08:59',
+            ),
+            469 => 
+            array (
+                'article_id' => 17,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 06:10:41',
+                'id' => 9970,
+                'ip' => '114.119.142.125',
+                'updated_at' => '2023-02-19 06:10:41',
+            ),
+            470 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 06:21:35',
+                'id' => 9971,
+                'ip' => '66.249.70.208',
+                'updated_at' => '2023-02-19 06:21:35',
+            ),
+            471 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 08:20:44',
+                'id' => 9972,
+                'ip' => '61.146.158.109',
+                'updated_at' => '2023-02-19 08:20:44',
+            ),
+            472 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 11:29:58',
+                'id' => 9973,
+                'ip' => '114.119.144.63',
+                'updated_at' => '2023-02-19 11:29:58',
+            ),
+            473 => 
+            array (
+                'article_id' => 17,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 19:44:55',
+                'id' => 9974,
+                'ip' => '103.176.152.10',
+                'updated_at' => '2023-02-19 19:44:55',
+            ),
+            474 => 
+            array (
+                'article_id' => 52,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 19:45:07',
+                'id' => 9975,
+                'ip' => '103.176.152.10',
+                'updated_at' => '2023-02-19 19:45:07',
+            ),
+            475 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 5,
+                'country' => NULL,
+                'created_at' => '2023-02-19 21:06:32',
+                'id' => 9976,
+                'ip' => '183.251.119.54',
+                'updated_at' => '2023-02-22 23:38:34',
+            ),
+            476 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-19 21:07:03',
+                'id' => 9977,
+                'ip' => '54.223.211.208',
+                'updated_at' => '2023-02-19 21:07:03',
+            ),
+            477 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 21:13:05',
+                'id' => 9978,
+                'ip' => '114.119.135.207',
+                'updated_at' => '2023-02-19 21:13:05',
+            ),
+            478 => 
+            array (
+                'article_id' => 9,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-19 23:01:39',
+                'id' => 9979,
+                'ip' => '114.119.132.112',
+                'updated_at' => '2023-02-19 23:01:39',
+            ),
+            479 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 6,
+                'country' => NULL,
+                'created_at' => '2023-02-19 23:27:12',
+                'id' => 9980,
+                'ip' => '103.176.152.25',
+                'updated_at' => '2023-02-20 00:44:14',
+            ),
+            480 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 02:44:09',
+                'id' => 9981,
+                'ip' => '113.90.184.55',
+                'updated_at' => '2023-02-20 02:44:09',
+            ),
+            481 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-20 03:43:38',
+                'id' => 9982,
+                'ip' => '66.249.74.51',
+                'updated_at' => '2023-02-20 04:20:56',
+            ),
+            482 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 07:36:04',
+                'id' => 9983,
+                'ip' => '114.119.148.202',
+                'updated_at' => '2023-02-20 07:36:04',
+            ),
+            483 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 08:32:45',
+                'id' => 9984,
+                'ip' => '114.119.151.60',
+                'updated_at' => '2023-02-20 08:32:45',
+            ),
+            484 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 08:34:40',
+                'id' => 9985,
+                'ip' => '114.119.145.249',
+                'updated_at' => '2023-02-20 08:34:40',
+            ),
+            485 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-20 10:31:34',
+                'id' => 9986,
+                'ip' => '193.123.244.97',
+                'updated_at' => '2023-02-20 10:34:47',
+            ),
+            486 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 10:32:44',
+                'id' => 9987,
+                'ip' => '125.115.192.150',
+                'updated_at' => '2023-02-20 10:32:44',
+            ),
+            487 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 10:46:01',
+                'id' => 9988,
+                'ip' => '157.55.39.39',
+                'updated_at' => '2023-02-20 10:46:01',
+            ),
+            488 => 
+            array (
+                'article_id' => 16,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 12:10:41',
+                'id' => 9989,
+                'ip' => '114.119.144.87',
+                'updated_at' => '2023-02-20 12:10:41',
+            ),
+            489 => 
+            array (
+                'article_id' => 16,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 12:56:44',
+                'id' => 9990,
+                'ip' => '114.119.148.138',
+                'updated_at' => '2023-02-20 12:56:44',
+            ),
+            490 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 15:36:48',
+                'id' => 9991,
+                'ip' => '114.119.149.233',
+                'updated_at' => '2023-02-20 15:36:48',
+            ),
+            491 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 18:53:46',
+                'id' => 9992,
+                'ip' => '60.174.195.38',
+                'updated_at' => '2023-02-20 18:53:46',
+            ),
+            492 => 
+            array (
+                'article_id' => 57,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-20 19:35:17',
+                'id' => 9993,
+                'ip' => '183.251.119.54',
+                'updated_at' => '2023-02-22 23:19:43',
+            ),
+            493 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-20 19:42:34',
+                'id' => 9994,
+                'ip' => '113.90.184.196',
+                'updated_at' => '2023-02-20 19:42:34',
+            ),
+            494 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 00:19:46',
+                'id' => 9995,
+                'ip' => '114.119.130.218',
+                'updated_at' => '2023-02-21 00:19:46',
+            ),
+            495 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 00:34:09',
+                'id' => 9996,
+                'ip' => '114.119.157.143',
+                'updated_at' => '2023-02-21 00:34:09',
+            ),
+            496 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 01:12:26',
+                'id' => 9997,
+                'ip' => '114.119.142.204',
+                'updated_at' => '2023-02-21 01:12:26',
+            ),
+            497 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 04:51:43',
+                'id' => 9998,
+                'ip' => '66.249.70.211',
+                'updated_at' => '2023-02-21 04:51:43',
+            ),
+            498 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-21 05:13:08',
+                'id' => 9999,
+                'ip' => '51.222.253.20',
+                'updated_at' => '2023-03-17 04:18:36',
+            ),
+            499 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 06:54:45',
+                'id' => 10000,
+                'ip' => '51.222.253.13',
+                'updated_at' => '2023-02-21 06:54:45',
+            ),
+        ));
+        \DB::table('visitors')->insert(array (
+            0 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 10:18:16',
+                'id' => 10001,
+                'ip' => '100.26.127.17',
+                'updated_at' => '2023-02-21 10:18:16',
+            ),
+            1 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 11:06:15',
+                'id' => 10002,
+                'ip' => '114.119.135.83',
+                'updated_at' => '2023-02-21 11:06:15',
+            ),
+            2 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 11:57:40',
+                'id' => 10003,
+                'ip' => '114.119.135.172',
+                'updated_at' => '2023-02-21 11:57:40',
+            ),
+            3 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 12:00:29',
+                'id' => 10004,
+                'ip' => '114.119.133.26',
+                'updated_at' => '2023-02-21 12:00:29',
+            ),
+            4 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 14:16:37',
+                'id' => 10005,
+                'ip' => '220.246.254.226',
+                'updated_at' => '2023-02-21 14:16:37',
+            ),
+            5 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 15:39:13',
+                'id' => 10006,
+                'ip' => '66.249.70.211',
+                'updated_at' => '2023-02-21 15:39:13',
+            ),
+            6 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 16:18:08',
+                'id' => 10007,
+                'ip' => '66.249.71.149',
+                'updated_at' => '2023-02-21 16:18:08',
+            ),
+            7 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 19:40:04',
+                'id' => 10008,
+                'ip' => '103.172.41.206',
+                'updated_at' => '2023-02-21 19:40:04',
+            ),
+            8 => 
+            array (
+                'article_id' => 6,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-21 20:12:41',
+                'id' => 10009,
+                'ip' => '114.119.159.33',
+                'updated_at' => '2023-02-21 20:12:41',
+            ),
+            9 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 04:04:24',
+                'id' => 10010,
+                'ip' => '114.119.138.199',
+                'updated_at' => '2023-02-22 04:04:24',
+            ),
+            10 => 
+            array (
+                'article_id' => 4,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 04:37:41',
+                'id' => 10011,
+                'ip' => '114.119.155.228',
+                'updated_at' => '2023-02-22 04:37:41',
+            ),
+            11 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 06:16:14',
+                'id' => 10012,
+                'ip' => '114.119.137.125',
+                'updated_at' => '2023-02-22 06:16:14',
+            ),
+            12 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 06:17:16',
+                'id' => 10013,
+                'ip' => '114.119.143.123',
+                'updated_at' => '2023-02-22 06:17:16',
+            ),
+            13 => 
+            array (
+                'article_id' => 9,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 08:16:23',
+                'id' => 10014,
+                'ip' => '66.249.69.129',
+                'updated_at' => '2023-02-22 08:16:23',
+            ),
+            14 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 14:05:33',
+                'id' => 10015,
+                'ip' => '185.191.171.19',
+                'updated_at' => '2023-02-22 14:05:33',
+            ),
+            15 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-22 14:25:57',
+                'id' => 10016,
+                'ip' => '174.128.231.247',
+                'updated_at' => '2023-02-22 14:46:58',
+            ),
+            16 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 14:30:35',
+                'id' => 10017,
+                'ip' => '185.191.171.34',
+                'updated_at' => '2023-02-22 14:30:35',
+            ),
+            17 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 14:42:34',
+                'id' => 10018,
+                'ip' => '66.249.69.129',
+                'updated_at' => '2023-02-22 14:42:34',
+            ),
+            18 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 14:42:38',
+                'id' => 10019,
+                'ip' => '61.164.47.26',
+                'updated_at' => '2023-02-22 14:42:38',
+            ),
+            19 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 14:47:34',
+                'id' => 10020,
+                'ip' => '114.119.159.183',
+                'updated_at' => '2023-02-22 14:47:34',
+            ),
+            20 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 15:05:04',
+                'id' => 10021,
+                'ip' => '66.249.69.134',
+                'updated_at' => '2023-02-22 15:05:04',
+            ),
+            21 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 15:32:07',
+                'id' => 10022,
+                'ip' => '114.119.158.36',
+                'updated_at' => '2023-02-22 15:32:07',
+            ),
+            22 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 17:43:44',
+                'id' => 10023,
+                'ip' => '3.22.112.173',
+                'updated_at' => '2023-02-22 17:43:44',
+            ),
+            23 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 17:57:31',
+                'id' => 10024,
+                'ip' => '114.119.152.73',
+                'updated_at' => '2023-02-22 17:57:31',
+            ),
+            24 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-22 21:38:11',
+                'id' => 10025,
+                'ip' => '47.92.37.1',
+                'updated_at' => '2023-03-15 04:15:46',
+            ),
+            25 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 21:38:12',
+                'id' => 10026,
+                'ip' => '47.92.31.143',
+                'updated_at' => '2023-02-22 21:38:12',
+            ),
+            26 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 21:38:12',
+                'id' => 10027,
+                'ip' => '47.92.37.1',
+                'updated_at' => '2023-02-22 21:38:12',
+            ),
+            27 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 21:38:12',
+                'id' => 10028,
+                'ip' => '47.92.37.1',
+                'updated_at' => '2023-02-22 21:38:12',
+            ),
+            28 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 23:06:45',
+                'id' => 10029,
+                'ip' => '114.119.155.36',
+                'updated_at' => '2023-02-22 23:06:45',
+            ),
+            29 => 
+            array (
+                'article_id' => 4,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 23:07:22',
+                'id' => 10030,
+                'ip' => '114.119.150.249',
+                'updated_at' => '2023-02-22 23:07:22',
+            ),
+            30 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 23:11:18',
+                'id' => 10031,
+                'ip' => '114.119.128.208',
+                'updated_at' => '2023-02-22 23:11:18',
+            ),
+            31 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-22 23:40:32',
+                'id' => 10032,
+                'ip' => '114.119.137.143',
+                'updated_at' => '2023-02-22 23:40:32',
+            ),
+            32 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 00:17:21',
+                'id' => 10033,
+                'ip' => '114.119.138.230',
+                'updated_at' => '2023-02-23 00:17:21',
+            ),
+            33 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 00:18:42',
+                'id' => 10034,
+                'ip' => '114.119.137.238',
+                'updated_at' => '2023-02-23 00:18:42',
+            ),
+            34 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 01:55:02',
+                'id' => 10035,
+                'ip' => '5.255.231.32',
+                'updated_at' => '2023-02-23 01:55:02',
+            ),
+            35 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 01:56:17',
+                'id' => 10036,
+                'ip' => '213.180.203.161',
+                'updated_at' => '2023-02-23 01:56:17',
+            ),
+            36 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 07:09:35',
+                'id' => 10037,
+                'ip' => '66.249.71.147',
+                'updated_at' => '2023-02-23 07:09:35',
+            ),
+            37 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 12:49:24',
+                'id' => 10038,
+                'ip' => '114.119.138.250',
+                'updated_at' => '2023-02-23 12:49:24',
+            ),
+            38 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 14:14:38',
+                'id' => 10039,
+                'ip' => '220.181.58.51',
+                'updated_at' => '2023-02-23 14:14:38',
+            ),
+            39 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 17:19:13',
+                'id' => 10040,
+                'ip' => '45.251.104.137',
+                'updated_at' => '2023-02-23 17:19:13',
+            ),
+            40 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 17:28:13',
+                'id' => 10041,
+                'ip' => '114.119.150.32',
+                'updated_at' => '2023-02-23 17:28:13',
+            ),
+            41 => 
+            array (
+                'article_id' => 11,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 17:52:10',
+                'id' => 10042,
+                'ip' => '114.119.138.194',
+                'updated_at' => '2023-02-23 17:52:10',
+            ),
+            42 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 18:21:14',
+                'id' => 10043,
+                'ip' => '114.119.156.124',
+                'updated_at' => '2023-02-23 18:21:14',
+            ),
+            43 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 18:37:29',
+                'id' => 10044,
+                'ip' => '114.119.130.125',
+                'updated_at' => '2023-02-23 18:37:29',
+            ),
+            44 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-23 18:44:41',
+                'id' => 10045,
+                'ip' => '171.217.92.238',
+                'updated_at' => '2023-02-24 10:00:49',
+            ),
+            45 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 19:46:10',
+                'id' => 10046,
+                'ip' => '51.222.253.4',
+                'updated_at' => '2023-02-23 19:46:10',
+            ),
+            46 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 20:56:53',
+                'id' => 10047,
+                'ip' => '122.14.229.62',
+                'updated_at' => '2023-02-23 20:56:53',
+            ),
+            47 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 21:01:57',
+                'id' => 10048,
+                'ip' => '114.119.156.251',
+                'updated_at' => '2023-02-23 21:01:57',
+            ),
+            48 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-23 23:12:50',
+                'id' => 10049,
+                'ip' => '66.249.75.141',
+                'updated_at' => '2023-02-23 23:12:50',
+            ),
+            49 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 00:23:30',
+                'id' => 10050,
+                'ip' => '66.249.75.146',
+                'updated_at' => '2023-02-24 00:23:30',
+            ),
+            50 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 02:14:19',
+                'id' => 10051,
+                'ip' => '114.119.151.146',
+                'updated_at' => '2023-02-24 02:14:19',
+            ),
+            51 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-02-24 03:32:44',
+                'id' => 10052,
+                'ip' => '47.92.5.239',
+                'updated_at' => '2023-03-07 23:12:05',
+            ),
+            52 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-02-24 03:32:45',
+                'id' => 10053,
+                'ip' => '47.92.5.239',
+                'updated_at' => '2023-03-15 04:59:37',
+            ),
+            53 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-24 03:32:45',
+                'id' => 10054,
+                'ip' => '47.92.5.239',
+                'updated_at' => '2023-03-07 23:12:11',
+            ),
+            54 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-24 03:32:45',
+                'id' => 10055,
+                'ip' => '47.92.79.86',
+                'updated_at' => '2023-03-15 23:59:59',
+            ),
+            55 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 03:38:37',
+                'id' => 10056,
+                'ip' => '66.249.71.147',
+                'updated_at' => '2023-02-24 03:38:37',
+            ),
+            56 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 04:37:26',
+                'id' => 10057,
+                'ip' => '114.119.150.208',
+                'updated_at' => '2023-02-24 04:37:26',
+            ),
+            57 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 04:40:09',
+                'id' => 10058,
+                'ip' => '114.119.139.66',
+                'updated_at' => '2023-02-24 04:40:09',
+            ),
+            58 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 04:44:19',
+                'id' => 10059,
+                'ip' => '114.119.154.211',
+                'updated_at' => '2023-02-24 04:44:19',
+            ),
+            59 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 09:05:56',
+                'id' => 10060,
+                'ip' => '66.249.69.134',
+                'updated_at' => '2023-02-24 09:05:56',
+            ),
+            60 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 12:45:45',
+                'id' => 10061,
+                'ip' => '114.119.132.76',
+                'updated_at' => '2023-02-24 12:45:45',
+            ),
+            61 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 13:17:53',
+                'id' => 10062,
+                'ip' => '66.249.69.132',
+                'updated_at' => '2023-02-24 13:17:53',
+            ),
+            62 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 13:46:47',
+                'id' => 10063,
+                'ip' => '66.249.71.151',
+                'updated_at' => '2023-02-24 13:46:47',
+            ),
+            63 => 
+            array (
+                'article_id' => 17,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 15:15:55',
+                'id' => 10064,
+                'ip' => '114.119.147.203',
+                'updated_at' => '2023-02-24 15:15:55',
+            ),
+            64 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 15:22:04',
+                'id' => 10065,
+                'ip' => '203.177.137.206',
+                'updated_at' => '2023-02-24 15:22:04',
+            ),
+            65 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 15:38:19',
+                'id' => 10066,
+                'ip' => '114.119.143.177',
+                'updated_at' => '2023-02-24 15:38:19',
+            ),
+            66 => 
+            array (
+                'article_id' => 27,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-24 15:51:56',
+                'id' => 10067,
+                'ip' => '66.249.69.132',
+                'updated_at' => '2023-02-24 16:36:56',
+            ),
+            67 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 21:49:27',
+                'id' => 10068,
+                'ip' => '114.119.159.177',
+                'updated_at' => '2023-02-24 21:49:27',
+            ),
+            68 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 22:54:14',
+                'id' => 10069,
+                'ip' => '114.119.159.62',
+                'updated_at' => '2023-02-24 22:54:14',
+            ),
+            69 => 
+            array (
+                'article_id' => 9,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 23:56:00',
+                'id' => 10070,
+                'ip' => '114.119.165.226',
+                'updated_at' => '2023-02-24 23:56:00',
+            ),
+            70 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-24 23:59:06',
+                'id' => 10071,
+                'ip' => '114.119.147.58',
+                'updated_at' => '2023-02-24 23:59:06',
+            ),
+            71 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 01:27:50',
+                'id' => 10072,
+                'ip' => '114.119.141.116',
+                'updated_at' => '2023-02-25 01:27:50',
+            ),
+            72 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 04:23:48',
+                'id' => 10073,
+                'ip' => '39.103.133.249',
+                'updated_at' => '2023-02-25 04:23:48',
+            ),
+            73 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 04:23:49',
+                'id' => 10074,
+                'ip' => '39.103.133.249',
+                'updated_at' => '2023-02-25 04:23:49',
+            ),
+            74 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 04:23:49',
+                'id' => 10075,
+                'ip' => '39.103.133.249',
+                'updated_at' => '2023-02-25 04:23:49',
+            ),
+            75 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 04:23:49',
+                'id' => 10076,
+                'ip' => '39.103.133.249',
+                'updated_at' => '2023-02-25 04:23:49',
+            ),
+            76 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 04:56:29',
+                'id' => 10077,
+                'ip' => '114.119.159.8',
+                'updated_at' => '2023-02-25 04:56:29',
+            ),
+            77 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 07:03:59',
+                'id' => 10078,
+                'ip' => '114.119.143.110',
+                'updated_at' => '2023-02-25 07:03:59',
+            ),
+            78 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 07:05:43',
+                'id' => 10079,
+                'ip' => '114.119.150.186',
+                'updated_at' => '2023-02-25 07:05:43',
+            ),
+            79 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 14:31:17',
+                'id' => 10080,
+                'ip' => '125.227.77.193',
+                'updated_at' => '2023-02-25 14:31:17',
+            ),
+            80 => 
+            array (
+                'article_id' => 3,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 16:24:45',
+                'id' => 10081,
+                'ip' => '114.119.135.78',
+                'updated_at' => '2023-02-25 16:24:45',
+            ),
+            81 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 16:26:23',
+                'id' => 10082,
+                'ip' => '114.119.130.61',
+                'updated_at' => '2023-02-25 16:26:23',
+            ),
+            82 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-25 23:42:47',
+                'id' => 10083,
+                'ip' => '114.119.136.109',
+                'updated_at' => '2023-02-25 23:42:47',
+            ),
+            83 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 00:42:29',
+                'id' => 10084,
+                'ip' => '114.119.137.190',
+                'updated_at' => '2023-02-26 00:42:29',
+            ),
+            84 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 00:43:27',
+                'id' => 10085,
+                'ip' => '114.119.146.179',
+                'updated_at' => '2023-02-26 00:43:27',
+            ),
+            85 => 
+            array (
+                'article_id' => 27,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 01:32:49',
+                'id' => 10086,
+                'ip' => '43.243.192.40',
+                'updated_at' => '2023-02-26 01:32:49',
+            ),
+            86 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 01:52:51',
+                'id' => 10087,
+                'ip' => '114.119.142.236',
+                'updated_at' => '2023-02-26 01:52:51',
+            ),
+            87 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 02:58:25',
+                'id' => 10088,
+                'ip' => '114.119.143.158',
+                'updated_at' => '2023-02-26 02:58:25',
+            ),
+            88 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 09:10:04',
+                'id' => 10089,
+                'ip' => '51.222.253.3',
+                'updated_at' => '2023-02-26 09:10:04',
+            ),
+            89 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 10:05:48',
+                'id' => 10090,
+                'ip' => '114.119.138.188',
+                'updated_at' => '2023-02-26 10:05:48',
+            ),
+            90 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 10:16:48',
+                'id' => 10091,
+                'ip' => '114.119.146.179',
+                'updated_at' => '2023-02-26 10:16:48',
+            ),
+            91 => 
+            array (
+                'article_id' => 11,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 17:09:05',
+                'id' => 10092,
+                'ip' => '51.222.253.18',
+                'updated_at' => '2023-02-26 17:09:05',
+            ),
+            92 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 19:14:16',
+                'id' => 10093,
+                'ip' => '51.222.253.8',
+                'updated_at' => '2023-02-26 19:14:16',
+            ),
+            93 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:06',
+                'id' => 10094,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:06',
+            ),
+            94 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:10',
+                'id' => 10095,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:10',
+            ),
+            95 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:11',
+                'id' => 10096,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:11',
+            ),
+            96 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:13',
+                'id' => 10097,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:13',
+            ),
+            97 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:16',
+                'id' => 10098,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:16',
+            ),
+            98 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:18',
+                'id' => 10099,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:18',
+            ),
+            99 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:20',
+                'id' => 10100,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:20',
+            ),
+            100 => 
+            array (
+                'article_id' => 27,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:24',
+                'id' => 10101,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:24',
+            ),
+            101 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:26',
+                'id' => 10102,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:26',
+            ),
+            102 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:33',
+                'id' => 10103,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:33',
+            ),
+            103 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:36',
+                'id' => 10104,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:36',
+            ),
+            104 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:40',
+                'id' => 10105,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:40',
+            ),
+            105 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:42',
+                'id' => 10106,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:42',
+            ),
+            106 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:43',
+                'id' => 10107,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:43',
+            ),
+            107 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:45',
+                'id' => 10108,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:45',
+            ),
+            108 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:47',
+                'id' => 10109,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:47',
+            ),
+            109 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:49',
+                'id' => 10110,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:49',
+            ),
+            110 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:51',
+                'id' => 10111,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:51',
+            ),
+            111 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:22:53',
+                'id' => 10112,
+                'ip' => '37.46.113.202',
+                'updated_at' => '2023-02-26 21:22:53',
+            ),
+            112 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 21:41:29',
+                'id' => 10113,
+                'ip' => '66.249.71.213',
+                'updated_at' => '2023-02-26 21:41:29',
+            ),
+            113 => 
+            array (
+                'article_id' => 17,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-26 22:25:44',
+                'id' => 10114,
+                'ip' => '114.119.159.197',
+                'updated_at' => '2023-02-26 22:25:44',
+            ),
+            114 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-26 23:37:37',
+                'id' => 10115,
+                'ip' => '103.178.54.22',
+                'updated_at' => '2023-03-01 00:04:58',
+            ),
+            115 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 03:43:19',
+                'id' => 10116,
+                'ip' => '114.119.140.236',
+                'updated_at' => '2023-02-27 03:43:19',
+            ),
+            116 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 04:04:02',
+                'id' => 10117,
+                'ip' => '103.178.55.211',
+                'updated_at' => '2023-02-27 04:04:02',
+            ),
+            117 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 05:36:14',
+                'id' => 10118,
+                'ip' => '66.249.79.88',
+                'updated_at' => '2023-02-27 05:36:14',
+            ),
+            118 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 05:43:58',
+                'id' => 10119,
+                'ip' => '114.119.156.67',
+                'updated_at' => '2023-02-27 05:43:58',
+            ),
+            119 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 06:04:00',
+                'id' => 10120,
+                'ip' => '114.119.141.84',
+                'updated_at' => '2023-02-27 06:04:00',
+            ),
+            120 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 07:10:17',
+                'id' => 10121,
+                'ip' => '114.119.129.191',
+                'updated_at' => '2023-02-27 07:10:17',
+            ),
+            121 => 
+            array (
+                'article_id' => 6,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 09:57:44',
+                'id' => 10122,
+                'ip' => '51.222.253.17',
+                'updated_at' => '2023-02-27 09:57:44',
+            ),
+            122 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 10:02:41',
+                'id' => 10123,
+                'ip' => '124.71.93.136',
+                'updated_at' => '2023-02-27 10:02:41',
+            ),
+            123 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-27 14:39:18',
+                'id' => 10124,
+                'ip' => '114.119.157.218',
+                'updated_at' => '2023-02-27 14:39:18',
+            ),
+            124 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-27 19:36:19',
+                'id' => 10125,
+                'ip' => '20.220.74.241',
+                'updated_at' => '2023-02-27 20:01:38',
+            ),
+            125 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 04:51:17',
+                'id' => 10126,
+                'ip' => '217.113.194.154',
+                'updated_at' => '2023-02-28 04:51:17',
+            ),
+            126 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 04:58:27',
+                'id' => 10127,
+                'ip' => '217.113.194.191',
+                'updated_at' => '2023-02-28 04:58:27',
+            ),
+            127 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:00:51',
+                'id' => 10128,
+                'ip' => '217.113.194.182',
+                'updated_at' => '2023-02-28 05:00:51',
+            ),
+            128 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:01:39',
+                'id' => 10129,
+                'ip' => '217.113.194.134',
+                'updated_at' => '2023-02-28 05:01:39',
+            ),
+            129 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:01:55',
+                'id' => 10130,
+                'ip' => '217.113.194.170',
+                'updated_at' => '2023-02-28 05:01:55',
+            ),
+            130 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:02:11',
+                'id' => 10131,
+                'ip' => '217.113.194.185',
+                'updated_at' => '2023-02-28 05:02:11',
+            ),
+            131 => 
+            array (
+                'article_id' => 16,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:02:28',
+                'id' => 10132,
+                'ip' => '217.113.194.167',
+                'updated_at' => '2023-02-28 05:02:28',
+            ),
+            132 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:03:16',
+                'id' => 10133,
+                'ip' => '217.113.194.189',
+                'updated_at' => '2023-02-28 05:03:16',
+            ),
+            133 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:03:32',
+                'id' => 10134,
+                'ip' => '217.113.194.138',
+                'updated_at' => '2023-02-28 05:03:32',
+            ),
+            134 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:04:04',
+                'id' => 10135,
+                'ip' => '217.113.194.166',
+                'updated_at' => '2023-02-28 05:04:04',
+            ),
+            135 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:04:53',
+                'id' => 10136,
+                'ip' => '217.113.194.161',
+                'updated_at' => '2023-02-28 05:04:53',
+            ),
+            136 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:05:09',
+                'id' => 10137,
+                'ip' => '217.113.194.147',
+                'updated_at' => '2023-02-28 05:05:09',
+            ),
+            137 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:05:41',
+                'id' => 10138,
+                'ip' => '217.113.194.167',
+                'updated_at' => '2023-02-28 05:05:41',
+            ),
+            138 => 
+            array (
+                'article_id' => 9,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:05:58',
+                'id' => 10139,
+                'ip' => '217.113.194.157',
+                'updated_at' => '2023-02-28 05:05:58',
+            ),
+            139 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:06:14',
+                'id' => 10140,
+                'ip' => '217.113.194.131',
+                'updated_at' => '2023-02-28 05:06:14',
+            ),
+            140 => 
+            array (
+                'article_id' => 4,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:06:30',
+                'id' => 10141,
+                'ip' => '217.113.194.161',
+                'updated_at' => '2023-02-28 05:06:30',
+            ),
+            141 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:07:02',
+                'id' => 10142,
+                'ip' => '217.113.194.133',
+                'updated_at' => '2023-02-28 05:07:02',
+            ),
+            142 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:07:19',
+                'id' => 10143,
+                'ip' => '217.113.194.147',
+                'updated_at' => '2023-02-28 05:07:19',
+            ),
+            143 => 
+            array (
+                'article_id' => 6,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:07:35',
+                'id' => 10144,
+                'ip' => '217.113.194.180',
+                'updated_at' => '2023-02-28 05:07:35',
+            ),
+            144 => 
+            array (
+                'article_id' => 11,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:07:51',
+                'id' => 10145,
+                'ip' => '217.113.194.188',
+                'updated_at' => '2023-02-28 05:07:51',
+            ),
+            145 => 
+            array (
+                'article_id' => 3,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:08:08',
+                'id' => 10146,
+                'ip' => '217.113.194.136',
+                'updated_at' => '2023-02-28 05:08:08',
+            ),
+            146 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:08:24',
+                'id' => 10147,
+                'ip' => '217.113.194.128',
+                'updated_at' => '2023-02-28 05:08:24',
+            ),
+            147 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:08:40',
+                'id' => 10148,
+                'ip' => '217.113.194.189',
+                'updated_at' => '2023-02-28 05:08:40',
+            ),
+            148 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:08:56',
+                'id' => 10149,
+                'ip' => '217.113.194.141',
+                'updated_at' => '2023-02-28 05:08:56',
+            ),
+            149 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:09:14',
+                'id' => 10150,
+                'ip' => '217.113.194.163',
+                'updated_at' => '2023-02-28 05:09:14',
+            ),
+            150 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:09:30',
+                'id' => 10151,
+                'ip' => '217.113.194.156',
+                'updated_at' => '2023-02-28 05:09:30',
+            ),
+            151 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:09:46',
+                'id' => 10152,
+                'ip' => '217.113.194.148',
+                'updated_at' => '2023-02-28 05:09:46',
+            ),
+            152 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:10:50',
+                'id' => 10153,
+                'ip' => '217.113.194.156',
+                'updated_at' => '2023-02-28 05:10:50',
+            ),
+            153 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:11:06',
+                'id' => 10154,
+                'ip' => '217.113.194.131',
+                'updated_at' => '2023-02-28 05:11:06',
+            ),
+            154 => 
+            array (
+                'article_id' => 27,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:11:23',
+                'id' => 10155,
+                'ip' => '217.113.194.149',
+                'updated_at' => '2023-02-28 05:11:23',
+            ),
+            155 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:11:39',
+                'id' => 10156,
+                'ip' => '217.113.194.157',
+                'updated_at' => '2023-02-28 05:11:39',
+            ),
+            156 => 
+            array (
+                'article_id' => 27,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 05:59:50',
+                'id' => 10157,
+                'ip' => '213.180.203.95',
+                'updated_at' => '2023-02-28 05:59:50',
+            ),
+            157 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 08:49:16',
+                'id' => 10158,
+                'ip' => '114.119.135.172',
+                'updated_at' => '2023-02-28 08:49:16',
+            ),
+            158 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 09:04:26',
+                'id' => 10159,
+                'ip' => '66.249.68.85',
+                'updated_at' => '2023-02-28 09:04:26',
+            ),
+            159 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 09:32:21',
+                'id' => 10160,
+                'ip' => '5.161.124.93',
+                'updated_at' => '2023-02-28 09:32:21',
+            ),
+            160 => 
+            array (
+                'article_id' => 16,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 09:46:48',
+                'id' => 10161,
+                'ip' => '114.119.144.99',
+                'updated_at' => '2023-02-28 09:46:48',
+            ),
+            161 => 
+            array (
+                'article_id' => 56,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 12:35:42',
+                'id' => 10162,
+                'ip' => '103.176.152.45',
+                'updated_at' => '2023-02-28 12:35:42',
+            ),
+            162 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-28 14:34:55',
+                'id' => 10163,
+                'ip' => '13.212.18.228',
+                'updated_at' => '2023-02-28 14:35:02',
+            ),
+            163 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 16:23:49',
+                'id' => 10164,
+                'ip' => '66.249.71.149',
+                'updated_at' => '2023-02-28 16:23:49',
+            ),
+            164 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-28 17:13:32',
+                'id' => 10165,
+                'ip' => '103.172.41.147',
+                'updated_at' => '2023-02-28 17:13:40',
+            ),
+            165 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 20:20:06',
+                'id' => 10166,
+                'ip' => '66.249.66.86',
+                'updated_at' => '2023-02-28 20:20:06',
+            ),
+            166 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 21:05:02',
+                'id' => 10167,
+                'ip' => '66.249.66.40',
+                'updated_at' => '2023-02-28 21:05:02',
+            ),
+            167 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-02-28 22:02:18',
+                'id' => 10168,
+                'ip' => '172.104.107.93',
+                'updated_at' => '2023-02-28 22:02:18',
+            ),
+            168 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 4,
+                'country' => NULL,
+                'created_at' => '2023-02-28 22:16:21',
+                'id' => 10169,
+                'ip' => '47.92.68.55',
+                'updated_at' => '2023-03-15 23:59:54',
+            ),
+            169 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-02-28 22:16:22',
+                'id' => 10170,
+                'ip' => '47.92.68.55',
+                'updated_at' => '2023-03-15 23:59:59',
+            ),
+            170 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-02-28 22:16:23',
+                'id' => 10171,
+                'ip' => '47.92.68.55',
+                'updated_at' => '2023-03-03 22:39:33',
+            ),
+            171 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 05:07:00',
+                'id' => 10172,
+                'ip' => '114.119.138.230',
+                'updated_at' => '2023-03-01 05:07:00',
+            ),
+            172 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-01 07:25:31',
+                'id' => 10173,
+                'ip' => '47.92.78.77',
+                'updated_at' => '2023-03-06 22:24:02',
+            ),
+            173 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-01 07:25:31',
+                'id' => 10174,
+                'ip' => '47.92.78.77',
+                'updated_at' => '2023-03-06 22:24:04',
+            ),
+            174 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-01 07:25:31',
+                'id' => 10175,
+                'ip' => '8.142.104.65',
+                'updated_at' => '2023-03-09 22:26:11',
+            ),
+            175 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 5,
+                'country' => NULL,
+                'created_at' => '2023-03-01 07:25:32',
+                'id' => 10176,
+                'ip' => '8.142.104.65',
+                'updated_at' => '2023-03-15 04:15:47',
+            ),
+            176 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 13:08:49',
+                'id' => 10177,
+                'ip' => '114.119.129.148',
+                'updated_at' => '2023-03-01 13:08:49',
+            ),
+            177 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 14:30:50',
+                'id' => 10178,
+                'ip' => '114.119.152.246',
+                'updated_at' => '2023-03-01 14:30:50',
+            ),
+            178 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 14:51:10',
+                'id' => 10179,
+                'ip' => '66.249.66.40',
+                'updated_at' => '2023-03-01 14:51:10',
+            ),
+            179 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 15:19:56',
+                'id' => 10180,
+                'ip' => '114.119.158.172',
+                'updated_at' => '2023-03-01 15:19:56',
+            ),
+            180 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-01 16:21:09',
+                'id' => 10181,
+                'ip' => '66.249.66.40',
+                'updated_at' => '2023-03-13 11:25:52',
+            ),
+            181 => 
+            array (
+                'article_id' => 6,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 17:28:19',
+                'id' => 10182,
+                'ip' => '114.119.145.36',
+                'updated_at' => '2023-03-01 17:28:19',
+            ),
+            182 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 17:39:32',
+                'id' => 10183,
+                'ip' => '139.99.116.98',
+                'updated_at' => '2023-03-01 17:39:32',
+            ),
+            183 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-01 17:51:09',
+                'id' => 10184,
+                'ip' => '66.249.66.41',
+                'updated_at' => '2023-03-13 09:55:53',
+            ),
+            184 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 19:26:42',
+                'id' => 10185,
+                'ip' => '52.79.67.116',
+                'updated_at' => '2023-03-01 19:26:42',
+            ),
+            185 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 20:35:20',
+                'id' => 10186,
+                'ip' => '66.249.71.181',
+                'updated_at' => '2023-03-01 20:35:20',
+            ),
+            186 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:03:55',
+                'id' => 10187,
+                'ip' => '114.119.154.128',
+                'updated_at' => '2023-03-01 22:03:55',
+            ),
+            187 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:20:23',
+                'id' => 10188,
+                'ip' => '8.142.42.74',
+                'updated_at' => '2023-03-12 22:18:36',
+            ),
+            188 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:20:23',
+                'id' => 10189,
+                'ip' => '8.142.42.74',
+                'updated_at' => '2023-03-16 22:32:09',
+            ),
+            189 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:20:24',
+                'id' => 10190,
+                'ip' => '47.92.33.204',
+                'updated_at' => '2023-03-01 22:20:24',
+            ),
+            190 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:20:24',
+                'id' => 10191,
+                'ip' => '8.142.42.74',
+                'updated_at' => '2023-03-16 22:32:09',
+            ),
+            191 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:20:49',
+                'id' => 10192,
+                'ip' => '47.92.67.105',
+                'updated_at' => '2023-03-01 22:20:49',
+            ),
+            192 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:20:49',
+                'id' => 10193,
+                'ip' => '47.92.30.214',
+                'updated_at' => '2023-03-08 22:40:05',
+            ),
+            193 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:40:14',
+                'id' => 10194,
+                'ip' => '89.31.126.148',
+                'updated_at' => '2023-03-01 22:56:00',
+            ),
+            194 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 22:40:36',
+                'id' => 10195,
+                'ip' => '114.119.150.210',
+                'updated_at' => '2023-03-01 22:40:36',
+            ),
+            195 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-01 23:00:14',
+                'id' => 10196,
+                'ip' => '66.249.64.52',
+                'updated_at' => '2023-03-02 00:30:13',
+            ),
+            196 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-01 23:40:03',
+                'id' => 10197,
+                'ip' => '114.119.145.154',
+                'updated_at' => '2023-03-01 23:40:03',
+            ),
+            197 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 08:29:44',
+                'id' => 10198,
+                'ip' => '114.119.155.88',
+                'updated_at' => '2023-03-02 08:29:44',
+            ),
+            198 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 10:59:39',
+                'id' => 10199,
+                'ip' => '178.249.208.232',
+                'updated_at' => '2023-03-02 10:59:39',
+            ),
+            199 => 
+            array (
+                'article_id' => 47,
+                'clicks' => 7,
+                'country' => NULL,
+                'created_at' => '2023-03-02 13:11:30',
+                'id' => 10200,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-07 11:43:17',
+            ),
+            200 => 
+            array (
+                'article_id' => 46,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-02 13:17:26',
+                'id' => 10201,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-04 22:58:25',
+            ),
+            201 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 13:56:40',
+                'id' => 10202,
+                'ip' => '165.154.253.163',
+                'updated_at' => '2023-03-02 13:56:40',
+            ),
+            202 => 
+            array (
+                'article_id' => 11,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 14:34:49',
+                'id' => 10203,
+                'ip' => '114.119.155.22',
+                'updated_at' => '2023-03-02 14:34:49',
+            ),
+            203 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 15:48:16',
+                'id' => 10204,
+                'ip' => '66.135.7.200',
+                'updated_at' => '2023-03-02 15:48:16',
+            ),
+            204 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 17:30:17',
+                'id' => 10205,
+                'ip' => '159.226.94.115',
+                'updated_at' => '2023-03-02 17:30:17',
+            ),
+            205 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 20:29:20',
+                'id' => 10206,
+                'ip' => '66.249.73.196',
+                'updated_at' => '2023-03-02 20:29:20',
+            ),
+            206 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 22:42:23',
+                'id' => 10207,
+                'ip' => '47.92.33.185',
+                'updated_at' => '2023-03-02 22:42:23',
+            ),
+            207 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-02 22:42:23',
+                'id' => 10208,
+                'ip' => '47.92.5.239',
+                'updated_at' => '2023-03-07 23:12:14',
+            ),
+            208 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 23:26:37',
+                'id' => 10209,
+                'ip' => '51.222.253.16',
+                'updated_at' => '2023-03-02 23:26:37',
+            ),
+            209 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 4,
+                'country' => NULL,
+                'created_at' => '2023-03-02 23:35:15',
+                'id' => 10210,
+                'ip' => '47.92.72.15',
+                'updated_at' => '2023-03-11 23:39:14',
+            ),
+            210 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-02 23:35:16',
+                'id' => 10211,
+                'ip' => '47.92.72.15',
+                'updated_at' => '2023-03-09 22:26:38',
+            ),
+            211 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 23:35:16',
+                'id' => 10212,
+                'ip' => '47.92.32.64',
+                'updated_at' => '2023-03-02 23:35:16',
+            ),
+            212 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-02 23:35:17',
+                'id' => 10213,
+                'ip' => '47.92.72.15',
+                'updated_at' => '2023-03-09 22:26:38',
+            ),
+            213 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-02 23:52:50',
+                'id' => 10214,
+                'ip' => '51.222.253.17',
+                'updated_at' => '2023-03-02 23:52:50',
+            ),
+            214 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 00:40:18',
+                'id' => 10215,
+                'ip' => '114.119.135.181',
+                'updated_at' => '2023-03-03 00:40:18',
+            ),
+            215 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 11:36:45',
+                'id' => 10216,
+                'ip' => '124.71.93.188',
+                'updated_at' => '2023-03-03 11:36:45',
+            ),
+            216 => 
+            array (
+                'article_id' => 33,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-03 13:54:22',
+                'id' => 10217,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-06 09:35:45',
+            ),
+            217 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 14:29:39',
+                'id' => 10218,
+                'ip' => '66.249.79.61',
+                'updated_at' => '2023-03-03 14:29:39',
+            ),
+            218 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-03 15:08:28',
+                'id' => 10219,
+                'ip' => '66.249.73.199',
+                'updated_at' => '2023-03-03 16:38:31',
+            ),
+            219 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 15:25:32',
+                'id' => 10220,
+                'ip' => '47.92.33.185',
+                'updated_at' => '2023-03-03 15:25:32',
+            ),
+            220 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 15:25:33',
+                'id' => 10221,
+                'ip' => '47.92.79.156',
+                'updated_at' => '2023-03-03 15:25:33',
+            ),
+            221 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 15:56:08',
+                'id' => 10222,
+                'ip' => '153.3.216.162',
+                'updated_at' => '2023-03-03 15:56:08',
+            ),
+            222 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 16:37:02',
+                'id' => 10223,
+                'ip' => '220.142.25.17',
+                'updated_at' => '2023-03-03 16:37:02',
+            ),
+            223 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 16:38:05',
+                'id' => 10224,
+                'ip' => '150.230.139.70',
+                'updated_at' => '2023-03-03 16:38:05',
+            ),
+            224 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 18:29:40',
+                'id' => 10225,
+                'ip' => '66.249.73.199',
+                'updated_at' => '2023-03-03 18:29:40',
+            ),
+            225 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 19:47:33',
+                'id' => 10226,
+                'ip' => '103.37.140.38',
+                'updated_at' => '2023-03-03 19:47:33',
+            ),
+            226 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 22:39:33',
+                'id' => 10227,
+                'ip' => '47.92.30.214',
+                'updated_at' => '2023-03-03 22:39:33',
+            ),
+            227 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-03 22:56:31',
+                'id' => 10228,
+                'ip' => '66.249.74.115',
+                'updated_at' => '2023-03-03 22:56:31',
+            ),
+            228 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 00:08:22',
+                'id' => 10229,
+                'ip' => '139.226.59.105',
+                'updated_at' => '2023-03-04 00:08:22',
+            ),
+            229 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 01:56:31',
+                'id' => 10230,
+                'ip' => '66.249.74.115',
+                'updated_at' => '2023-03-04 01:56:31',
+            ),
+            230 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 01:58:04',
+                'id' => 10231,
+                'ip' => '114.119.153.215',
+                'updated_at' => '2023-03-04 01:58:04',
+            ),
+            231 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-04 05:48:10',
+                'id' => 10232,
+                'ip' => '5.45.66.222',
+                'updated_at' => '2023-03-04 05:55:16',
+            ),
+            232 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 10:27:49',
+                'id' => 10233,
+                'ip' => '66.249.74.115',
+                'updated_at' => '2023-03-04 10:27:49',
+            ),
+            233 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 17:29:02',
+                'id' => 10234,
+                'ip' => '114.119.162.62',
+                'updated_at' => '2023-03-04 17:29:02',
+            ),
+            234 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 17:31:09',
+                'id' => 10235,
+                'ip' => '114.119.152.233',
+                'updated_at' => '2023-03-04 17:31:09',
+            ),
+            235 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 18:39:17',
+                'id' => 10236,
+                'ip' => '114.119.151.70',
+                'updated_at' => '2023-03-04 18:39:17',
+            ),
+            236 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 20:17:37',
+                'id' => 10237,
+                'ip' => '152.69.202.179',
+                'updated_at' => '2023-03-04 20:17:37',
+            ),
+            237 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 20:18:13',
+                'id' => 10238,
+                'ip' => '183.208.42.103',
+                'updated_at' => '2023-03-04 20:18:13',
+            ),
+            238 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 22:26:10',
+                'id' => 10239,
+                'ip' => '47.92.33.204',
+                'updated_at' => '2023-03-04 22:26:10',
+            ),
+            239 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 22:26:11',
+                'id' => 10240,
+                'ip' => '47.92.33.204',
+                'updated_at' => '2023-03-04 22:26:11',
+            ),
+            240 => 
+            array (
+                'article_id' => 17,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:05:51',
+                'id' => 10241,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-04 23:05:51',
+            ),
+            241 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:07:14',
+                'id' => 10242,
+                'ip' => '47.92.30.57',
+                'updated_at' => '2023-03-04 23:07:14',
+            ),
+            242 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:07:23',
+                'id' => 10243,
+                'ip' => '47.92.30.57',
+                'updated_at' => '2023-03-07 23:12:12',
+            ),
+            243 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:07:23',
+                'id' => 10244,
+                'ip' => '8.142.42.74',
+                'updated_at' => '2023-03-04 23:07:23',
+            ),
+            244 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:07:26',
+                'id' => 10245,
+                'ip' => '47.92.30.57',
+                'updated_at' => '2023-03-04 23:07:26',
+            ),
+            245 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:21:44',
+                'id' => 10246,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-04 23:21:44',
+            ),
+            246 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:23:24',
+                'id' => 10247,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-05 12:59:11',
+            ),
+            247 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:24:09',
+                'id' => 10248,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-04 23:24:09',
+            ),
+            248 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-04 23:24:29',
+                'id' => 10249,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-04 23:24:29',
+            ),
+            249 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 04:48:47',
+                'id' => 10250,
+                'ip' => '66.249.64.213',
+                'updated_at' => '2023-03-05 04:48:47',
+            ),
+            250 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 05:38:56',
+                'id' => 10251,
+                'ip' => '114.119.157.245',
+                'updated_at' => '2023-03-05 05:38:56',
+            ),
+            251 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:08',
+                'id' => 10252,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            252 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:08',
+                'id' => 10253,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:12',
+            ),
+            253 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:08',
+                'id' => 10254,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            254 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10255,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:12',
+            ),
+            255 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10256,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:10',
+            ),
+            256 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10257,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:12',
+            ),
+            257 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10258,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:10',
+            ),
+            258 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10259,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:12',
+            ),
+            259 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10260,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            260 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10261,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:10',
+            ),
+            261 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10262,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            262 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10263,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            263 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10264,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:10',
+            ),
+            264 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:09',
+                'id' => 10265,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            265 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:10',
+                'id' => 10266,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            266 => 
+            array (
+                'article_id' => 27,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:10',
+                'id' => 10267,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            267 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:10',
+                'id' => 10268,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:11',
+            ),
+            268 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:10',
+                'id' => 10269,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:10',
+            ),
+            269 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 13,
+                'country' => NULL,
+                'created_at' => '2023-03-05 11:57:10',
+                'id' => 10270,
+                'ip' => '54.159.232.142',
+                'updated_at' => '2023-03-06 11:01:10',
+            ),
+            270 => 
+            array (
+                'article_id' => 3,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 12:19:45',
+                'id' => 10271,
+                'ip' => '185.191.171.6',
+                'updated_at' => '2023-03-05 12:19:45',
+            ),
+            271 => 
+            array (
+                'article_id' => 56,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 12:27:25',
+                'id' => 10272,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-05 12:27:25',
+            ),
+            272 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 12:28:35',
+                'id' => 10273,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-05 12:28:35',
+            ),
+            273 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 13:12:54',
+                'id' => 10274,
+                'ip' => '114.119.128.6',
+                'updated_at' => '2023-03-05 13:12:54',
+            ),
+            274 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 13:15:04',
+                'id' => 10275,
+                'ip' => '77.88.5.217',
+                'updated_at' => '2023-03-05 13:15:04',
+            ),
+            275 => 
+            array (
+                'article_id' => 55,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 16:12:43',
+                'id' => 10276,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-05 16:12:43',
+            ),
+            276 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 18:26:24',
+                'id' => 10277,
+                'ip' => '159.138.41.70',
+                'updated_at' => '2023-03-05 18:26:24',
+            ),
+            277 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 21:53:50',
+                'id' => 10278,
+                'ip' => '114.119.139.88',
+                'updated_at' => '2023-03-05 21:53:50',
+            ),
+            278 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-05 22:26:25',
+                'id' => 10279,
+                'ip' => '47.92.77.114',
+                'updated_at' => '2023-03-13 22:33:06',
+            ),
+            279 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-05 22:26:27',
+                'id' => 10280,
+                'ip' => '47.92.32.64',
+                'updated_at' => '2023-03-05 22:26:27',
+            ),
+            280 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-05 22:26:27',
+                'id' => 10281,
+                'ip' => '47.92.77.114',
+                'updated_at' => '2023-03-13 22:33:07',
+            ),
+            281 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-05 22:26:27',
+                'id' => 10282,
+                'ip' => '47.92.77.114',
+                'updated_at' => '2023-03-13 22:33:08',
+            ),
+            282 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-05 22:31:18',
+                'id' => 10283,
+                'ip' => '47.92.31.57',
+                'updated_at' => '2023-03-07 22:22:33',
+            ),
+            283 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-05 22:31:19',
+                'id' => 10284,
+                'ip' => '47.92.31.57',
+                'updated_at' => '2023-03-16 23:14:17',
+            ),
+            284 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-05 22:31:19',
+                'id' => 10285,
+                'ip' => '47.92.73.109',
+                'updated_at' => '2023-03-15 04:59:38',
+            ),
+            285 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-05 22:31:19',
+                'id' => 10286,
+                'ip' => '47.92.31.57',
+                'updated_at' => '2023-03-16 23:14:17',
+            ),
+            286 => 
+            array (
+                'article_id' => 58,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-05 23:24:47',
+                'id' => 10287,
+                'ip' => '103.176.152.13',
+                'updated_at' => '2023-03-05 23:34:45',
+            ),
+            287 => 
+            array (
+                'article_id' => 16,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 06:03:57',
+                'id' => 10288,
+                'ip' => '114.119.144.65',
+                'updated_at' => '2023-03-06 06:03:57',
+            ),
+            288 => 
+            array (
+                'article_id' => 6,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 06:21:46',
+                'id' => 10289,
+                'ip' => '185.191.171.33',
+                'updated_at' => '2023-03-06 06:21:46',
+            ),
+            289 => 
+            array (
+                'article_id' => 3,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 07:47:25',
+                'id' => 10290,
+                'ip' => '114.119.156.233',
+                'updated_at' => '2023-03-06 07:47:25',
+            ),
+            290 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 08:37:56',
+                'id' => 10291,
+                'ip' => '114.119.136.99',
+                'updated_at' => '2023-03-06 08:37:56',
+            ),
+            291 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 10:27:19',
+                'id' => 10292,
+                'ip' => '185.191.171.26',
+                'updated_at' => '2023-03-06 10:27:19',
+            ),
+            292 => 
+            array (
+                'article_id' => 55,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-06 10:58:12',
+                'id' => 10293,
+                'ip' => '183.251.119.86',
+                'updated_at' => '2023-03-11 13:36:47',
+            ),
+            293 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-06 15:18:49',
+                'id' => 10294,
+                'ip' => '220.142.26.211',
+                'updated_at' => '2023-03-06 15:31:42',
+            ),
+            294 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 15:47:31',
+                'id' => 10295,
+                'ip' => '114.119.138.27',
+                'updated_at' => '2023-03-06 15:47:31',
+            ),
+            295 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 16:02:44',
+                'id' => 10296,
+                'ip' => '103.176.152.43',
+                'updated_at' => '2023-03-06 16:02:44',
+            ),
+            296 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-06 17:00:42',
+                'id' => 10297,
+                'ip' => '162.219.34.249',
+                'updated_at' => '2023-03-06 17:01:07',
+            ),
+            297 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 21:59:04',
+                'id' => 10298,
+                'ip' => '170.178.169.101',
+                'updated_at' => '2023-03-06 21:59:04',
+            ),
+            298 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-06 22:24:05',
+                'id' => 10299,
+                'ip' => '47.92.78.77',
+                'updated_at' => '2023-03-08 22:33:18',
+            ),
+            299 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-06 22:53:15',
+                'id' => 10300,
+                'ip' => '183.11.74.136',
+                'updated_at' => '2023-03-06 22:53:15',
+            ),
+            300 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 00:21:08',
+                'id' => 10301,
+                'ip' => '114.119.148.155',
+                'updated_at' => '2023-03-07 00:21:08',
+            ),
+            301 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 00:26:37',
+                'id' => 10302,
+                'ip' => '8.142.31.72',
+                'updated_at' => '2023-03-07 00:26:37',
+            ),
+            302 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 00:26:39',
+                'id' => 10303,
+                'ip' => '8.142.31.72',
+                'updated_at' => '2023-03-07 00:26:39',
+            ),
+            303 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 00:26:39',
+                'id' => 10304,
+                'ip' => '8.142.31.72',
+                'updated_at' => '2023-03-07 00:26:39',
+            ),
+            304 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 00:26:39',
+                'id' => 10305,
+                'ip' => '8.142.31.72',
+                'updated_at' => '2023-03-07 00:26:39',
+            ),
+            305 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 01:59:03',
+                'id' => 10306,
+                'ip' => '114.119.154.252',
+                'updated_at' => '2023-03-07 01:59:03',
+            ),
+            306 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 02:00:49',
+                'id' => 10307,
+                'ip' => '114.119.131.231',
+                'updated_at' => '2023-03-07 02:00:49',
+            ),
+            307 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 04:14:02',
+                'id' => 10308,
+                'ip' => '66.249.71.183',
+                'updated_at' => '2023-03-07 04:14:02',
+            ),
+            308 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-07 10:45:29',
+                'id' => 10309,
+                'ip' => '66.249.69.132',
+                'updated_at' => '2023-03-08 14:38:09',
+            ),
+            309 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 12:15:29',
+                'id' => 10310,
+                'ip' => '66.249.69.129',
+                'updated_at' => '2023-03-07 12:15:29',
+            ),
+            310 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 16:37:09',
+                'id' => 10311,
+                'ip' => '66.249.64.211',
+                'updated_at' => '2023-03-07 16:37:09',
+            ),
+            311 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 17:35:57',
+                'id' => 10312,
+                'ip' => '101.230.10.247',
+                'updated_at' => '2023-03-07 17:35:57',
+            ),
+            312 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 20:24:57',
+                'id' => 10313,
+                'ip' => '114.119.129.199',
+                'updated_at' => '2023-03-07 20:24:57',
+            ),
+            313 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 21:51:44',
+                'id' => 10314,
+                'ip' => '66.249.69.132',
+                'updated_at' => '2023-03-07 21:51:44',
+            ),
+            314 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-07 22:22:34',
+                'id' => 10315,
+                'ip' => '47.92.79.71',
+                'updated_at' => '2023-03-07 22:22:34',
+            ),
+            315 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-07 22:22:34',
+                'id' => 10316,
+                'ip' => '47.92.79.71',
+                'updated_at' => '2023-03-12 22:22:12',
+            ),
+            316 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 01:17:45',
+                'id' => 10317,
+                'ip' => '66.249.71.179',
+                'updated_at' => '2023-03-08 01:17:45',
+            ),
+            317 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 06:01:42',
+                'id' => 10318,
+                'ip' => '66.249.71.213',
+                'updated_at' => '2023-03-08 06:01:42',
+            ),
+            318 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-08 11:29:55',
+                'id' => 10319,
+                'ip' => '130.216.37.10',
+                'updated_at' => '2023-03-09 08:35:57',
+            ),
+            319 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 11:48:53',
+                'id' => 10320,
+                'ip' => '210.3.196.182',
+                'updated_at' => '2023-03-08 11:48:53',
+            ),
+            320 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-08 12:50:47',
+                'id' => 10321,
+                'ip' => '66.249.69.134',
+                'updated_at' => '2023-03-09 00:57:23',
+            ),
+            321 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 14:54:55',
+                'id' => 10322,
+                'ip' => '66.249.69.215',
+                'updated_at' => '2023-03-08 14:54:55',
+            ),
+            322 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 15:31:21',
+                'id' => 10323,
+                'ip' => '51.222.253.10',
+                'updated_at' => '2023-03-08 15:31:21',
+            ),
+            323 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 16:50:07',
+                'id' => 10324,
+                'ip' => '61.149.179.190',
+                'updated_at' => '2023-03-08 16:50:07',
+            ),
+            324 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 17:44:48',
+                'id' => 10325,
+                'ip' => '180.109.50.39',
+                'updated_at' => '2023-03-08 17:44:48',
+            ),
+            325 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 18:37:11',
+                'id' => 10326,
+                'ip' => '185.191.171.44',
+                'updated_at' => '2023-03-08 18:37:11',
+            ),
+            326 => 
+            array (
+                'article_id' => 11,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 20:14:34',
+                'id' => 10327,
+                'ip' => '185.191.171.8',
+                'updated_at' => '2023-03-08 20:14:34',
+            ),
+            327 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-08 22:33:17',
+                'id' => 10328,
+                'ip' => '47.92.78.102',
+                'updated_at' => '2023-03-15 22:20:24',
+            ),
+            328 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-08 22:33:18',
+                'id' => 10329,
+                'ip' => '47.92.78.102',
+                'updated_at' => '2023-03-11 23:39:15',
+            ),
+            329 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-08 22:33:18',
+                'id' => 10330,
+                'ip' => '47.92.78.102',
+                'updated_at' => '2023-03-08 22:33:18',
+            ),
+            330 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-09 00:57:05',
+                'id' => 10331,
+                'ip' => '103.171.177.205',
+                'updated_at' => '2023-03-09 01:07:28',
+            ),
+            331 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 02:44:18',
+                'id' => 10332,
+                'ip' => '185.191.171.36',
+                'updated_at' => '2023-03-09 02:44:18',
+            ),
+            332 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 02:46:09',
+                'id' => 10333,
+                'ip' => '185.191.171.18',
+                'updated_at' => '2023-03-09 02:46:09',
+            ),
+            333 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 03:35:57',
+                'id' => 10334,
+                'ip' => '66.249.69.134',
+                'updated_at' => '2023-03-09 03:35:57',
+            ),
+            334 => 
+            array (
+                'article_id' => 16,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 03:35:59',
+                'id' => 10335,
+                'ip' => '66.249.69.134',
+                'updated_at' => '2023-03-09 03:35:59',
+            ),
+            335 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 04:17:01',
+                'id' => 10336,
+                'ip' => '66.249.71.213',
+                'updated_at' => '2023-03-09 04:17:01',
+            ),
+            336 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 04:20:58',
+                'id' => 10337,
+                'ip' => '66.249.69.129',
+                'updated_at' => '2023-03-09 04:20:58',
+            ),
+            337 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-09 05:05:57',
+                'id' => 10338,
+                'ip' => '66.249.69.134',
+                'updated_at' => '2023-03-09 06:35:57',
+            ),
+            338 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 05:24:31',
+                'id' => 10339,
+                'ip' => '66.249.71.215',
+                'updated_at' => '2023-03-09 05:24:31',
+            ),
+            339 => 
+            array (
+                'article_id' => 4,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 07:50:45',
+                'id' => 10340,
+                'ip' => '114.119.157.146',
+                'updated_at' => '2023-03-09 07:50:45',
+            ),
+            340 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 08:01:09',
+                'id' => 10341,
+                'ip' => '114.119.143.185',
+                'updated_at' => '2023-03-09 08:01:09',
+            ),
+            341 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 08:01:23',
+                'id' => 10342,
+                'ip' => '114.119.139.183',
+                'updated_at' => '2023-03-09 08:01:23',
+            ),
+            342 => 
+            array (
+                'article_id' => 21,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 08:53:10',
+                'id' => 10343,
+                'ip' => '114.119.142.189',
+                'updated_at' => '2023-03-09 08:53:10',
+            ),
+            343 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 09:17:06',
+                'id' => 10344,
+                'ip' => '185.191.171.13',
+                'updated_at' => '2023-03-09 09:17:06',
+            ),
+            344 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 09:42:42',
+                'id' => 10345,
+                'ip' => '114.119.135.251',
+                'updated_at' => '2023-03-09 09:42:42',
+            ),
+            345 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 16:31:28',
+                'id' => 10346,
+                'ip' => '185.191.171.23',
+                'updated_at' => '2023-03-09 16:31:28',
+            ),
+            346 => 
+            array (
+                'article_id' => 17,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 16:35:13',
+                'id' => 10347,
+                'ip' => '66.249.71.215',
+                'updated_at' => '2023-03-09 16:35:13',
+            ),
+            347 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 17:13:24',
+                'id' => 10348,
+                'ip' => '114.119.143.158',
+                'updated_at' => '2023-03-09 17:13:24',
+            ),
+            348 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 18:03:52',
+                'id' => 10349,
+                'ip' => '114.119.129.181',
+                'updated_at' => '2023-03-09 18:03:52',
+            ),
+            349 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-09 19:37:14',
+                'id' => 10350,
+                'ip' => '114.119.135.126',
+                'updated_at' => '2023-03-09 19:37:14',
+            ),
+            350 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 00:16:29',
+                'id' => 10351,
+                'ip' => '185.191.171.11',
+                'updated_at' => '2023-03-10 00:16:29',
+            ),
+            351 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 02:32:04',
+                'id' => 10352,
+                'ip' => '185.191.171.13',
+                'updated_at' => '2023-03-10 02:32:04',
+            ),
+            352 => 
+            array (
+                'article_id' => 4,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 04:33:57',
+                'id' => 10353,
+                'ip' => '185.191.171.42',
+                'updated_at' => '2023-03-10 04:33:57',
+            ),
+            353 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 05:37:50',
+                'id' => 10354,
+                'ip' => '66.249.71.213',
+                'updated_at' => '2023-03-10 05:37:50',
+            ),
+            354 => 
+            array (
+                'article_id' => 9,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 10:25:10',
+                'id' => 10355,
+                'ip' => '185.191.171.18',
+                'updated_at' => '2023-03-10 10:25:10',
+            ),
+            355 => 
+            array (
+                'article_id' => 3,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 11:08:36',
+                'id' => 10356,
+                'ip' => '213.180.203.232',
+                'updated_at' => '2023-03-10 11:08:36',
+            ),
+            356 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 12:38:57',
+                'id' => 10357,
+                'ip' => '185.191.171.16',
+                'updated_at' => '2023-03-10 12:38:57',
+            ),
+            357 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 12:53:24',
+                'id' => 10358,
+                'ip' => '114.119.148.175',
+                'updated_at' => '2023-03-10 12:53:24',
+            ),
+            358 => 
+            array (
+                'article_id' => 17,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 14:06:19',
+                'id' => 10359,
+                'ip' => '114.119.129.189',
+                'updated_at' => '2023-03-10 14:06:19',
+            ),
+            359 => 
+            array (
+                'article_id' => 9,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 14:08:20',
+                'id' => 10360,
+                'ip' => '114.119.142.173',
+                'updated_at' => '2023-03-10 14:08:20',
+            ),
+            360 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 14:38:43',
+                'id' => 10361,
+                'ip' => '114.119.142.232',
+                'updated_at' => '2023-03-10 14:38:43',
+            ),
+            361 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 14:41:38',
+                'id' => 10362,
+                'ip' => '114.119.146.16',
+                'updated_at' => '2023-03-10 14:41:38',
+            ),
+            362 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 15:56:52',
+                'id' => 10363,
+                'ip' => '185.191.171.37',
+                'updated_at' => '2023-03-10 15:56:52',
+            ),
+            363 => 
+            array (
+                'article_id' => 47,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 16:22:28',
+                'id' => 10364,
+                'ip' => '103.176.152.48',
+                'updated_at' => '2023-03-10 16:22:28',
+            ),
+            364 => 
+            array (
+                'article_id' => 56,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 16:22:29',
+                'id' => 10365,
+                'ip' => '103.176.152.48',
+                'updated_at' => '2023-03-10 16:22:29',
+            ),
+            365 => 
+            array (
+                'article_id' => 55,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-10 16:22:34',
+                'id' => 10366,
+                'ip' => '103.176.152.48',
+                'updated_at' => '2023-03-10 16:22:48',
+            ),
+            366 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 16:30:10',
+                'id' => 10367,
+                'ip' => '103.176.152.48',
+                'updated_at' => '2023-03-10 16:30:10',
+            ),
+            367 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 19:03:48',
+                'id' => 10368,
+                'ip' => '103.178.54.22',
+                'updated_at' => '2023-03-10 19:03:48',
+            ),
+            368 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 20:35:53',
+                'id' => 10369,
+                'ip' => '206.119.89.24',
+                'updated_at' => '2023-03-10 20:35:53',
+            ),
+            369 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 22:29:19',
+                'id' => 10370,
+                'ip' => '47.92.36.178',
+                'updated_at' => '2023-03-10 22:29:19',
+            ),
+            370 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-10 22:29:20',
+                'id' => 10371,
+                'ip' => '47.92.36.178',
+                'updated_at' => '2023-03-15 22:20:25',
+            ),
+            371 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 22:29:20',
+                'id' => 10372,
+                'ip' => '47.92.36.178',
+                'updated_at' => '2023-03-10 22:29:20',
+            ),
+            372 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 22:29:21',
+                'id' => 10373,
+                'ip' => '47.92.36.178',
+                'updated_at' => '2023-03-10 22:29:21',
+            ),
+            373 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 22:33:37',
+                'id' => 10374,
+                'ip' => '47.92.29.136',
+                'updated_at' => '2023-03-10 22:33:37',
+            ),
+            374 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 23:20:44',
+                'id' => 10375,
+                'ip' => '220.243.131.85',
+                'updated_at' => '2023-03-10 23:20:44',
+            ),
+            375 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 23:46:35',
+                'id' => 10376,
+                'ip' => '114.119.142.131',
+                'updated_at' => '2023-03-10 23:46:35',
+            ),
+            376 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-10 23:55:45',
+                'id' => 10377,
+                'ip' => '114.119.167.239',
+                'updated_at' => '2023-03-10 23:55:45',
+            ),
+            377 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 10:44:17',
+                'id' => 10378,
+                'ip' => '112.169.175.21',
+                'updated_at' => '2023-03-11 10:44:17',
+            ),
+            378 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 13:48:59',
+                'id' => 10379,
+                'ip' => '66.249.71.151',
+                'updated_at' => '2023-03-11 13:48:59',
+            ),
+            379 => 
+            array (
+                'article_id' => 59,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 15:59:15',
+                'id' => 10380,
+                'ip' => '183.251.119.86',
+                'updated_at' => '2023-03-11 15:59:15',
+            ),
+            380 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 16:15:19',
+                'id' => 10381,
+                'ip' => '114.119.147.74',
+                'updated_at' => '2023-03-11 16:15:19',
+            ),
+            381 => 
+            array (
+                'article_id' => 3,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 16:53:10',
+                'id' => 10382,
+                'ip' => '114.119.151.233',
+                'updated_at' => '2023-03-11 16:53:10',
+            ),
+            382 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 19:36:30',
+                'id' => 10383,
+                'ip' => '114.119.128.132',
+                'updated_at' => '2023-03-11 19:36:30',
+            ),
+            383 => 
+            array (
+                'article_id' => 6,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 19:49:18',
+                'id' => 10384,
+                'ip' => '114.119.162.58',
+                'updated_at' => '2023-03-11 19:49:18',
+            ),
+            384 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 20:56:36',
+                'id' => 10385,
+                'ip' => '66.249.71.196',
+                'updated_at' => '2023-03-11 20:56:36',
+            ),
+            385 => 
+            array (
+                'article_id' => 60,
+                'clicks' => 20,
+                'country' => NULL,
+                'created_at' => '2023-03-11 21:01:30',
+                'id' => 10386,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-16 00:16:21',
+            ),
+            386 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 22:21:41',
+                'id' => 10387,
+                'ip' => '66.249.66.11',
+                'updated_at' => '2023-03-11 22:21:41',
+            ),
+            387 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-11 22:29:20',
+                'id' => 10388,
+                'ip' => '47.92.73.218',
+                'updated_at' => '2023-03-11 22:29:20',
+            ),
+            388 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-11 23:39:15',
+                'id' => 10389,
+                'ip' => '47.92.78.102',
+                'updated_at' => '2023-03-15 22:20:25',
+            ),
+            389 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 00:29:59',
+                'id' => 10390,
+                'ip' => '114.119.131.218',
+                'updated_at' => '2023-03-12 00:29:59',
+            ),
+            390 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 04:04:44',
+                'id' => 10391,
+                'ip' => '66.249.71.97',
+                'updated_at' => '2023-03-12 04:04:44',
+            ),
+            391 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 11:26:40',
+                'id' => 10392,
+                'ip' => '66.249.71.97',
+                'updated_at' => '2023-03-12 11:26:40',
+            ),
+            392 => 
+            array (
+                'article_id' => 11,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 11:36:45',
+                'id' => 10393,
+                'ip' => '114.119.130.99',
+                'updated_at' => '2023-03-12 11:36:45',
+            ),
+            393 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 11:58:21',
+                'id' => 10394,
+                'ip' => '34.222.49.132',
+                'updated_at' => '2023-03-12 11:58:21',
+            ),
+            394 => 
+            array (
+                'article_id' => 19,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 20:27:34',
+                'id' => 10395,
+                'ip' => '114.119.133.191',
+                'updated_at' => '2023-03-12 20:27:34',
+            ),
+            395 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 21:59:42',
+                'id' => 10396,
+                'ip' => '114.119.128.34',
+                'updated_at' => '2023-03-12 21:59:42',
+            ),
+            396 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 22:18:37',
+                'id' => 10397,
+                'ip' => '47.92.71.160',
+                'updated_at' => '2023-03-12 22:18:37',
+            ),
+            397 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 22:18:37',
+                'id' => 10398,
+                'ip' => '47.92.71.160',
+                'updated_at' => '2023-03-12 22:18:37',
+            ),
+            398 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 22:22:12',
+                'id' => 10399,
+                'ip' => '47.92.79.71',
+                'updated_at' => '2023-03-12 22:22:12',
+            ),
+            399 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-12 22:22:12',
+                'id' => 10400,
+                'ip' => '47.92.68.55',
+                'updated_at' => '2023-03-12 22:22:12',
+            ),
+            400 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-13 01:33:26',
+                'id' => 10401,
+                'ip' => '114.119.137.193',
+                'updated_at' => '2023-03-13 01:33:26',
+            ),
+            401 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-13 05:48:17',
+                'id' => 10402,
+                'ip' => '114.119.155.200',
+                'updated_at' => '2023-03-13 05:48:17',
+            ),
+            402 => 
+            array (
+                'article_id' => 14,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-13 07:07:14',
+                'id' => 10403,
+                'ip' => '114.119.130.152',
+                'updated_at' => '2023-03-13 07:07:14',
+            ),
+            403 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-13 10:40:52',
+                'id' => 10404,
+                'ip' => '66.249.66.88',
+                'updated_at' => '2023-03-13 10:40:52',
+            ),
+            404 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-13 10:45:40',
+                'id' => 10405,
+                'ip' => '66.249.71.149',
+                'updated_at' => '2023-03-13 10:45:40',
+            ),
+            405 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 3,
+                'country' => NULL,
+                'created_at' => '2023-03-13 12:03:23',
+                'id' => 10406,
+                'ip' => '221.234.129.202',
+                'updated_at' => '2023-03-13 12:54:03',
+            ),
+            406 => 
+            array (
+                'article_id' => 61,
+                'clicks' => 4,
+                'country' => NULL,
+                'created_at' => '2023-03-13 12:23:09',
+                'id' => 10407,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-17 00:46:55',
+            ),
+            407 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-13 13:32:02',
+                'id' => 10408,
+                'ip' => '43.201.53.154',
+                'updated_at' => '2023-03-13 13:32:30',
+            ),
+            408 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-13 22:33:07',
+                'id' => 10409,
+                'ip' => '47.92.77.114',
+                'updated_at' => '2023-03-13 22:33:07',
+            ),
+            409 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 09:59:05',
+                'id' => 10410,
+                'ip' => '66.249.71.149',
+                'updated_at' => '2023-03-14 09:59:05',
+            ),
+            410 => 
+            array (
+                'article_id' => 9,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 11:04:40',
+                'id' => 10411,
+                'ip' => '213.180.203.32',
+                'updated_at' => '2023-03-14 11:04:40',
+            ),
+            411 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 12:59:33',
+                'id' => 10412,
+                'ip' => '114.119.145.47',
+                'updated_at' => '2023-03-14 12:59:33',
+            ),
+            412 => 
+            array (
+                'article_id' => 62,
+                'clicks' => 7,
+                'country' => NULL,
+                'created_at' => '2023-03-14 13:55:43',
+                'id' => 10413,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-17 12:20:43',
+            ),
+            413 => 
+            array (
+                'article_id' => 18,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 15:44:37',
+                'id' => 10414,
+                'ip' => '66.249.68.83',
+                'updated_at' => '2023-03-14 15:44:37',
+            ),
+            414 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 17:55:19',
+                'id' => 10415,
+                'ip' => '183.54.206.129',
+                'updated_at' => '2023-03-14 17:55:19',
+            ),
+            415 => 
+            array (
+                'article_id' => 55,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 18:11:58',
+                'id' => 10416,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 18:11:58',
+            ),
+            416 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 18:12:09',
+                'id' => 10417,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 18:12:09',
+            ),
+            417 => 
+            array (
+                'article_id' => 58,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 18:12:15',
+                'id' => 10418,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 18:12:15',
+            ),
+            418 => 
+            array (
+                'article_id' => 33,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 18:12:50',
+                'id' => 10419,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 18:12:50',
+            ),
+            419 => 
+            array (
+                'article_id' => 47,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 18:13:30',
+                'id' => 10420,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 18:13:30',
+            ),
+            420 => 
+            array (
+                'article_id' => 56,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 19:57:49',
+                'id' => 10421,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 19:57:49',
+            ),
+            421 => 
+            array (
+                'article_id' => 12,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 19:57:51',
+                'id' => 10422,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 19:57:51',
+            ),
+            422 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 21:50:12',
+                'id' => 10423,
+                'ip' => '66.249.79.183',
+                'updated_at' => '2023-03-14 21:50:12',
+            ),
+            423 => 
+            array (
+                'article_id' => 63,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 23:19:13',
+                'id' => 10424,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 23:19:13',
+            ),
+            424 => 
+            array (
+                'article_id' => 59,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-14 23:24:05',
+                'id' => 10425,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-14 23:24:05',
+            ),
+            425 => 
+            array (
+                'article_id' => 4,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 00:46:34',
+                'id' => 10426,
+                'ip' => '213.180.203.133',
+                'updated_at' => '2023-03-15 00:46:34',
+            ),
+            426 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 01:16:53',
+                'id' => 10427,
+                'ip' => '183.251.119.86',
+                'updated_at' => '2023-03-15 01:16:53',
+            ),
+            427 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 04:15:47',
+                'id' => 10428,
+                'ip' => '47.92.37.1',
+                'updated_at' => '2023-03-15 04:15:47',
+            ),
+            428 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 04:59:36',
+                'id' => 10429,
+                'ip' => '47.92.73.109',
+                'updated_at' => '2023-03-15 04:59:36',
+            ),
+            429 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 04:59:38',
+                'id' => 10430,
+                'ip' => '47.92.73.109',
+                'updated_at' => '2023-03-15 04:59:38',
+            ),
+            430 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 11:51:15',
+                'id' => 10431,
+                'ip' => '66.249.64.33',
+                'updated_at' => '2023-03-15 11:51:15',
+            ),
+            431 => 
+            array (
+                'article_id' => 60,
+                'clicks' => 2,
+                'country' => NULL,
+                'created_at' => '2023-03-15 12:18:14',
+                'id' => 10432,
+                'ip' => '183.251.119.86',
+                'updated_at' => '2023-03-15 13:10:45',
+            ),
+            432 => 
+            array (
+                'article_id' => 46,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 13:09:28',
+                'id' => 10433,
+                'ip' => '183.251.119.86',
+                'updated_at' => '2023-03-15 13:09:28',
+            ),
+            433 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 15:22:19',
+                'id' => 10434,
+                'ip' => '208.44.123.150',
+                'updated_at' => '2023-03-15 15:22:19',
+            ),
+            434 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 16:29:43',
+                'id' => 10435,
+                'ip' => '114.119.136.215',
+                'updated_at' => '2023-03-15 16:29:43',
+            ),
+            435 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 17:19:24',
+                'id' => 10436,
+                'ip' => '120.230.190.190',
+                'updated_at' => '2023-03-15 17:19:24',
+            ),
+            436 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 17:56:19',
+                'id' => 10437,
+                'ip' => '114.119.136.221',
+                'updated_at' => '2023-03-15 17:56:19',
+            ),
+            437 => 
+            array (
+                'article_id' => 7,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 18:01:00',
+                'id' => 10438,
+                'ip' => '114.119.135.229',
+                'updated_at' => '2023-03-15 18:01:00',
+            ),
+            438 => 
+            array (
+                'article_id' => 4,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 18:02:24',
+                'id' => 10439,
+                'ip' => '114.119.142.85',
+                'updated_at' => '2023-03-15 18:02:24',
+            ),
+            439 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 18:05:51',
+                'id' => 10440,
+                'ip' => '114.119.147.237',
+                'updated_at' => '2023-03-15 18:05:51',
+            ),
+            440 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 18:34:28',
+                'id' => 10441,
+                'ip' => '66.249.71.213',
+                'updated_at' => '2023-03-15 18:34:28',
+            ),
+            441 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 21:07:27',
+                'id' => 10442,
+                'ip' => '66.249.73.26',
+                'updated_at' => '2023-03-15 21:07:27',
+            ),
+            442 => 
+            array (
+                'article_id' => 2,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 21:51:35',
+                'id' => 10443,
+                'ip' => '66.249.70.100',
+                'updated_at' => '2023-03-15 21:51:35',
+            ),
+            443 => 
+            array (
+                'article_id' => 60,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 22:20:24',
+                'id' => 10444,
+                'ip' => '47.92.36.178',
+                'updated_at' => '2023-03-15 22:20:24',
+            ),
+            444 => 
+            array (
+                'article_id' => 60,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-15 23:59:54',
+                'id' => 10445,
+                'ip' => '47.92.79.86',
+                'updated_at' => '2023-03-15 23:59:54',
+            ),
+            445 => 
+            array (
+                'article_id' => 50,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 00:19:29',
+                'id' => 10446,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-16 00:19:29',
+            ),
+            446 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 00:20:58',
+                'id' => 10447,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-16 00:20:58',
+            ),
+            447 => 
+            array (
+                'article_id' => 43,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 00:21:45',
+                'id' => 10448,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-16 00:21:45',
+            ),
+            448 => 
+            array (
+                'article_id' => 42,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 00:22:26',
+                'id' => 10449,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-16 00:22:26',
+            ),
+            449 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 00:22:52',
+                'id' => 10450,
+                'ip' => '103.176.152.3',
+                'updated_at' => '2023-03-16 00:22:52',
+            ),
+            450 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 05:38:36',
+                'id' => 10451,
+                'ip' => '66.249.73.83',
+                'updated_at' => '2023-03-16 05:38:36',
+            ),
+            451 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:23:45',
+                'id' => 10452,
+                'ip' => '114.119.155.223',
+                'updated_at' => '2023-03-16 10:23:45',
+            ),
+            452 => 
+            array (
+                'article_id' => 62,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:29:47',
+                'id' => 10453,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:29:47',
+            ),
+            453 => 
+            array (
+                'article_id' => 60,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:29:49',
+                'id' => 10454,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:29:49',
+            ),
+            454 => 
+            array (
+                'article_id' => 44,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:29:51',
+                'id' => 10455,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:29:51',
+            ),
+            455 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:29:54',
+                'id' => 10456,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:29:54',
+            ),
+            456 => 
+            array (
+                'article_id' => 41,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:29:56',
+                'id' => 10457,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:29:56',
+            ),
+            457 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:29:59',
+                'id' => 10458,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:29:59',
+            ),
+            458 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:01',
+                'id' => 10459,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:01',
+            ),
+            459 => 
+            array (
+                'article_id' => 32,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:04',
+                'id' => 10460,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:04',
+            ),
+            460 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:07',
+                'id' => 10461,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:07',
+            ),
+            461 => 
+            array (
+                'article_id' => 27,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:09',
+                'id' => 10462,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:09',
+            ),
+            462 => 
+            array (
+                'article_id' => 26,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:12',
+                'id' => 10463,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:12',
+            ),
+            463 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:14',
+                'id' => 10464,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:14',
+            ),
+            464 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:16',
+                'id' => 10465,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:16',
+            ),
+            465 => 
+            array (
+                'article_id' => 8,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:19',
+                'id' => 10466,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:19',
+            ),
+            466 => 
+            array (
+                'article_id' => 5,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:22',
+                'id' => 10467,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:22',
+            ),
+            467 => 
+            array (
+                'article_id' => 23,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:23',
+                'id' => 10468,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:23',
+            ),
+            468 => 
+            array (
+                'article_id' => 15,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:27',
+                'id' => 10469,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:27',
+            ),
+            469 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:32',
+                'id' => 10470,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:32',
+            ),
+            470 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:36',
+                'id' => 10471,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:36',
+            ),
+            471 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:30:38',
+                'id' => 10472,
+                'ip' => '151.80.195.44',
+                'updated_at' => '2023-03-16 10:30:38',
+            ),
+            472 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 10:48:55',
+                'id' => 10473,
+                'ip' => '103.156.184.81',
+                'updated_at' => '2023-03-16 10:48:55',
+            ),
+            473 => 
+            array (
+                'article_id' => 16,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 13:17:57',
+                'id' => 10474,
+                'ip' => '114.119.137.89',
+                'updated_at' => '2023-03-16 13:17:57',
+            ),
+            474 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 15:39:16',
+                'id' => 10475,
+                'ip' => '120.237.138.188',
+                'updated_at' => '2023-03-16 15:39:16',
+            ),
+            475 => 
+            array (
+                'article_id' => 13,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 16:20:10',
+                'id' => 10476,
+                'ip' => '114.119.130.213',
+                'updated_at' => '2023-03-16 16:20:10',
+            ),
+            476 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 17:08:25',
+                'id' => 10477,
+                'ip' => '114.119.130.255',
+                'updated_at' => '2023-03-16 17:08:25',
+            ),
+            477 => 
+            array (
+                'article_id' => 60,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 17:31:39',
+                'id' => 10478,
+                'ip' => '51.222.253.13',
+                'updated_at' => '2023-03-16 17:31:39',
+            ),
+            478 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 4,
+                'country' => NULL,
+                'created_at' => '2023-03-16 18:00:17',
+                'id' => 10479,
+                'ip' => '175.42.60.47',
+                'updated_at' => '2023-03-16 18:00:24',
+            ),
+            479 => 
+            array (
+                'article_id' => 10,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 18:00:24',
+                'id' => 10480,
+                'ip' => '103.142.140.138',
+                'updated_at' => '2023-03-16 18:00:24',
+            ),
+            480 => 
+            array (
+                'article_id' => 29,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 18:40:41',
+                'id' => 10481,
+                'ip' => '66.249.73.83',
+                'updated_at' => '2023-03-16 18:40:41',
+            ),
+            481 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 19:11:33',
+                'id' => 10482,
+                'ip' => '66.249.70.97',
+                'updated_at' => '2023-03-16 19:11:33',
+            ),
+            482 => 
+            array (
+                'article_id' => 62,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 19:14:32',
+                'id' => 10483,
+                'ip' => '51.222.253.10',
+                'updated_at' => '2023-03-16 19:14:32',
+            ),
+            483 => 
+            array (
+                'article_id' => 22,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 19:43:24',
+                'id' => 10484,
+                'ip' => '114.119.165.226',
+                'updated_at' => '2023-03-16 19:43:24',
+            ),
+            484 => 
+            array (
+                'article_id' => 28,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 20:41:32',
+                'id' => 10485,
+                'ip' => '66.249.66.2',
+                'updated_at' => '2023-03-16 20:41:32',
+            ),
+            485 => 
+            array (
+                'article_id' => 34,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 22:23:35',
+                'id' => 10486,
+                'ip' => '51.222.253.15',
+                'updated_at' => '2023-03-16 22:23:35',
+            ),
+            486 => 
+            array (
+                'article_id' => 60,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 22:32:08',
+                'id' => 10487,
+                'ip' => '8.142.42.74',
+                'updated_at' => '2023-03-16 22:32:08',
+            ),
+            487 => 
+            array (
+                'article_id' => 62,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 22:32:09',
+                'id' => 10488,
+                'ip' => '47.92.79.71',
+                'updated_at' => '2023-03-16 22:32:09',
+            ),
+            488 => 
+            array (
+                'article_id' => 60,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 23:14:16',
+                'id' => 10489,
+                'ip' => '47.92.72.15',
+                'updated_at' => '2023-03-16 23:14:16',
+            ),
+            489 => 
+            array (
+                'article_id' => 62,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-16 23:14:17',
+                'id' => 10490,
+                'ip' => '47.92.72.15',
+                'updated_at' => '2023-03-16 23:14:17',
+            ),
+            490 => 
+            array (
+                'article_id' => 40,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-17 02:20:37',
+                'id' => 10491,
+                'ip' => '66.249.66.41',
+                'updated_at' => '2023-03-17 02:20:37',
+            ),
+            491 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-17 03:05:37',
+                'id' => 10492,
+                'ip' => '66.249.66.42',
+                'updated_at' => '2023-03-17 03:05:37',
+            ),
+            492 => 
+            array (
+                'article_id' => 36,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-17 04:08:35',
+                'id' => 10493,
+                'ip' => '66.249.74.51',
+                'updated_at' => '2023-03-17 04:08:35',
+            ),
+            493 => 
+            array (
+                'article_id' => 20,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-17 08:20:36',
+                'id' => 10494,
+                'ip' => '66.249.66.2',
+                'updated_at' => '2023-03-17 08:20:36',
+            ),
+            494 => 
+            array (
+                'article_id' => 25,
+                'clicks' => 1,
+                'country' => NULL,
+                'created_at' => '2023-03-17 12:21:18',
+                'id' => 10495,
+                'ip' => '114.119.138.230',
+                'updated_at' => '2023-03-17 12:21:18',
             ),
         ));
         

@@ -17,3 +17,4 @@ _ide_helper.php
 /storage/oauth-private.key
 /storage/oauth-public.key
 /package-lock.json
+/public/docs

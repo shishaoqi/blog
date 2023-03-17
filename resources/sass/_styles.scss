@@ -463,7 +463,7 @@ i.large {
     }
     .media-body {
       .media-heading>a {
-        color: $wet-asphalt;
+        color: #2c3e50;
         font-size: 1.2rem;
         display: inline-block;
         font-weight: 400;
@@ -480,9 +480,9 @@ i.large {
       }
       .description {
         margin-top: .6em;
-        font-size: 1.1em;
+        font-size: 1.0em;
         line-height: 1.4em;
-        color: #34495e;
+        color: #2c3e50;
       }
       .extra {
         margin-top: 15px;
@@ -593,6 +593,7 @@ i.large {
 
 .list-group-item {
   border-color: #f9f9f9;
+  padding: 0.5rem 0.5rem;
 
   a {
     color: #18bc9c;

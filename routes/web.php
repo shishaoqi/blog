@@ -72,3 +72,6 @@ Route::group(['prefix' => 'dashboard', 'middleware' => ['auth', 'admin']], funct
 // Article
 Route::get('/', 'ArticleController@index');
 Route::get('{slug}', 'ArticleController@show');
+
+Route::get('/article/docs', 'ArticleController@getDocsAsset');
+Route::any('/article/docs/{asset}', 'ArticleController@getDocsAsset')->where('asset', '.*');

@@ -11,21 +11,24 @@
         <div class="collapse navbar-collapse" id="app-navbar-collapse">
             <!-- Left Side Of Navbar -->
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item"><a class="nav-link" href="{{ url('/') }}">{{ lang('Articles') }}</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{ url('discussion') }}">{{ lang('Discussions') }}</a></li>
+            {{--<li class="nav-item"><a class="nav-link" href="{{ url('/') }}">{{ lang('Articles') }}</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ url('discussion') }}">{{ lang('Discussions') }}</a></li>--}}
             </ul>
 
             <!-- Right Side Of Navbar -->
             <ul class="navbar-nav navbar-right">
                 <!-- Search Box -->
-                <form class="form-inline my-2 my-lg-0 search" role="search" method="get" action="{{ url('search') }}">
+                {{-- <form class="form-inline my-2 my-lg-0 search" role="search" method="get" action="{{ url('search') }}">
                   <input class="form-control mr-sm-2" type="search" name="q" placeholder="{{ lang('Search') }}" required>
-                </form>
+                </form> --}}
 
                 <!-- Authentication Links -->
                 @if (Auth::guest())
+                    {{--
                     <li class="nav-item"><a class="nav-link" href="{{ url('login') }}">{{ lang('Login') }}</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ url('register') }}">{{ lang('Register') }}</a></li>
+                    --}}
+                    <li class="nav-item"><a class="nav-link" href="{{ url('login') }}"><i class="fas fa-github"></i>github</a></li>
                 @else
                     <li class="nav-item notification">
                         <a class="nav-link" href="{{ url('user/notification') }}"><i class="fas fa-bell">

@@ -66,7 +66,7 @@
         <div class="form-group row">
           <label class="col-sm-2 col-form-label">{{ $t('form.datetime') }}</label>
           <div class="col-sm-10">
-            <date-picker :date="startTime" :option="option"></date-picker>
+            <date-picker v-model="article.published_time" type="datetime" format="YYYY-MM-DD HH:mm" placeholder="Select datetime"></date-picker>
           </div>
         </div>
         <div class="form-group row">
@@ -110,7 +110,8 @@
   import { default as SimpleMDE } from 'simplemde/dist/simplemde.min'
   import Multiselect from 'vue-multiselect'
   import { stack_error } from 'config/helper'
-  import DatePicker from 'vue-datepicker'
+  import DatePicker from 'vue2-datepicker';
+  import 'vue2-datepicker/index.css';
   import FineUploader from 'fine-uploader/lib/traditional'
   import emojione from 'emojione'
 
@@ -149,7 +150,6 @@
         }
         this.tags = this.article.tags.data
         this.simplemde.value(this.article.content)
-        this.startTime.time = this.article.published_time
       }
     },
     mounted () {
@@ -198,6 +198,11 @@
           toastr.error('Category and Tag must select one or more.')
           return
         }
+        console.log(this.article)
+        if (!this.article.published_at) {
+          toastr.error('publish_at is empty.')
+          return
+        }
 
         let tagIDs = []
         let url = 'article' + (this.article.id ? '/' + this.article.id : '')
@@ -207,7 +212,7 @@
           tagIDs[i] = this.tags[i].id
         }
 
-        this.article.published_at = this.startTime.time
+        this.article.published_at = this.article.published_time
         this.article.content = this.simplemde.value()
         this.article.category_id = this.selected.id
         if(this.chooseCollection){

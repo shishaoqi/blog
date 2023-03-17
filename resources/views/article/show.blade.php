@@ -3,23 +3,6 @@
 @section('title', $article->title)
 
 @section('content')
-{{--    @component('particals.jumbotron')--}}
-{{--        <h4>{{ $article->title }}</h4>--}}
-
-{{--        <h6>{{ $article->subtitle }}</h6>--}}
-
-{{--        <div class="header">--}}
-{{--            <i class="fas fa-user"></i>{{ $article->user->name ?? 'null' }}，--}}
-{{--            @if(count($article->tags))--}}
-{{--            <i class="fas fa-tags"></i>--}}
-{{--                @foreach($article->tags as $tag)--}}
-{{--                    <a href="{{ url('tag', ['tag' => $tag->tag]) }}">{{ $tag->tag }}</a>，--}}
-{{--                @endforeach--}}
-{{--            @endif--}}
-{{--            <i class="fas fa-clock"></i>{{ $article->published_at->diffForHumans() }}--}}
-{{--        </div>--}}
-{{--    @endcomponent--}}
-
     <div class="article container">
         @if(isset($article->page_image))
         <div class="row text-center">
@@ -49,6 +32,7 @@
 
                 @if($article->is_original)
                 @endif
+                
                 @if(config('blog.social_share.article_share'))
                 <div class="footing">
                     <div class="social-share"

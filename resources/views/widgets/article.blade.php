@@ -19,22 +19,25 @@
                                 {{--<span class="cinema">{{ $article->subtitle }}</span>--}}
                             </div>
                             <div class="description">
+                                @if(empty($article->meta_description))
+                                <parse content="{{ Str::limit(preg_replace("/(#){1,4}/", '', $article->content['raw']), 396, '...') }}"></parse>
+                                @else
                                 {{ $article->meta_description }}
+                                @endif
                             </div>
                             <div class="extra">
-                                @foreach($article->tags as $tag)
-                                    <a href="{{ url('tag', ['tag' => $tag->tag]) }}">
-                                        <div class="label"><i class="fas fa-tag"></i>{{ $tag->tag }}</div>
-                                    </a>
-                                @endforeach
-
                                 <div class="info">
-                                    <i class="fas fa-user"></i>{{ $article->user->name ?? 'null' }}&nbsp;,&nbsp;
+                                    <i class="fas fa-tags"></i>
+                                    @foreach($article->tags as $tag)
+                                    <a href="{{ url('tag', ['tag' => $tag->tag]) }}">
+                                    {{ $tag->tag }},&nbsp;
+                                    </a>
+                                    @endforeach
                                     <i class="fas fa-clock"></i>{{ $article->published_at->diffForHumans() }}&nbsp;,&nbsp;
                                     <i class="fas fa-eye"></i>{{ $article->view_count }}
-                                    <i class="fas fa-comments"></i>{{ $article->comments->count() }}
+                                    <!-- <i class="fas fa-comments"></i>{{ $article->comments->count() }} -->
                                     <a href="{{ url($article->slug) }}" class="float-right">
-                                        Read More <i class="fas fa-chevron-right"></i>
+                                        阅读 <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </div>
                             </div>

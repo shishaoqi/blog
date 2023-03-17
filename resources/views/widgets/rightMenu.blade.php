@@ -1,5 +1,5 @@
 <div class="col-md-4" style="padding: 0;">
-    <div class="col-md-12">
+    <div class="col-md-12" style="padding-left: 10px; padding-right:15px">
         <!-- Blog Search Well -->
         <div class="well" style="background-color:#ffffff;">
             <h5 style="color: #34495e;">博文搜索</h5>

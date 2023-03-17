@@ -16,7 +16,7 @@ export default {
   components: { ArticleForm },
   data() {
     return {
-      article: undefined
+      article: undefined,
     }
   },
   created() {

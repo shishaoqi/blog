@@ -136,8 +136,6 @@ class Article extends Model
     /**
      * checkAuth
      *
-     * @author Huiwang <905130909@qq.com>
-     *
      * @param $query
      * @return mixed
      */

@@ -26,9 +26,7 @@ class Visitor extends Model
     }
 
     /**
-     * 记录访问记录.
-     *
-     * @author Huiwang <905130909@qq.com>
+     * 记录访问记录
      *
      * @param $articleId
      * @param $ip

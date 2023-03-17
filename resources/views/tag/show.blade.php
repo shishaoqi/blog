@@ -9,7 +9,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div style="width:700px; margin:0 auto;">
                 <div class="card card-default">
                     <div class="card-header">{{ lang('For Articles') }} ( {{ $articles->count() }} )</div>
                     <ul class="list-group list-group-flush">
@@ -24,7 +24,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-md-6">
+            <!-- <div class="col-md-6">
                 <div class="card card-default">
                     <div class="card-header">{{ lang('For Discussions') }} ( {{ $discussions->count() }} )</div>
                     <ul class="list-group list-group-flush">
@@ -38,7 +38,7 @@
                         @endforelse
                     </ul>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 @endsection

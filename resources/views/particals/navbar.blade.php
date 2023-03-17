@@ -28,7 +28,7 @@
                     <li class="nav-item"><a class="nav-link" href="{{ url('login') }}">{{ lang('Login') }}</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ url('register') }}">{{ lang('Register') }}</a></li>
                     --}}
-                    <li class="nav-item"><a class="nav-link" href="{{ url('login') }}"><i class="fas fa-github"></i>github</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://github.com/shishaoqi"><i class="fab fa-github"></i></a></li>
                 @else
                     <li class="nav-item notification">
                         <a class="nav-link" href="{{ url('user/notification') }}"><i class="fas fa-bell">

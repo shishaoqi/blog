@@ -46,7 +46,7 @@ return [
     'article' => [
         'title'       => 'Programming just for fun',
         'description' => 'http://www.shishao.site',
-        'number'      => 15,
+        'number'      => 11,
         'sort'        => 'desc',
         'sortColumn'  => 'published_at',
     ],

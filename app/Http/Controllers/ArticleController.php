@@ -52,12 +52,7 @@ class ArticleController extends Controller
 
         // 增加条件
         $key = $ip . '_' . $article->id;
-<<<<<<< HEAD
-        $e = Cache::has($key);
         if (!$isUser && !Cache::has($key)) {
-=======
-        if (!$isUser && Cache::has($key)) {
->>>>>>> 6a41eb6a55848f72196d0eeee158d8d17229f687
             $article->increment('view_count');
             Cache::put($key, time(), 86400);
         }

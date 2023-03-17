@@ -51,9 +51,11 @@ class ArticleController extends Controller
         }
 
         // 增加条件
-        if (!$isUser && Cache::has($ip)) {
+        $key = $ip . '_' . $article->id;
+        $e = Cache::has($key);
+        if (!$isUser && !Cache::has($key)) {
             $article->increment('view_count');
-            Cache::put($ip, time(), 86400);
+            Cache::put($key, time(), 86400);
         }
 
         return view('article.show', compact('article'));

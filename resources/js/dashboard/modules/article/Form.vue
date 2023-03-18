@@ -198,11 +198,6 @@
           toastr.error('Category and Tag must select one or more.')
           return
         }
-        console.log(this.article)
-        if (!this.article.published_at) {
-          toastr.error('publish_at is empty.')
-          return
-        }
 
         let tagIDs = []
         let url = 'article' + (this.article.id ? '/' + this.article.id : '')

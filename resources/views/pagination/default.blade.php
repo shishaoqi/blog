@@ -1,6 +1,6 @@
 @if ($paginator->hasPages())
 <div class="text-center">
-    <div class="pagination pagination-minimal">
+    <div class="pagination pagination-minimal" style="margin-top: 25px;">
         <ul>
             {{-- Previous Page Link --}}
             @if ($paginator->onFirstPage())

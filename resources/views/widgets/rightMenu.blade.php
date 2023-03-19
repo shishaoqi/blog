@@ -83,7 +83,7 @@
             <h5 style="color: #34495e;">标签</h5>
             <div class="row">
                 <div class="col-lg-12">
-                    <div id="demo" style="width: 250px; height: 450px;"></div>
+                    <div id="demo" style="height: 450px;"></div>
                 </div>
             </div>
             <!-- /.row -->

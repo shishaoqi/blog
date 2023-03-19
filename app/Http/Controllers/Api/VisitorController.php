@@ -10,8 +10,6 @@ class VisitorController extends ApiController
     /**
      * Display a listing of the resource.
      *
-     * @author Huiwang <905130909@qq.com>
-     *
      * @param Request $request
      *
      * @return \Illuminate\Http\JsonResponse
